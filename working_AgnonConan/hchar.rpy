@@ -44812,31 +44812,31 @@ translate german PA_HC_EV40_1d1cbc18:
 translate german PA_HC_EV40_4aadf5d6:
 
     # mc "Me gusta mi nuevo trabajo de productor."
-    mc ""
+    mc "Ich mag meinen neuen Job als Produzent."
 
 # game/hchar.rpy:15755
 translate german PA_HC_EV40_9e2d7bdc:
 
     # ca "Deberíamos volver al [restaurant]."
-    ca ""
+    ca "Wir sollten wieder ins [restaurant] gehen."
 
 # game/hchar.rpy:15757
 translate german PA_HC_EV40_a13f463e:
 
     # ca "Me siento agotada después de tanto alboroto."
-    ca ""
+    ca "Ich bin total fertig nach dem ganzen Theater."
 
 # game/hchar.rpy:15759
 translate german PA_HC_EV40_25d7ef50:
 
     # mc "Nos merecemos un descanso para prepararnos para lo que viene."
-    mc ""
+    mc "Wir haben uns eine Pause verdient, um uns auf das vorzubereiten, was kommt."
 
 # game/hchar.rpy:15764
 translate german PA_HC_EV40_b5b7dceb:
 
     # "<Regresas al [restaurant] en compañía de Charlotte, mientras intercambian algunas ideas para algunos capítulos.>"
-    ""
+    "<Du kehrst in Begleitung von Charlotte ins [restaurant] zurück, während ihr euch über einige Kapitel austauscht.>"
 
 # game/hchar.rpy:15786
 translate german PA_HC_EV41_48d6fc56:
