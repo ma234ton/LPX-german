@@ -9058,7 +9058,7 @@ translate german christmas_shogukuni_08_e6c8e71a:
 translate german christmas_shogukuni_08_3c053c53:
 
     # shi "Solo veía a Yui como una barrera que debía destrozar para estar donde quería estar."
-    shi "Ich sah Yui nur als Hindernis, das ich überwinden musste, um dahin zu gelangen, wo ich hinwollte."
+    shi "Ich sah Yui nur als ein Hindernis, das ich überwinden musste, um dahin zu gelangen, wo ich hinwollte."
 
 # game/christmas.rpy:2764
 translate german christmas_shogukuni_08_bccba2ce:
