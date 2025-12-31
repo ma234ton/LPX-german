@@ -4,447 +4,447 @@ translate german strings:
 
     # game/script/character_profiles.rpy:39
     old "{color=#FFFFFF}{size=40}Historia"
-    new ""
+    new "{color=#FFFFFF}{size=40}Geschichte"
 
     # game/script/character_profiles.rpy:63
     old "{size=20}Progresión"
-    new ""
+    new "{size=20}Fortschritt"
 
     # game/script/character_profiles.rpy:66
     old "{size=58}[avanceprim]"
-    new ""
+    new "{size=58}[avanceprim]"
 
     # game/script/character_profiles.rpy:73
     old "{size=18}Amor"
-    new ""
+    new "{size=18}Liebe"
 
     # game/script/character_profiles.rpy:79
     old "{size=18}Lujuría"
-    new ""
+    new "{size=18}Lust"
 
     # game/script/character_profiles.rpy:89
     old "{size=24}\n   Prim es la hermana menor de mi mejor amigo Anton y nos conocemos desde hace años."
-    new ""
+    new "{size=24}\n   Prim ist die jüngere Schwester meines besten Freundes Anton. Wir kennen uns schon seit Jahren."
 
     # game/script/character_profiles.rpy:90
     old "{size=24}\n   Siempre se ha preocupado por los demás y mira el lado positivo a cualquier situación, acompañando su amabilidad con una cariñosa y tierna sonrisa."
-    new ""
+    new "{size=24}\n   Sie hat sich immer um andere gekümmert und sieht in jeder Situation die positiven Seiten. Ihre Freundlichkeit wird von einem liebevollen und sanften Lächeln begleitet."
 
     # game/script/character_profiles.rpy:92
     old "{size=24}\n   Lamentablemente está enamorada de mi..."
-    new ""
+    new "{size=24}\n   Leider ist sie in mich verliebt..."
 
     # game/script/character_profiles.rpy:94
     old "{size=24}\n   Me gustaría poder llevar a Prim a la ciudad para que participe de algún torneo de videojuegos. Estoy completamente seguro que será una experiencia inolvidable para ella."
-    new ""
+    new "{size=24}\n   Ich würde Prim gerne mit in die Stadt nehmen, um an einem Videospiel-Turnier teilzunehmen. Ich bin mir absolut sicher, dass es ein unvergessliches Erlebnis für sie sein wird."
 
     # game/script/character_profiles.rpy:96
     old "{size=24}\n   Tiene un mal presentimiento desde que se despidió de Anton por última vez..."
-    new ""
+    new "{size=24}\n   Seit dem letzten Abschied von Anton hat sie ein schlechtes Gefühl..."
 
     # game/script/character_profiles.rpy:98
     old "{size=24}\n   Creo que he aprendido a apreciar a Prim mucho más que antes. Tiene miedo de que abandone este lugar y la deje a sola, pero algo como eso no está en mis planes... Por ahora..."
-    new ""
+    new "{size=24}\n   Ich glaube, ich habe Prim viel mehr zu schätzen gelernt als früher. Sie hat Angst, dass ich diesen Ort verlasse und sie allein lasse... aber so etwas habe ich momentan nicht vor."
 
     # game/script/character_profiles.rpy:100
     old "{size=24}\n   He hecho el amor con Prim y no puedo evitar sentirme culpable."
-    new ""
+    new "{size=24}\n   Ich habe mit Prim geschlafen und fühle mich deswegen schuldig."
 
     # game/script/character_profiles.rpy:102
     old "{size=24}\n   Prim se pondrá muy feliz si logro conseguir algunas fresas Maurinne."
-    new ""
+    new "{size=24}\n   Prim wird sich sehr freuen, wenn ich ihr ein paar Maurinne-Erdbeeren besorgen kann."
 
     # game/script/character_profiles.rpy:104
     old "{size=24}\n   Dice estar sufriendo de algunos temblores en las manos... Espero que no se trate de alguna enfermedad degenerativa..."
-    new ""
+    new "{size=24}\n   Sie sagt, sie leidet unter Zittern in den Händen... Ich hoffe, es handelt sich nicht um eine degenerative Krankheit..."
 
     # game/script/character_profiles.rpy:106
     old "{size=24}\n   Todos los miembros de la familia Barrie han sufrido de los temblores y la única cura conocida son las fresas Maurinne."
-    new ""
+    new "{size=24}\n   Alle Mitglieder der Familie Barrie litten unter dem Zittern, und das einzige bekannte Heilmittel sind die Maurinne-Erdbeeren."
 
     # game/script/character_profiles.rpy:108
     old "{size=24}\n   Prim se siente triste por enterarse de que su madre y hermano sufrían de temblores agresivos en sus manos, mientras que su padre era el único que conocía el secreto para cultivar las fresas."
-    new ""
+    new "{size=24}\n   Prim ist traurig, als sie erfährt, dass ihre Mutter und ihr Bruder an aggressivem Handzittern geleidet haben, während ihr Vater der Einzige war, der das Geheimnis des Erdbeeranbaus kannte."
 
     # game/script/character_profiles.rpy:115
     old "{size=28}Debo ayudar con el trabajo en el restaurant."
-    new ""
+    new "{size=28}Ich muss bei der Arbeit im Restaurant helfen."
 
     # game/script/character_profiles.rpy:117
     old "{size=28}Deberia ir a su habitacion al Atardecer."
-    new ""
+    new "{size=28}Ich sollte abends zu ihrem Zimmer gehen."
 
     # game/script/character_profiles.rpy:119
     old "{size=28}Deberia ir a su habitacion al Mediodia."
-    new ""
+    new "{size=28}Ich sollte mittags zu ihrem Zimmer gehen."
 
     # game/script/character_profiles.rpy:121
     old "{size=28}No tengo nada en mente, debería esperar."
-    new ""
+    new "{size=28}Ich habe nichts zu tun, ich sollte abwarten."
 
     # game/script/character_profiles.rpy:123
     old "{size=28}No tengo nada en mente... Debería esperar."
-    new ""
+    new "{size=28}Ich habe nichts im Sinn... Ich sollte abwarten."
 
     # game/script/character_profiles.rpy:125
     old "{size=28}Debería practicar mi Carisma con ayuda de Prim al Atardecer."
-    new ""
+    new "{size=28}Ich sollte abends mit Prim mein Charisma üben."
 
     # game/script/character_profiles.rpy:127
     old "{size=28}Podría ir a su habitacion al mediodía."
-    new ""
+    new "{size=28}Ich könnte mittags zu ihrem Zimmer gehen."
 
     # game/script/character_profiles.rpy:131
     old "{size=28}Prim ha estado distraída y más cansada de lo normal (Esperar)."
-    new ""
+    new "{size=28}Prim war abgelenkt und müder als sonst (Abwarten)."
 
     # game/script/character_profiles.rpy:133
     old "{size=28}Prim ha estado pensativa... Espero que no sean malas noticias (Esperar)."
-    new ""
+    new "{size=28}Prim war nachdenklich... Ich hoffe, es sind keine schlechten Nachrichten (Abwarten)."
 
     # game/script/character_profiles.rpy:135
     old "{size=28}Debería trabajar de mesero para poder ayudar a Prim."
-    new ""
+    new "{size=28}Ich sollte als Kellner arbeiten um Prim zu helfen."
 
     # game/script/character_profiles.rpy:139
     old "{size=28}Voy a hablar con Prim después de la jornada de trabajo."
-    new ""
+    new "{size=28}Ich werde nach der Arbeit mit Prim sprechen."
 
     # game/script/character_profiles.rpy:141
     old "{size=28}He notado a Prim triste por alguna razón (Esperar)."
-    new ""
+    new "{size=28}Ich habe bemerkt, dass Prim aus irgendeinem Grund traurig ist (Abwarten)."
 
     # game/script/character_profiles.rpy:143
     old "{size=28}Debería ir a su habitación durante el atardecer para salir de pícnic con Prim."
-    new ""
+    new "{size=28}Ich sollte abends zu ihrem Zimmer gehen, um mit Prim ein Picknick zu machen."
 
     # game/script/character_profiles.rpy:151
     old "{size=28}Podríamos tomar un baño juntos (Mañana)."
-    new ""
+    new "{size=28}Wir könnten zusammen ein Bad nehmen (Morgens)."
 
     # game/script/character_profiles.rpy:159
     old "{size=28}Debería ir a su habitación durante la Noche."
-    new ""
+    new "{size=28}}Ich sollte nachts zu ihrem Zimmer gehen"
 
     # game/script/character_profiles.rpy:161
     old "{size=28}Estoy seguro de que algo sucede con ella (Esperar)."
-    new ""
+    new "{size=28}Ich bin mir sicher, dass etwas mit ihr los ist (Abwarten)."
 
     # game/script/character_profiles.rpy:171
     old "{size=28}Debería visitar a Iris durante la Mañana o el Mediodía."
-    new ""
+    new "{size=28}Ich sollte Iris am Morgen oder am Mittag besuchen."
 
     # game/script/character_profiles.rpy:177
     old "{size=28}Debería ir al Museo de Argleton durante el Mediodía/Atardecer."
-    new ""
+    new "{size=28}Ich sollte am Mittag/Abend ins Argleton Museum gehen."
 
     # game/script/character_profiles.rpy:179
     old "{size=28}Debería hablar con Prim durante el Mediodía para ir a los Archivos."
-    new ""
+    new "{size=28}Ich sollte mittags mit Prim sprechen, um ins Archiv zu gehen."
 
     # game/script/character_profiles.rpy:183
     old "{size=28}Debería hablar con Prim durante el Mediodía."
-    new ""
+    new "{size=28}Ich sollte mittags mit Prim sprechen."
 
     # game/script/character_profiles.rpy:185
     old "{size=28}En Contrucción: \n\nNuevos eventos disponibles en el futuro."
-    new ""
+    new "{size=28}In Entwicklung: \n\nNeue Events werden in Zukunft verfügbar sein."
 
     # game/script/character_profiles.rpy:191
     old "{size=32}Edad: ??"
-    new ""
+    new "{size=32}Alter: ??"
 
     # game/script/character_profiles.rpy:193
     old "{size=32}Cumpleaños: ??"
-    new ""
+    new "{size=32}Geburtstag: ??"
 
     # game/script/character_profiles.rpy:196
     old "{size=32}Edad: [edadprim]"
-    new ""
+    new "{size=32}Edad: [edadprim]"
 
     # game/script/character_profiles.rpy:198
     old "{size=32}Marzo: 6"
-    new ""
+    new "{size=32}März: 6"
 
     # game/script/character_profiles.rpy:202
     old "{size=32}Altura: ??"
-    new ""
+    new "{size=32}Höhe: ??"
 
     # game/script/character_profiles.rpy:204
     old "{size=32}Peso: ??"
-    new ""
+    new "{size=32}Gewicht: ??"
 
     # game/script/character_profiles.rpy:208
     old "{size=32}Altura: 150 cm"
-    new ""
+    new "{size=32}Höhe: 150 cm"
 
     # game/script/character_profiles.rpy:210
     old "{size=32}Peso: 50 kg"
-    new ""
+    new "{size=32}Gewicht: 50 kg"
 
     # game/script/character_profiles.rpy:213
     old "{size=32}Altura: 5'"
-    new ""
+    new "{size=32}Höhe: 5'"
 
     # game/script/character_profiles.rpy:215
     old "{size=32}Peso: 110 lb"
-    new ""
+    new "{size=32}Gewicht: 110 lb"
 
     # game/script/character_profiles.rpy:219
     old "{size=32}Pecho:"
-    new ""
+    new "{size=32}Brust:"
 
     # game/script/character_profiles.rpy:222
     old "{size=32}Cintura:"
-    new ""
+    new "{size=32}Taille:"
 
     # game/script/character_profiles.rpy:225
     old "{size=32}Cadera:"
-    new ""
+    new "{size=32}Hüfte:"
 
     # game/script/character_profiles.rpy:230
     old "{size=32}??"
-    new ""
+    new "{size=32}??"
 
     # game/script/character_profiles.rpy:241
     old "{size=32}124"
-    new ""
+    new "{size=32}124"
 
     # game/script/character_profiles.rpy:244
     old "{size=32}58"
-    new ""
+    new "{size=32}58"
 
     # game/script/character_profiles.rpy:247
     old "{size=32}82"
-    new ""
+    new "{size=32}82"
 
     # game/script/character_profiles.rpy:251
     old "{size=32}49"
-    new ""
+    new "{size=32}49"
 
     # game/script/character_profiles.rpy:254
     old "{size=32}23"
-    new ""
+    new "{size=32}23"
 
     # game/script/character_profiles.rpy:257
     old "{size=32}32"
-    new ""
+    new "{size=32}32"
 
     # game/script/character_profiles.rpy:320
     old "{size=32}Eventos"
-    new ""
+    new "{size=32}Events"
 
     # game/script/character_profiles.rpy:323
     old "{size=32}Ventajas"
-    new ""
+    new "{size=32}Vorteile"
 
     # game/script/character_profiles.rpy:326
     old "{size=32}Trajes"
-    new ""
+    new "{size=32}Anzüge"
 
     # game/script/character_profiles.rpy:343
     old "{size=26}{color=#7c7a7c}Bloqueado"
-    new ""
+    new "{size=26}{color=#7c7a7c}Gesperrt"
 
     # game/script/character_profiles.rpy:344
     old "{size=20}Debo progresar en la historia principal de Prim."
-    new ""
+    new "{size=20}Ich muss Prims Hauptgeschichte fortsetzen."
 
     # game/script/character_profiles.rpy:352
     old "{size=26}{color=#ef8788}Conversar: {color=#21961a}Evento Disponible"
-    new ""
+    new "{size=26}{color=#ef8788}Sprechen: {color=#21961a}Event verfügbar"
 
     # game/script/character_profiles.rpy:353
     old "{size=20}Puedo conversar con Prim en su habitación durante el mediodía y atardecer."
-    new ""
+    new "{size=20}Ich kann mittags und abends mit Prim in ihrem Zimmer sprechen."
 
     # game/script/character_profiles.rpy:357
     old "{size=26}{color=#ef8788}Conversar: {color=#d71c1c}Evento no Disponible"
-    new ""
+    new "{size=26}{color=#ef8788}Sprechen: {color=#d71c1c}Event nicht verfügbar"
 
     # game/script/character_profiles.rpy:365
     old "{size=26}{color=#ef8788}Conversar: {color=#ffffff}En construcción..."
-    new ""
+    new "{size=26}{color=#ef8788}Sprechen: {color=#ffffff}In Entwicklung..."
 
     # game/script/character_profiles.rpy:384
     old "{size=26}{color=#ffb709}Practica: {color=#21961a}Evento Disponible"
-    new ""
+    new "{size=26}{color=#ffb709}Übung: {color=#21961a}Event verfügbar"
 
     # game/script/character_profiles.rpy:385
     old "{size=20}Puedo practicar carisma con Prim en su habitación durante el atardecer."
-    new ""
+    new "{size=20}Ich kann mit Prim abends in ihrem Zimmer Charisma üben."
 
     # game/script/character_profiles.rpy:389
     old "{size=26}{color=#ffb709}Practica: {color=#d71c1c}Evento no Disponible"
-    new ""
+    new "{size=26}{color=#ffb709}Übung: {color=#d71c1c}Event nicht verfügbar"
 
     # game/script/character_profiles.rpy:397
     old "{size=26}{color=#ffb709}Practica: {color=#ffffff}En construcción..."
-    new ""
+    new "{size=26}{color=#ffb709}Übung: {color=#ffffff}In Entwicklung..."
 
     # game/script/character_profiles.rpy:416
     old "{size=26}{color=#af11ea}Apariencia: {color=#21961a}Evento Disponible"
-    new ""
+    new "{size=26}{color=#af11ea}Aussehen: {color=#21961a}Event verfügbar"
 
     # game/script/character_profiles.rpy:417
     old "{size=20}Puedo mejorar mi apariencia con la ayuda Prim en su habitación durante el mediodía o atardecer."
-    new ""
+    new "{size=20}Ich kann mittags oder abends mein Aussehen mit Prims Hilfe in ihrem Zimmer verbessern."
 
     # game/script/character_profiles.rpy:421
     old "{size=26}{color=#af11ea}Apariencia: {color=#d71c1c}Evento no Disponible"
-    new ""
+    new "{size=26}{color=#af11ea}Aussehen: {color=#d71c1c}Event nicht verfügbar"
 
     # game/script/character_profiles.rpy:429
     old "{size=26}{color=#af11ea}Apariencia: {color=#ffffff}En construcción..."
-    new ""
+    new "{size=26}{color=#af11ea}Aussehen: {color=#ffffff}In Entwicklung..."
 
     # game/script/character_profiles.rpy:430
     old "{size=20}Puedo mejorar mi apariencia con la ayuda Prim en su habitación durante el atardecer."
-    new ""
+    new "{size=20}Ich kann abends mein Aussehen mit Prims Hilfe in ihrem Zimmer verbessern."
 
     # game/script/character_profiles.rpy:439
     old "{size=26}{color=#dd36f6}Duchar: {color=#d71c1c}Evento no Disponible"
-    new ""
+    new "{size=26}{color=#dd36f6}Dusche: {color=#d71c1c}Event nicht verfügbar"
 
     # game/script/character_profiles.rpy:440
     old "{size=20}Prim suele ducharse durante la mañana."
-    new ""
+    new "{size=20}Prim duscht normalerweise am Morgen."
 
     # game/script/character_profiles.rpy:448
     old "{size=26}{color=#dd36f6}Ducha: {color=#21961a}Evento Disponible"
-    new ""
+    new "{size=26}{color=#dd36f6}Dusche: {color=#21961a}Event verfügbar"
 
     # game/script/character_profiles.rpy:449
     old "{size=20}Prim suele ducharse durante la mañana, podríamos ducharnos juntos."
-    new ""
+    new "{size=20}Prim duscht normalerweise am Morgen, wir könnten zusammen duschen."
 
     # game/script/character_profiles.rpy:453
     old "{size=26}{color=#dd36f6}Sexo en la Ducha: {color=#fbbd00}Repetible"
-    new ""
+    new "{size=26}{color=#dd36f6}Sex in der Dusche: {color=#fbbd00}Wiederholbar"
 
     # game/script/character_profiles.rpy:454
     old "{size=20}Prim suele ducharse durante la mañana, podríamos hacer algo más que solo ducharnos juntos."
-    new ""
+    new "{size=20}Prim duscht normalerweise morgens, wir könnten mehr tun als nur zusammen zu duschen."
 
     # game/script/character_profiles.rpy:458
     old "{size=26}{color=#dd36f6}Ducha: {color=#d71c1c}Evento no Disponible"
-    new ""
+    new "{size=26}{color=#dd36f6}Dusche: {color=#d71c1c}Event nicht verfügbar"
 
     # game/script/character_profiles.rpy:469
     old "{size=20}Debo realizar algunos proyectos en las Termas."
-    new ""
+    new "{size=20}Ich muss einige Projekte an den heißen Quellen durchführen."
 
     # game/script/character_profiles.rpy:477
     old "{size=26}{color=#dd36f6}Depravación: {color=#21961a}Evento Disponible"
-    new ""
+    new "{size=26}{color=#dd36f6}Perversion: {color=#21961a}Event verfügbar"
 
     # game/script/character_profiles.rpy:478
     old "{size=20}Podría dar una Poción de Crecimiento a Prim en las Termas."
-    new ""
+    new "{size=20}Ich könnte Prim an den heißen Quellen einen Wachstumstrank geben."
 
     # game/script/character_profiles.rpy:482
     old "{size=26}{color=#dd36f6}Depravación: {color=#d71c1c}Evento no Disponible"
-    new ""
+    new "{size=26}{color=#dd36f6}Perversion: {color=#d71c1c}Event nicht verfügbar"
 
     # game/script/character_profiles.rpy:483
     old "{size=20}Prim necesita más puntos de depravación (Corazones Violeta)."
-    new ""
+    new "{size=20}Prim braucht mehr Perversionspunkte (Lila Herzen)."
 
     # game/script/character_profiles.rpy:490
     old "{size=26}{color=#dd36f6}Depravación: {color=#ffffff}En construcción..."
-    new ""
+    new "{size=26}{color=#dd36f6}Perversion: {color=#ffffff}In Entwicklung..."
 
     # game/script/character_profiles.rpy:510
     old "{size=20}Podría dar una Poción de Reducción a Prim en las Termas."
-    new ""
+    new "{size=20}Ich könnte Prim an den heißen Quellen einen Schrumpftrank geben."
 
     # game/script/character_profiles.rpy:533
     old "{size=20}Prim necesita más puntos de depravación (Corazones Violeta)"
-    new ""
+    new "{size=20}Prim braucht mehr Perversionspunkte (Lila Herzen)."
 
     # game/script/character_profiles.rpy:542
     old "{size=20}Comprar Revista en la tienda y dársela a Prim."
-    new ""
+    new "{size=20}Im Laden ein Magazin kaufen und es Prim geben."
 
     # game/script/character_profiles.rpy:547
     old "{size=20}Más eventos de depravación disponibles en el futuro."
-    new ""
+    new "{size=20}Mehr Perversions-Events in der Zukunft verfügbar."
 
     # game/script/character_profiles.rpy:566
     old "Contenido en construcción."
-    new ""
+    new "Inhalt in Entwicklung."
 
     # game/script/character_profiles.rpy:567
     old "{size=24}Disponible en futuras actualizaciones."
-    new ""
+    new "{size=24}In zukünftigen Versionen verfügbar."
 
     # game/script/character_profiles.rpy:687
     old "{size=24}\n   Detalles desconocidos."
-    new ""
+    new "{size=24}\n   Unbekannte Details."
 
     # game/script/character_profiles.rpy:692
     old "{size=28}Alguien que es impredecible en su forma de comportarse."
-    new ""
+    new "{size=28}Jemand, der sich unvorhersehbar verhält."
 
     # game/script/character_profiles.rpy:703
     old "{size=32}Pecho: ??           Cintura: ??           Cadera: ??"
-    new ""
+    new "{size=32}Brust: ??           Taille: ??            Hüfte: ??"
 
     # game/script/character_profiles.rpy:758
     old "{size=58}[avancemaxy]"
-    new ""
+    new "{size=58}[avancemaxy]"
 
     # game/script/character_profiles.rpy:781
     old "{size=24}\n   Es una chica gótica con una actitud excéntrica."
-    new ""
+    new "{size=24}\n   Sie ist ein gothisches Mädchen mit einer außergewöhnlichen Persönlichkeit."
 
     # game/script/character_profiles.rpy:782
     old "{size=24}\n   No puedo negar que tiene una mirada hipnotizante y una voz cautivadora."
-    new ""
+    new "{size=24}\n   Maxy hat einen hypnotisierenden Blick und eine fesselnde Stimme."
 
     # game/script/character_profiles.rpy:784
     old "{size=24}\n   Maxy se mudará con nosotros una temporada, al menos hasta arreglar las cosas con su madre."
-    new ""
+    new "{size=24}\n   Maxy wird eine Zeit lang bei uns wohnen, zumindest bis sie die Probleme mit ihrer Mutter geregelt hat."
 
     # game/script/character_profiles.rpy:786
     old "{size=24}\n   A pesar de tener una imagen de chica desenfrenada en el exterior, en el fondo quiere ser de ayuda en este lugar y se preocupa por los sentimientos de Prim."
-    new ""
+    new "{size=24}\n   Trotz ihrer wilden äußeren Erscheinung möchte sie hier helfen und sorgt sich um Prims Gefühle."
 
     # game/script/character_profiles.rpy:788
     old "{size=24}\n   Hemos creado una banda de música independiente, creo que será divertido recordar mis tiempos de baterista en la academia Guilliman."
-    new ""
+    new "{size=24}\n   Wir haben eine Indie-Band gegründet, ich denke, es wird Spaß machen, mich an meine Zeit als Schlagzeuger an der Guilliman-Akademie zu erinnern."
 
     # game/script/character_profiles.rpy:790
     old "{size=24}\n   Maxy puede ser más perversa de lo que podía esperar, pero no creo que haga algo más extremo que amarrarme a la cama."
-    new ""
+    new "{size=24}\n   Maxy ist perverser als ich erwartet habe, aber ich glaube nicht, dass sie etwas Extremeres tun wird, als mich ans Bett zu fesseln."
 
     # game/script/character_profiles.rpy:792
     old "{size=24}\n   Se ha marchado de manera repentina y sin dar mayores explicaciones..."
-    new ""
+    new "{size=24}\n   Sie ist plötzlich gegangen, ohne weitere Erklärungen zu geben..."
 
     # game/script/character_profiles.rpy:794
     old "{size=24}\n   Maxy es víctima de alguna especie de fenómeno que no logro entender del todo, diría que es una doble personalidad, pero el alcalde y esa luz violeta dicen lo contrario."
-    new ""
+    new "{size=24}\n   Maxy ist Opfer eines Phänomens, das ich nicht ganz verstehe. Ich würde sagen, es ist eine gespaltene Persönlichkeit, aber der Bürgermeister und dieses violette Licht sagen das Gegenteil."
 
     # game/script/character_profiles.rpy:796
     old "{size=24}\n   Cuando pensaba que tenía un límite en el sexo... ¡Maxy me droga con unos Polvitos Magicos!"
-    new ""
+    new "{size=24}\n   Als ich dachte, wir hätten eine Grenze beim Sex... hat mich Maxy mit Zauberstaub betäubt!"
 
     # game/script/character_profiles.rpy:797
     old "{size=24}\n   A veces siento que está demasiado obsesionada con quedar embarazada..."
-    new ""
+    new "{size=24}\n   Ich habe das Gefühl, dass sie zu besessen ist, schwanger zu werden..."
 
     # game/script/character_profiles.rpy:799
     old "{size=24}\n   Por alguna razón he tenido dos visiones de Maxy... Del futuro y del pasado... Se han sentido tan reales... Espero no estar volviéndome loco..."
-    new ""
+    new "{size=24}\n   Aus irgendeinem Grund hatte ich zwei Visionen von Maxy... aus der Zukunft und der Vergangenheit... Sie fühlten sich so echt an... Ich hoffe, ich werde nicht verrückt..."
 
     # game/script/character_profiles.rpy:801
     old "{size=24}\n   Si tengo un hijo con Maxy entonces tendrá su misma condición, por alguna razón piensa que es importante debido a una advertencia de su padre."
-    new ""
+    new "{size=24}\n   Wenn ich ein Kind mit Maxy habe, wird es dieselbe Bedingung haben. Aufgrund einer Warnung ihres Vaters, denkt sie, dass es wichtig ist"
 
     # game/script/character_profiles.rpy:803
     old "{size=24}\n   El alcalde Johan me ha advertido sobre la aparición de alguien peligroso llamado el Visitante."
-    new ""
+    new "{size=24}\n   Bürgermeister Johan hat mich vor einer gefährlichen Person gewarnt; der Besucher."
 
     # game/script/character_profiles.rpy:804
     old "{size=24}\n   A mencionado que tanto a mí como a Maxy nos ha quitado una parte importante de nosotros, aunque aún desconozco el significado de sus palabras."
