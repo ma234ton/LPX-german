@@ -4,7 +4,7 @@ translate german strings:
 
     # game/script/gui_texts.rpy:11
     old "{size=36}Puedes acceder a tu {color=#f7b505}Perfil Social{/color} para ver información de otros personajes."
-    new "{size=36}Du kannst auf dein {color=#f7b505}Sozialprofil{/color} zugreifen, Informationen über andere Charaktere zu erhalten."
+    new "{size=36}Du kannst auf dein {color=#f7b505}Sozialprofil{/color} zugreifen, Informationen über andere Personen zu erhalten."
 
     # game/script/gui_texts.rpy:19
     old "{size=36}En tu {color=#f7b505}Perfil Personal{/color} puedes ver tu progreso o incluso cambiar tu nombre en cualquier momento."

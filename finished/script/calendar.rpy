@@ -64,23 +64,23 @@ translate german strings:
 
     # game/script/calendar.rpy:167
     old "{size=22}Conocer a Maxy y Layla en más profundidad me llevará a algo."
-    new "{size=22}Maxy und Layla besser kennen zu lernen wird auf etwas zuführen."
+    new "{size=22}Wenn ich Maxy und Layla besser kennenlerne, wird das zu etwas führen."
 
     # game/script/calendar.rpy:170
     old "{size=22}Mary podría ayudar a enfrentar al fantasma."
-    new "{size=22}Mary könnte den Gespenst bekämpfen."
+    new "{size=22}Mary könnte helfen, das Gespenst zu bekämpfen."
 
     # game/script/calendar.rpy:173
     old "{size=22}Podría ir al Miss Pumpkin durante el Mediodía."
-    new "{size=22}Ich könnte am Mittag zum miss Pumpkin gehen."
+    new "{size=22}Ich könnte am Mittag zum Miss Pumpkin gehen."
 
     # game/script/calendar.rpy:176
     old "{size=22}Con Ayuda de Maxy podremos hacer un traje para Layla."
-    new "{size=22}Mit Maxy's hilfe könnten wir ein kostüm für Layla basteln."
+    new "{size=22}Mit Maxys Hilfe könnten wir ein Kostüm für Layla basteln."
 
     # game/script/calendar.rpy:179
     old "{size=22}Necesito $1000 para ayudar a Layla con su nuevo traje."
-    new "{size=22}Ich brauche $1000 um Layla mit ihrem neuen Kostüm zu helfen."
+    new "{size=22}Ich brauche $1000, um Layla mit ihrem neuen Kostüm zu helfen."
 
     # game/script/calendar.rpy:185
     old "{size=22}Mes de cumpleaños de Iris."
@@ -96,11 +96,11 @@ translate german strings:
 
     # game/script/calendar.rpy:205
     old "{size=22}Debería visitar el patio exterior del Shogukuni durante el día."
-    new "{size=22}Ich sollte den Außenhof des Shogukuni tagsüber besuchen."
+    new "{size=22}Ich sollte tagsüber den Außenhof des Shogukuni besuchen."
 
     # game/script/calendar.rpy:208
     old "{size=22}Debería compra un traje de navidad para Yui en la tienda de Kamen Rainor."
-    new "{size=22}Ich sollte bei Kamen Rainor's Laden einen Weihnachtsanzug für Yui kaufen."
+    new "{size=22}Ich sollte bei Kamen Rainors Laden einen Weihnachtsanzug für Yui kaufen."
 
     # game/script/calendar.rpy:211
     old "{size=22}Debería entregar el traje de navidad a Yui durante la noche en mi habitación."
@@ -108,7 +108,7 @@ translate german strings:
 
     # game/script/calendar.rpy:214
     old "{size=22}Debería visitar el Shogukuni durante la noche."
-    new "{size=22}Ich sollte den Shogukuni in der Nacht besuchen."
+    new "{size=22}Ich sollte den Shogukuni Nachts besuchen."
 
     # game/script/calendar.rpy:224
     old "{size=22}Mes de cumpleaños de Sasha."
