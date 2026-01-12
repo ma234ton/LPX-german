@@ -44968,25 +44968,25 @@ translate german PA_HC_EV41_85c8cbad:
 translate german PA_HC_EV41_2dc56ac0:
 
     # ca "Mira [nombre], no sé cuáles sean tus metas de influencer..."
-    ca ""
+    ca "Schau mal, [nombre], ich weiss nicht, was deine Ziele als Influencer sind..."
 
 # game/hchar.rpy:15827
 translate german PA_HC_EV41_66135265:
 
     # ca "¡Pero recuerda que es una mentira!"
-    ca ""
+    ca "Aber denk daran, dass es eine Lüge ist!"
 
 # game/hchar.rpy:15829
 translate german PA_HC_EV41_15ed0e69:
 
     # mc "Como todos los actores, deben mentir a la cámara fingiendo ser alguien que no son."
-    mc ""
+    mc "Wie alle Schauspieler müssen wir vor der Kamera lügen, indem wir vorgeben, jemand zu sein, der wir nicht sind."
 
 # game/hchar.rpy:15830
 translate german PA_HC_EV41_a62536eb:
 
     # mc "¡Yo interpretaré mi papel de productor con profesionalidad!"
-    mc ""
+    mc "Ich werde meine Rolle als Produzent professionell ausleben!"
 
 # game/hchar.rpy:15831
 translate german PA_HC_EV41_75337906:
