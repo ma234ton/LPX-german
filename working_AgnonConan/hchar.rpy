@@ -44842,127 +44842,127 @@ translate german PA_HC_EV40_b5b7dceb:
 translate german PA_HC_EV41_48d6fc56:
 
     # mc "Parece un buen día para grabar el siguiente capítulo."
-    mc ""
+    mc "Es scheint ein guter Tag zu sein, um die nächste Folge aufzunehmen."
 
 # game/hchar.rpy:15788
 translate german PA_HC_EV41_897f7898:
 
     # jul "¡Me muero de ganas por grabar más material!"
-    jul ""
+    jul "Ich kann es kaum erwarten, mehr aufzunehmen!"
 
 # game/hchar.rpy:15789
 translate german PA_HC_EV41_fbc9a67f:
 
     # jul "Esta vez lo haré mejor."
-    jul ""
+    jul "Dieses Mal werde ich es besser machen."
 
 # game/hchar.rpy:15790
 translate german PA_HC_EV41_e6e3d72f:
 
     # jul "¡Ya estoy mentalizada!"
-    jul ""
+    jul "Ich bin schon mental darauf vorbereitet!"
 
 # game/hchar.rpy:15792
 translate german PA_HC_EV41_d9ae0d38:
 
     # mc "¿Tiene todo lo necesario?"
-    mc ""
+    mc "Haben du alles, was du brauchst?"
 
 # game/hchar.rpy:15794
 translate german PA_HC_EV41_10ad9edd:
 
     # jul "Oui, mi hija Sophia me ha ayudado."
-    jul ""
+    jul "Oui, meine Tochter Sophia hat mir geholfen."
 
 # game/hchar.rpy:15795
 translate german PA_HC_EV41_f1c3a753:
 
     # jul "Es increíble la variedad de vestuario con la que cuenta la tienda del enmascarado."
-    jul ""
+    jul "Die Vielfalt an Kostümen, die der maskierte Typ zu bieten hat, ist unglaublich."
 
 # game/hchar.rpy:15796
 translate german PA_HC_EV41_5bc792b4:
 
     # jul "Realmente te has preocupado de todos los detalles."
-    jul ""
+    jul "Du hast dich wirklich um alle Details gekümmert."
 
 # game/hchar.rpy:15798
 translate german PA_HC_EV41_ef3ec6cc:
 
     # mc "(Juliette cree que yo estoy a cargo de la tienda de Kamen Rainor.)"
-    mc ""
+    mc "(Juliette glaubt, dass ich für den Laden von Kamen Rainor verantwortlich bin.)"
 
 # game/hchar.rpy:15799
 translate german PA_HC_EV41_1bc21c6a:
 
     # mc "(No me gusta llevarme el crédito ajeno, pero esta es una situación de vida o muerte.)"
-    mc ""
+    mc "(Ich mag's nicht, mir die Lorbeeren anderer auszunehmen, aber hier geht's um Leben und Tod.)"
 
 # game/hchar.rpy:15800
 translate german PA_HC_EV41_63eab531:
 
     # mc "¡Todo ha sido gracias a meses de preparación!"
-    mc ""
+    mc "Das alles ist das Ergebnis monatelanger Vorbereitung!"
 
 # game/hchar.rpy:15802
 translate german PA_HC_EV41_4e72e5a3:
 
     # jul "Has tenido todo muy bien pensado desde el inicio."
-    jul ""
+    jul "Du hast von Anfang an alles gut durchdacht."
 
 # game/hchar.rpy:15803
 translate german PA_HC_EV41_14ebf297:
 
     # jul "Es una característica muy extraña en chicos de tu edad."
-    jul ""
+    jul "Das ist eine sehr seltene Eigenschaft bei Jungen in deinem Alter."
 
 # game/hchar.rpy:15804
 translate german PA_HC_EV41_16aa3d63:
 
     # jul "¿Cuándo comenzamos?"
-    jul ""
+    jul "Wann fangen wir an?"
 
 # game/hchar.rpy:15806
 translate german PA_HC_EV41_a4521086:
 
     # mc "Lo más pronto posible."
-    mc ""
+    mc "So schnell wie möglich."
 
 # game/hchar.rpy:15807
 translate german PA_HC_EV41_cee18e66:
 
     # mc "Tengo que ir por Charlotte."
-    mc ""
+    mc "Ich muss Charlotte abholen."
 
 # game/hchar.rpy:15809
 translate german PA_HC_EV41_e0b9b14f:
 
     # jul "¡Oui! ¡Oui! ¡Yo iré por Sophia!"
-    jul ""
+    jul "Oui! Oui! Ich hole Sophia!"
 
 # game/hchar.rpy:15810
 translate german PA_HC_EV41_c1a32591:
 
     # jul "¡Nos pondremos bellas para sonreír a la cámara!"
-    jul ""
+    jul "Wir machen uns schön, um in die Kamera zu lächeln!"
 
 # game/hchar.rpy:15820
 translate german PA_HC_EV41_9b5a2f2f:
 
     # ca "¡¿Grabar ahora?!"
-    ca ""
+    ca "Jetzt aufnehmen?!"
 
 # game/hchar.rpy:15822
 translate german PA_HC_EV41_b0ac910d:
 
     # ca "¡Debiste avisar antes!"
-    ca ""
+    ca "Du hättest es vorher sagen sollen!"
 
 # game/hchar.rpy:15824
 translate german PA_HC_EV41_85c8cbad:
 
     # mc "Es un reality, debemos estar siempre preparados para grabar."
-    mc ""
+    mc "Es ist eine Reality-Show, wir müssen immer bereit sein, zu filmen."
 
 # game/hchar.rpy:15826
 translate german PA_HC_EV41_2dc56ac0:
