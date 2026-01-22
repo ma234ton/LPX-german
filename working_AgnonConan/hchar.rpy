@@ -44992,229 +44992,229 @@ translate german PA_HC_EV41_a62536eb:
 translate german PA_HC_EV41_75337906:
 
     # mc "Y tu deberías hacer lo mismo, señorita Charpentier."
-    mc ""
+    mc "Und Sie sollten dasselbe tun, Frau Charpentier."
 
 # game/hchar.rpy:15832
 translate german PA_HC_EV41_09d491bd:
 
     # mc "Si no lo haces con convicción, podrían descubrirnos."
-    mc ""
+    mc "Wenn du es nicht mit Überzeugung tust, könnte sie uns entdecken."
 
 # game/hchar.rpy:15834
 translate german PA_HC_EV41_38be7570:
 
     # ca "Ya... Puede que tengas un poco de razón..."
-    ca ""
+    ca "Ja... Da hast du vielleicht ein bisschen Recht..."
 
 # game/hchar.rpy:15836
 translate german PA_HC_EV41_066edc02:
 
     # mc "Iré a cambiarme y nos encontramos en la entrada."
-    mc ""
+    mc "Ich ziehe mich um und wir treffen uns am Eingang."
 
 # game/hchar.rpy:15837
 translate german PA_HC_EV41_09065fef:
 
     # mc "No queremos hacer esperar a Juliette y Sophia."
-    mc ""
+    mc "Wir wollen Juliette und Sophia nicht warten lassen."
 
 # game/hchar.rpy:15843
 translate german PA_HC_EV41_8b3998d6:
 
     # "<Después de ponerte el traje de baño, te diriges a la playa Gold en compañía de Charlotte.>"
-    ""
+    "<Nachdem du deinen Badeanzug angezogen hast, gehst du in Begleitung von Charlotte zum Gold beach.>"
 
 # game/hchar.rpy:15844
 translate german PA_HC_EV41_e3e0ab7a:
 
     # mc "Comenzaremos a grabar, espero que estén listas."
-    mc ""
+    mc "Wir beginnen mit der Aufnahme, ich hoffe, Sie sind bereit."
 
 # game/hchar.rpy:15845
 translate german PA_HC_EV41_7eade506:
 
     # mc "Ahora dire las palabras mágicas para activar el satélite."
-    mc ""
+    mc "Jetzt werde ich die magischen Worte sagen, um den Satelliten zu aktivieren."
 
 # game/hchar.rpy:15846
 translate german PA_HC_EV41_c336766e:
 
     # so "¡Estoy nerviosa!"
-    so ""
+    so "Ich bin nervös!"
 
 # game/hchar.rpy:15847
 translate german PA_HC_EV41_96ed9f9c:
 
     # mc "¡¡¡ACCIÓN!!!" with vpunch
-    mc "" with vpunch
+    mc "AKTION!!!" with vpunch
 
 # game/hchar.rpy:15854
 translate german PA_HC_EV41_0cb038f9:
 
     # jul "¡Hoy estamos en la playa de Argleton!"
-    jul ""
+    jul "Heute sind wir am Strand von Argleton!"
 
 # game/hchar.rpy:15856
 translate german PA_HC_EV41_d08935dc:
 
     # jul "¡La familia Charpentier va a disfrutar de un lindo día!"
-    jul ""
+    jul "Die Familie Charpentier wird einen schönen Tag geniessen!"
 
 # game/hchar.rpy:15858
 translate german PA_HC_EV41_d54c98d3:
 
     # jul "¡Acompáñenos en esta aventura!"
-    jul ""
+    jul "Begleiten Sie uns auf diesem Abenteuer!"
 
 # game/hchar.rpy:15860
 translate german PA_HC_EV41_ce077f37:
 
     # jul "¡Huhuhuhu!"
-    jul ""
+    jul "Huhuhu!"
 
 # game/hchar.rpy:15865
 translate german PA_HC_EV41_b18d0bcc:
 
     # so "Esa risa ha sonado demasiado forzada..."
-    so ""
+    so "Dieses Lachen klang zu geplant..."
 
 # game/hchar.rpy:15870
 translate german PA_HC_EV41_1a8982d3:
 
     # jul "¿Qué hace tu nombre en el cuadro de diálogo?"
-    jul ""
+    jul "Was macht dein Name im Dialogfeld?"
 
 # game/hchar.rpy:15871
 translate german PA_HC_EV41_d6b32db1:
 
     # jul "¡Arruinas mi tiempo en pantalla!" with vpunch
-    jul "" with vpunch
+    jul "Du ruinierst meine Bildschirmzeit!" with vpunch
 
 # game/hchar.rpy:15873
 translate german PA_HC_EV41_8920651e:
 
     # so "L-l-lo siento..."
-    so ""
+    so "Es tut mir leid..."
 
 # game/hchar.rpy:15877
 translate german PA_HC_EV41_94c44d9f:
 
     # ca "¡...!"
-    ca ""
+    ca "..."
 
 # game/hchar.rpy:15879
 translate german PA_HC_EV41_c8776be7:
 
     # jul "¡Hey tú! ¡Vuelve aquí! ¡Debería estar mi cara en el encuadre!"
-    jul ""
+    jul "Hey du! Komm zurück! Mein Gesicht sollte im Bild sein!"
 
 # game/hchar.rpy:15880
 translate german PA_HC_EV41_31e50098:
 
     # jul "¡Han arruinado la toma!"
-    jul ""
+    jul "Ihr habt die Aufnahme vermasselt!"
 
 # game/hchar.rpy:15882
 translate german PA_HC_EV41_ea5aa771:
 
     # ca "¿Tendremos que hacerlo de nuevo?"
-    ca ""
+    ca "Müssen wir das noch einmal machen?"
 
 # game/hchar.rpy:15883
 translate german PA_HC_EV41_528e8b69:
 
     # mc "Supongo..."
-    mc ""
+    mc "Ich nehme an..."
 
 # game/hchar.rpy:15888
 translate german PA_HC_EV41_aa27f93f:
 
     # jul "¡Estamos en la playa de Argleton!"
-    jul ""
+    jul "Wir sind am Strand von Argleton!"
 
 # game/hchar.rpy:15890
 translate german PA_HC_EV41_b9a9375e:
 
     # jul "¡Así que hoy podrán disfrutar del sol junto a la familia Charpentier!"
-    jul ""
+    jul "Heute können Sie also gemeinsam mit der Familie Charpentier die Sonne geniessen!"
 
 # game/hchar.rpy:15892
 translate german PA_HC_EV41_3bf2b87c:
 
     # jul "¡Hohohohoho!"
-    jul ""
+    jul "Hihi, hihi, hihi!"
 
 # game/hchar.rpy:15894
 translate german PA_HC_EV41_5dbb0d8a:
 
     # ca "¡Olvidaste una línea!"
-    ca ""
+    ca "Du hast eine Zeile vergessen!"
 
 # game/hchar.rpy:15896
 translate german PA_HC_EV41_5c017d57:
 
     # jul "¡No más interrupciones!"
-    jul ""
+    jul "Keine Unterbrechungen mehr!"
 
 # game/hchar.rpy:15901
 translate german PA_HC_EV41_6d775e8a:
 
     # jul "¡Ahora acompáñenos en este nuevo capítulo!"
-    jul ""
+    jul "Begleiten Sie uns nun in diesem neuen Kapitel!"
 
 # game/hchar.rpy:15903
 translate german PA_HC_EV41_a7eff1c6:
 
     # jul "¡Hehehehehe!"
-    jul ""
+    jul "Hehehehehe!"
 
 # game/hchar.rpy:15905
 translate german PA_HC_EV41_8f51ae6c:
 
     # so "Esa risa... Siento mucho cringe..."
-    so ""
+    so "Dieses Lachen... Das ist mega cringe..."
 
 # game/hchar.rpy:15906
 translate german PA_HC_EV41_6b3eabd1:
 
     # ca "Cuidado con lo que dices, no queremos que madre te escuche."
-    ca ""
+    ca "Pass auf, was du sagst, wir wollen nicht, dass Mutter dich hört."
 
 # game/hchar.rpy:15908
 translate german PA_HC_EV41_8d5869e9:
 
     # jul "¡¿Qué estás haciendo, Sophia?!"
-    jul ""
+    jul "Was machst du da, Sophia?!"
 
 # game/hchar.rpy:15909
 translate german PA_HC_EV41_58e68c0f:
 
     # jul "¡Es tu turno de entrar en escena!"
-    jul ""
+    jul "Jetzt bist du an der Reihe, die Bühne zu betreten!"
 
 # game/hchar.rpy:15911
 translate german PA_HC_EV41_b76505a9:
 
     # so "¡H-hola soy Sophia Charpentier! ¡La menor de las hijas de Juliette!"
-    so ""
+    so "H-Hallo, ich bin Sophia Charpentier! Die jüngste Tochter von Juliette!"
 
 # game/hchar.rpy:15913
 translate german PA_HC_EV41_8b585dda:
 
     # jul "¡Te falta seguridad! ¡Tú puedes!"
-    jul ""
+    jul "Du bist zu unsicher! Du schaffst das!"
 
 # game/hchar.rpy:15915
 translate german PA_HC_EV41_aaa28468:
 
     # so "Me voy a volver loca..."
-    so ""
+    so "Ich werde noch wahnsinnig..."
 
 # game/hchar.rpy:15917
 translate german PA_HC_EV41_af5e3b36:
 
     # so "Aquí voy..."
-    so ""
+    so "Los geht's..."
 
 # game/hchar.rpy:15919
 translate german PA_HC_EV41_0618e383:
