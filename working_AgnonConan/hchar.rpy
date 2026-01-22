@@ -47116,43 +47116,43 @@ translate german PA_HC_EV42_93834d6d:
 translate german PA_HC_EV42_ebe6e977:
 
     # jul "Además de accesorios como carteras lujosas, joyería fina y relojes de colección."
-    jul ""
+    jul "Darüber hinaus Accessoires wie luxuriöse Handtaschen, edler Schmuck und Sammleruhren."
 
 # game/hchar.rpy:16579
 translate german PA_HC_EV42_437c3813:
 
     # mc "(¿De dónde sacaré dinero para todo eso?)"
-    mc ""
+    mc "(Woher soll ich das Geld für all das nehmen?)"
 
 # game/hchar.rpy:16580
 translate german PA_HC_EV42_cfa15b2e:
 
     # mc "(Mierda... Necesito convencer a Juliette para que cambie de idea.)"
-    mc ""
+    mc "(Mist... Ich muss Juliette davon überzeugen, ihre Meinung zu ändern.)"
 
 # game/hchar.rpy:16581
 translate german PA_HC_EV42_f03eae80:
 
     # mc "No creo que haya tanto presupuesto para comprar todo eso."
-    mc ""
+    mc "Ich glaube nicht, dass das Budget für all diese Anschaffungen ausreicht."
 
 # game/hchar.rpy:16583
 translate german PA_HC_EV42_528a08d1:
 
     # jul "Pensaba que el tipo enmascarado era uno de tus patrocinadores."
-    jul ""
+    jul "Ich dachte, der maskierte Typ wäre einer deiner Sponsoren."
 
 # game/hchar.rpy:16585
 translate german PA_HC_EV42_b97654b4:
 
     # mc "Bueno... Sí... Pero..."
-    mc ""
+    mc "Nun ja... Ja... Aber..."
 
 # game/hchar.rpy:16586
 translate german PA_HC_EV42_4af80c42:
 
     # mc "Deberíamos enfocar el presupuesto en algo más útil."
-    mc ""
+    mc "Wir sollten das Budget für etwas Sinnvolleres verwenden."
 
 # game/hchar.rpy:16588
 translate german PA_HC_EV42_83c26588:
@@ -47164,3157 +47164,3157 @@ translate german PA_HC_EV42_83c26588:
 translate german PA_HC_EV42_60985b6f:
 
     # jul "No sabes nada sobre mujeres, [nombre]."
-    jul ""
+    jul "Du weisst nichts über Frauen, [nombre]."
 
 # game/hchar.rpy:16591
 translate german PA_HC_EV42_0e697c21:
 
     # jul "Pensaba que serías un chico con más visión."
-    jul ""
+    jul "Ich dachte, du wärst ein Junge mit mehr Weitblick."
 
 # game/hchar.rpy:16593
 translate german PA_HC_EV42_7275a01b:
 
     # mc "Quizás deberíamos consultarlo con Charlotte y Sophia."
-    mc ""
+    mc "Vielleicht sollten wir Charlotte und Sophia dazu befragen."
 
 # game/hchar.rpy:16603
 translate german PA_HC_EV42_ac4e418c:
 
     # ca "¡De ninguna manera!"
-    ca ""
+    ca "Auf keinen Fall!"
 
 # game/hchar.rpy:16605
 translate german PA_HC_EV42_8e130f83:
 
     # so "¡Estoy de acuerdo con Madre!"
-    so ""
+    so "Ich stimme Mutter zu!"
 
 # game/hchar.rpy:16607
 translate german PA_HC_EV42_3bcd441a:
 
     # ca "¡¿Qué dices?! ¡¿Acaso te volviste loca?!"
-    ca ""
+    ca "Was sagst du da?! Bist du verrückt geworden?!"
 
 # game/hchar.rpy:16609
 translate german PA_HC_EV42_3d597e7a:
 
     # so "¡Pero en la tienda tienen ropa super bonita!"
-    so ""
+    so "Aber im Laden gibt es super schöne Kleidung!"
 
 # game/hchar.rpy:16611
 translate german PA_HC_EV42_82cdffa3:
 
     # ca "¡Enfócate en el trabajo!"
-    ca ""
+    ca "Konzentriere dich auf die Arbeit!"
 
 # game/hchar.rpy:16613
 translate german PA_HC_EV42_1e1e402d:
 
     # so "Ay, o sea, no todo gira alrededor del trabajo."
-    so ""
+    so "Ach, es dreht sich nicht alles nur um die Arbeit."
 
 # game/hchar.rpy:16614
 translate german PA_HC_EV42_a11ee1a7:
 
     # so "Yo también me merezco una recompensa."
-    so ""
+    so "Ich verdiene auch eine Belohnung."
 
 # game/hchar.rpy:16616
 translate german PA_HC_EV42_445dc85b:
 
     # jul "Son dos votos a favor y dos en contra."
-    jul ""
+    jul "Es sind zwei Stimmen dafür und zwei dagegen."
 
 # game/hchar.rpy:16617
 translate german PA_HC_EV42_c786f7b5:
 
     # jul "¡Así que gana la opción de salir de compras!"
-    jul ""
+    jul "Also gewinnt die Option, einkaufen zu gehen!"
 
 # game/hchar.rpy:16619
 translate german PA_HC_EV42_0d1d2b9f:
 
     # ca "¡Pero si fue un empate!"
-    ca ""
+    ca "Aber es war doch ein Unentschieden!"
 
 # game/hchar.rpy:16621
 translate german PA_HC_EV42_9655ce71:
 
     # jul "Querida... Nosotras somos las estrellas del show."
-    jul ""
+    jul "Liebling... Wir sind die Stars der Show."
 
 # game/hchar.rpy:16622
 translate german PA_HC_EV42_73dffea4:
 
     # jul "Es obvio que mi voto y el de Sophia valen más que el de ustedes."
-    jul ""
+    jul "Es ist offensichtlich, dass meine Stimme und die von Sophia mehr wert sind als Ihre."
 
 # game/hchar.rpy:16624
 translate german PA_HC_EV42_792d15c6:
 
     # ca "Eres terrible..."
-    ca ""
+    ca "Du bist schrecklich..."
 
 # game/hchar.rpy:16626
 translate german PA_HC_EV42_bc63b073:
 
     # ca "Necesito hablar contigo, [nombre]."
-    ca ""
+    ca "Ich muss mit dir sprechen, [nombre]."
 
 # game/hchar.rpy:16636
 translate german PA_HC_EV42_30ce73a7:
 
     # ca "¿Y ahora que hacemos?"
-    ca ""
+    ca "Was machen wir jetzt?"
 
 # game/hchar.rpy:16638
 translate german PA_HC_EV42_a01b3267:
 
     # mc "Pienso que deberíamos ceder y gastar dinero de nuestro bolsillo."
-    mc ""
+    mc "Ich denke, wir sollten nachgeben und Geld aus unserer eigenen Tasche ausgeben."
 
 # game/hchar.rpy:16639
 translate german PA_HC_EV42_ac13ea10:
 
     # mc "Lo que sea para mantener a Juliette ocupada."
-    mc ""
+    mc "Alles, was Juliette beschäftigt hält."
 
 # game/hchar.rpy:16641
 translate german PA_HC_EV42_393a03eb:
 
     # ca "No me digas que tú también te volviste loco..."
-    ca ""
+    ca "Sag mir nicht, dass du auch verrückt geworden bist..."
 
 # game/hchar.rpy:16643
 translate german PA_HC_EV42_4c70e698:
 
     # mc "¿Por qué lo dices?"
-    mc ""
+    mc "Warum sagst du das?"
 
 # game/hchar.rpy:16645
 translate german PA_HC_EV42_400d660f:
 
     # ca "Mi hermana y Juliette son unas verdaderas psicópatas de las compras."
-    ca ""
+    ca "Meine Schwester und Juliette sind echte Shopping-Süchtige."
 
 # game/hchar.rpy:16646
 translate german PA_HC_EV42_d10937e9:
 
     # ca "Van de shopping durante horas y llegan repletas de cosas que nunca van a usar."
-    ca ""
+    ca "Sie gehen stundenlang shoppen und kommen mit Sachen zurück, die sie nie benutzen werden."
 
 # game/hchar.rpy:16648
 translate german PA_HC_EV42_fe83b5ed:
 
     # ca "Es imposible con el dinero que tenemos..."
-    ca ""
+    ca "Mit dem Geld, das wir haben, ist das unmöglich..."
 
 # game/hchar.rpy:16649
 translate german PA_HC_EV42_ba3602c0:
 
     # ca "Y aunque lo tuviésemos, no tendría sentido un gasto tan enorme."
-    ca ""
+    ca "Und selbst wenn wir es hätten, wäre eine so enorme Ausgabe sinnlos."
 
 # game/hchar.rpy:16651
 translate german PA_HC_EV42_0683978c:
 
     # mc "No tenemos muchas opciones..."
-    mc ""
+    mc "Wir haben nicht viele Optionen..."
 
 # game/hchar.rpy:16653
 translate german PA_HC_EV42_80126f20:
 
     # ca "Esa Sophia es una Judas..."
-    ca ""
+    ca "Diese Sophia ist echt eine Verräterin..."
 
 # game/hchar.rpy:16654
 translate german PA_HC_EV42_d96aa10f:
 
     # ca "Se ha dejado engatusar fácilmente y se ha puesto del lado de Juliette."
-    ca ""
+    ca "Sie hat sich leicht einwickeln lassen und hat sich auf Juliette's Seite gestellt."
 
 # game/hchar.rpy:16656
 translate german PA_HC_EV42_e9619089:
 
     # mc "Lo de tu madre está siendo más complicado de lo que parecía al inicio."
-    mc ""
+    mc "Die Sache mit deiner Mutter ist komplizierter, als es am Anfang schien."
 
 # game/hchar.rpy:16657
 translate german PA_HC_EV42_29952cab:
 
     # mc "Ni siquiera nos ha dado tiempo para investigar sobre Lissette."
-    mc ""
+    mc "Wir hatten noch nicht mal Zeit, uns über Lissette schlau zu machen."
 
 # game/hchar.rpy:16659
 translate german PA_HC_EV42_6c6f91bc:
 
     # ca "Eso no es verdad..."
-    ca ""
+    ca "Das stimmt nicht..."
 
 # game/hchar.rpy:16661
 translate german PA_HC_EV42_4c70e698_1:
 
     # mc "¿Por qué lo dices?"
-    mc ""
+    mc "Was meinst du damit?"
 
 # game/hchar.rpy:16663
 translate german PA_HC_EV42_0aff13ff:
 
     # ca "Ese diario de anotaciones de Mr. Nam."
-    ca ""
+    ca "Das Tagebuch von Herrn Nam."
 
 # game/hchar.rpy:16664
 translate german PA_HC_EV42_273a9a12:
 
     # ca "Tiene el nombre de mémé anotado en varias de sus páginas."
-    ca ""
+    ca "Auf mehreren Seiten ist der Name „Mémé“ vermerkt."
 
 # game/hchar.rpy:16666
 translate german PA_HC_EV42_299a84c8:
 
     # mc "¿Estás diciendo que ellos se conocían?"
-    mc ""
+    mc "Willst du damit sagen, dass sie sich kannten?"
 
 # game/hchar.rpy:16668
 translate german PA_HC_EV42_2ab3160f:
 
     # ca "Es una posibilidad muy probable."
-    ca ""
+    ca "Das ist sehr wahrscheinlich."
 
 # game/hchar.rpy:16669
 translate german PA_HC_EV42_aadbfd23:
 
     # ca "También podría tratarse de otra persona..."
-    ca ""
+    ca "Es könnte sich auch um eine andere Person handeln..."
 
 # game/hchar.rpy:16671
 translate german PA_HC_EV42_28ea880b:
 
     # mc "Lissette no es un nombre común, y menos aún en un pueblo como este."
-    mc ""
+    mc "Lissette ist kein gebräuchlicher Name, schon gar nicht in einem Dorf wie diesem."
 
 # game/hchar.rpy:16672
 translate german PA_HC_EV42_f133eef6:
 
     # mc "Lo más sencillo sería preguntárselo directamente."
-    mc ""
+    mc "Am einfachsten wäre es, ihn direkt zu fragen."
 
 # game/hchar.rpy:16674
 translate german PA_HC_EV42_cd4972a6:
 
     # ca "Fui al muelle, pero no ha aparecido..."
-    ca ""
+    ca "Ich bin zum Pier gegangen, aber er ist nicht aufgetaucht..."
 
 # game/hchar.rpy:16675
 translate german PA_HC_EV42_8fbdcd92:
 
     # ca "Daisy tampoco lo ha visto por los alrededores."
-    ca ""
+    ca "Daisy hat ihn in der Umgebung auch nicht gesehen."
 
 # game/hchar.rpy:16677
 translate german PA_HC_EV42_25272983:
 
     # mc "La última vez mencionó que sus problemas de visión estaban empeorando."
-    mc ""
+    mc "Das letzte Mal erwähnte er, dass sich seine Sehprobleme verschlimmert hätten.
 
 # game/hchar.rpy:16678
 translate german PA_HC_EV42_2c3f56a1:
 
     # mc "Es probable que se haya retirado debido a su edad."
-    mc ""
+    mc "Er hat sich wahrscheinlich aufgrund seines Alters zurückgezogen."
 
 # game/hchar.rpy:16680
 translate german PA_HC_EV42_d8d3f6d7:
 
     # ca "Eso sería terrible..."
-    ca ""
+    ca "Das wäre schrecklich..."
 
 # game/hchar.rpy:16681
 translate german PA_HC_EV42_f9b496b3:
 
     # ca "Qué frustrante... Justo ahora que estaba tan cerca..."
-    ca ""
+    ca "Wie frustrierend... Gerade jetzt, wo ich so nah dran war..."
 
 # game/hchar.rpy:16683
 translate german PA_HC_EV42_8bba2a00:
 
     # mc "Tendremos que descubrir dónde vive y hacerle una visita."
-    mc ""
+    mc "Wir müssen herausfinden, wo er wohnt, und ihn besuchen."
 
 # game/hchar.rpy:16685
 translate german PA_HC_EV42_b710c7bc:
 
     # ca "Eso si es que aún sigue en Argleton."
-    ca ""
+    ca "Das gilt natürlich nur, wenn er noch in Argleton ist."
 
 # game/hchar.rpy:16686
 translate german PA_HC_EV42_01ecc4df:
 
     # ca "Es probable que dejara el pueblo para retirarse."
-    ca ""
+    ca "Er hat wahrscheinlich das Dorf verlassen, um sich zurückzuziehen."
 
 # game/hchar.rpy:16688
 translate german PA_HC_EV42_e951f5e8:
 
     # mc "Pero ahora debemos encargarnos de tu madre."
-    mc ""
+    mc "Aber jetzt müssen wir uns um deine Mutter kümmern."
 
 # game/hchar.rpy:16690
 translate german PA_HC_EV42_11ddb1b5:
 
     # ca "Oui..."
-    ca ""
+    ca "Oui..."
 
 # game/hchar.rpy:16700
 translate german PA_HC_EV42_f4d9b365:
 
     # jul "¡¿Cuánto más me van a hacer esperar?!"
-    jul ""
+    jul "Wie lange soll ich noch warten?!"
 
 # game/hchar.rpy:16701
 translate german PA_HC_EV42_79239c8d:
 
     # jul "¡Si no vamos pronto va a atardecer!"
-    jul ""
+    jul "Wenn wir nicht bald gehen, wird es bald Abend!"
 
 # game/hchar.rpy:16703
 translate german PA_HC_EV42_2348cee8:
 
     # ca "No sabes cuánto me desespera mi madre a veces."
-    ca ""
+    ca "Du weisst gar nicht, wie sehr mich meine Mutter manchmal zur Verzweiflung bringt."
 
 # game/hchar.rpy:16705
 translate german PA_HC_EV42_fc97dd72:
 
     # mc "¿Solo a veces?"
-    mc ""
+    mc "Nur manchmal?"
 
 # game/hchar.rpy:16707
 translate german PA_HC_EV42_c4879088:
 
     # ca "Está bien, casi siempre..."
-    ca ""
+    ca "Okay, fast immer..."
 
 # game/hchar.rpy:16709
 translate german PA_HC_EV42_233037e6:
 
     # jul "¡Tic!{w} ¡Tac!{w} ¡Tic!{w} ¡Tac!"
-    jul ""
+    jul "Tick!{w} Tack!{w} Tick!{w} Tack!"
 
 # game/hchar.rpy:16711
 translate german PA_HC_EV42_291039ab:
 
     # so "¡Podrían hablar en el camino!"
-    so ""
+    so "Sie könnten sich unterwegs unterhalten!"
 
 # game/hchar.rpy:16713
 translate german PA_HC_EV42_5ba022de:
 
     # mc "No queda otra opción, tendremos que ir con ellas."
-    mc ""
+    mc "Es gibt keine andere Wahl, wir müssen mit ihnen gehen."
 
 # game/hchar.rpy:16715
 translate german PA_HC_EV42_7257d51e:
 
     # ca "Si tuviese más tiempo para terminar de leer el diario..."
-    ca ""
+    ca "Wenn ich mehr Zeit hätte, um die Seiten zu Ende zu lesen..."
 
 # game/hchar.rpy:16717
 translate german PA_HC_EV42_505e52ca:
 
     # mc "Tú encárgate del diario y yo me encargaré de tu madre y hermana."
-    mc ""
+    mc "Kümmere du dich um das Tagebuch, und ich kümmere mich um deine Mutter und deine Schwester."
 
 # game/hchar.rpy:16719
 translate german PA_HC_EV42_834904cc:
 
     # ca "¿De verdad vas a pagar todos sus caprichos?"
-    ca ""
+    ca "Willst du wirklich alle ihre Wünsche erfüllen?"
 
 # game/hchar.rpy:16721
 translate german PA_HC_EV42_55d99764:
 
     # mc "Solo si me quedo sin opciones, por ahora confiaré en mi suerte."
-    mc ""
+    mc "Nur wenn mir keine anderen Optionen mehr bleiben, werde ich vorerst auf mein Glück vertrauen."
 
 # game/hchar.rpy:16723
 translate german PA_HC_EV42_9ee8c64a:
 
     # jul "¡No esperaré ningún segundo más!"
-    jul ""
+    jul "Ich werde keine Sekunde länger warten!"
 
 # game/hchar.rpy:16724
 translate german PA_HC_EV42_7adfa4a4:
 
     # jul "¡¿Me escucharon?!"
-    jul ""
+    jul "Habt Ihr mich gehört?!"
 
 # game/hchar.rpy:16726
 translate german PA_HC_EV42_af9cee0f:
 
     # mc "Ya hemos terminado."
-    mc ""
+    mc "Wir sind schon fertig."
 
 # game/hchar.rpy:16728
 translate german PA_HC_EV42_44adc836:
 
     # jul "¿Y a qué llegaron?"
-    jul ""
+    jul "Und zu welchem Ergebnis sind sie gekommen?"
 
 # game/hchar.rpy:16730
 translate german PA_HC_EV42_7f17a3b6:
 
     # mc "Iré con ustedes a la tienda de Kamen Rainor."
-    mc ""
+    mc "Ich werde mit euch zum Laden von Kamen Rainor gehen."
 
 # game/hchar.rpy:16732
 translate german PA_HC_EV42_734a7c00:
 
     # jul "¿Qué hay de ti, Charlotte?"
-    jul ""
+    jul "Was ist mit dir, Charlotte?"
 
 # game/hchar.rpy:16734
 translate german PA_HC_EV42_38d857b4:
 
     # ca "Yo los alcanzaré más tarde..."
-    ca ""
+    ca "Ich werde euch später einholen..."
 
 # game/hchar.rpy:16736
 translate german PA_HC_EV42_0135273f:
 
     # jul "¿Qué dices? ¡Pero si tu también eres una estrella del show!"
-    jul ""
+    jul "Was sagst du da? Aber du bist doch auch ein Star der Show!"
 
 # game/hchar.rpy:16737
 translate german PA_HC_EV42_fa553489:
 
     # jul "¡Tienes que tener todo lo necesario para lucir fantástica!"
-    jul ""
+    jul "Du musst alles haben, was du brauchst, um fantastisch auszusehen!"
 
 # game/hchar.rpy:16739
 translate german PA_HC_EV42_696df182:
 
     # ca "¡Tengo cosas que hacer!"
-    ca ""
+    ca "Ich habe zu tun!"
 
 # game/hchar.rpy:16741
 translate german PA_HC_EV42_b9b79eb0:
 
     # jul "¿Qué puede ser más importante que esto?"
-    jul ""
+    jul "Was könnte wichtiger sein als das?"
 
 # game/hchar.rpy:16743
 translate german PA_HC_EV42_80fd58e9:
 
     # ca "Estoy haciendo... Unos ajustes importantes al guion."
-    ca ""
+    ca "Ich mache gerade... einige wichtige Änderungen am Drehbuch."
 
 # game/hchar.rpy:16745
 translate german PA_HC_EV42_7c22544d:
 
     # jul "Pensaba que [nombre] trabajaba en eso."
-    jul ""
+    jul "Ich dachte, [nombre] würde daran arbeiten."
 
 # game/hchar.rpy:16747
 translate german PA_HC_EV42_f0dd515e:
 
     # ca "Estaba pensando... Un poco... Ya sabes... Eemmm..."
-    ca ""
+    ca "Ich habe nachgedacht... Ein bisschen... Weisst du... Ähm..."
 
 # game/hchar.rpy:16749
 translate german PA_HC_EV42_ec418217:
 
     # ca "Ayúdame, [nombre]."
-    ca ""
+    ca "Hilf mir, [nombre]."
 
 # game/hchar.rpy:16751
 translate german PA_HC_EV42_4d0c18b6:
 
     # mc "Charlotte quería hacer algunos cambios para darle más protagonismo a usted, Juliette."
-    mc ""
+    mc "Charlotte wollte einige Änderungen vornehmen, um Ihnen, Juliette, mehr Aufmerksamkeit zu verschaffen."
 
 # game/hchar.rpy:16753
 translate german PA_HC_EV42_cb174c85:
 
     # jul "¿De verdad?"
-    jul ""
+    jul "Wirklich?"
 
 # game/hchar.rpy:16755
 translate german PA_HC_EV42_60040f26:
 
     # mc "Originalmente, las protagonistas iban a ser Charlotte y Sophia."
-    mc ""
+    mc "Ursprünglich sollten Charlotte und Sophia die Hauptfiguren sein."
 
 # game/hchar.rpy:16756
 translate german PA_HC_EV42_a78300b4:
 
     # mc "Pero debido a su llegada imprevista a Argleton, debemos hacer algunas modificaciones."
-    mc ""
+    mc "Aufgrund Ihrer unerwarteten Ankunft in Argleton müssen wir jedoch einige Änderungen vornehmen."
 
 # game/hchar.rpy:16758
 translate german PA_HC_EV42_1fac4741:
 
     # ca "¡Oui! ¡Lo que ha dicho [nombre]!"
-    ca ""
+    ca "Oui! Was [nombre] gesagt hat!"
 
 # game/hchar.rpy:16760
 translate german PA_HC_EV42_c1586dfd:
 
     # jul "Podrías hacerlo en otro momento."
-    jul ""
+    jul "Du könntest es zu einem anderen Zeitpunkt tun."
 
 # game/hchar.rpy:16762
 translate german PA_HC_EV42_8e7bf8eb:
 
     # ca "No quería perder la idea..."
-    ca ""
+    ca "Ich wollte die Idee nicht verlieren..."
 
 # game/hchar.rpy:16764
 translate german PA_HC_EV42_f441880d:
 
     # mc "Charlotte irá dentro de una hora."
-    mc ""
+    mc "Charlotte wird in einer Stunde gehen."
 
 # game/hchar.rpy:16765
 translate german PA_HC_EV42_605c518c:
 
     # mc "Mientras tanto, nosotros podríamos ir en camino."
-    mc ""
+    mc "In der Zwischenzeit könnten wir uns auf den Weg machen."
 
 # game/hchar.rpy:16767
 translate german PA_HC_EV42_a9145cd8:
 
     # jul "Si tardas más de una hora, te daré un castigo."
-    jul ""
+    jul "Wenn du länger als eine Stunde brauchst, werde ich dich bestrafen."
 
 # game/hchar.rpy:16769
 translate german PA_HC_EV42_84e0a051:
 
     # ca "¡Estaré allí en menos de lo que imaginas!"
-    ca ""
+    ca "Ich bin schneller da, als du denkst!"
 
 # game/hchar.rpy:16774
 translate german PA_HC_EV42_1ecdb96b:
 
     # "<Te diriges a la tienda de Kamen Rainor en compañía de Sophia y Juliette.>"
-    ""
+    "<Du gehst in Begleitung von Sophia und Juliette zum Laden von Kamen Rainor.>"
 
 # game/hchar.rpy:16779
 translate german PA_HC_EV42_d9ee09e3:
 
     # jul "¿Qué sucedió con el hombre de la máscara?"
-    jul ""
+    jul "Was ist mit dem Mann mit der Maske passiert?"
 
 # game/hchar.rpy:16780
 translate german PA_HC_EV42_f3d6067f:
 
     # jul "¿Acaso no hay nadie atendiendo?"
-    jul ""
+    jul "Ist niemand da?"
 
 # game/hchar.rpy:16782
 translate german PA_HC_EV42_63c517b6:
 
     # alicea "Rainor estará fuera todo el día."
-    alicea ""
+    alicea "Rainor wird den ganzen Tag unterwegs sein."
 
 # game/hchar.rpy:16783
 translate german PA_HC_EV42_a2dcc825:
 
     # alicea "Seguramente está buscando algo en lo que invertir para quedar endeudado de nuevo."
-    alicea ""
+    alicea "Sicherlich sucht er nach etwas, in das er investieren kann, um sich erneut zu verschulden."
 
 # game/hchar.rpy:16785
 translate german PA_HC_EV42_400f96f5:
 
     # alicea "Mencionó algo sobre Taparrabos Inferno 6070 RTX."
-    alicea ""
+    alicea "Er erwähnte etwas über Taparrabos Inferno 6070 RTX."
 
 # game/hchar.rpy:16787
 translate german PA_HC_EV42_f8942792:
 
     # jul "Él me vendió un traje de baño la última vez."
-    jul ""
+    jul "Er hat mir letztes Mal einen Badeanzug verkauft."
 
 # game/hchar.rpy:16788
 translate german PA_HC_EV42_8dccf8ec:
 
     # jul "¿Cuánto tendré que esperar por su regreso?"
-    jul ""
+    jul "Wie lange muss ich auf Ihre Rückkehr warten?"
 
 # game/hchar.rpy:16790
 translate german PA_HC_EV42_97fcacb5:
 
     # alicea "Podría hablar con mi amiga experta, ella sabe todo sobre ropa."
-    alicea ""
+    alicea "Ich könnte mit meiner Freundin sprechen, die sich gut auskennt, sie weiss alles über Kleidung."
 
 # game/hchar.rpy:16792
 translate german PA_HC_EV42_8997746e:
 
     # jul "¿Tu amiga?"
-    jul ""
+    jul "Deine Freundin?"
 
 # game/hchar.rpy:16794
 translate german PA_HC_EV42_39dea4cd:
 
     # alicea "¡¡¡KENDRAAAAAAAAAAAAAAAA!!! ¡¡¡VEEEEEEEEEN!!!"
-    alicea ""
+    alicea "KENDRAAAAAAAAAAAAAAAA!!! KOMM SCHON!!!"
 
 # game/hchar.rpy:16800
 translate german PA_HC_EV42_4efc3d7a:
 
     # kendra "¡¡¡DEJAAAAA DE GRITAAAAAAR!!! ¡¡¡ESTOY CERCAAAAAA!!!"
-    kendra ""
+    kendra "HÖR AUF ZU SCHREIEN!!! ICH BIN GANZ IN DER NÄHE!!!"
 
 # game/hchar.rpy:16802
 translate german PA_HC_EV42_26c1984f:
 
     # kendra "No puede ser verdad..."
-    kendra ""
+    kendra "Das kann nicht wahr sein..."
 
 # game/hchar.rpy:16804
 translate german PA_HC_EV42_15d13d6a:
 
     # kendra "¿Acaso mis ojos me están engañando?"
-    kendra ""
+    kendra "Täuschen mich meine Augen?"
 
 # game/hchar.rpy:16806
 translate german PA_HC_EV42_aadd85dd:
 
     # kendra "¡La genia del glamour Juliette Charpentier está aquí de nuevo!"
-    kendra ""
+    kendra "Die Glamour-Genie Juliette Charpentier ist wieder da!"
 
 # game/hchar.rpy:16811
 translate german PA_HC_EV42_58fb8277:
 
     # kendra "¡¿EN QUÉ LA PUEDO AYUDAR?!"
-    kendra ""
+    kendra "WIE KANN ICH IHNEN HELFEN?!"
 
 # game/hchar.rpy:16812
 translate german PA_HC_EV42_108f87de:
 
     # kendra "¡¡¡ESTOY A TUS ÓRDENES!!!"
-    kendra ""
+    kendra "Ich stehe zu Ihren Diensten!!!"
 
 # game/hchar.rpy:16814
 translate german PA_HC_EV42_d3512d1d:
 
     # alicea "Siento que estás exagerando, Kendra."
-    alicea ""
+    alicea "Ich finde, du übertreibst, Kendra."
 
 # game/hchar.rpy:16815
 translate german PA_HC_EV42_64c40053:
 
     # alicea "Pareces una lamebotas..."
-    alicea ""
+    alicea "Du kommst mir vor wie ein Arschkriecher..."
 
 # game/hchar.rpy:16817
 translate german PA_HC_EV42_650240c4:
 
     # kendra "¡¡¡PUEDO LAMER SUS PIES SI LO DESEA!!!"
-    kendra ""
+    kendra "Ich kann Ihre Füsse lecken, wenn Sie möchten!!!"
 
 # game/hchar.rpy:16819
 translate german PA_HC_EV42_5f04b7d9:
 
     # alicea "Esto es vergonzoso..."
-    alicea ""
+    alicea "Das ist beschämend..."
 
 # game/hchar.rpy:16821
 translate german PA_HC_EV42_4b64a807:
 
     # jul "Necesito lo mejor en ropa que puedan ofrecer."
-    jul ""
+    jul "Ich brauche die beste Kleidung, die Sie anbieten können."
 
 # game/hchar.rpy:16823
 translate german PA_HC_EV42_265c5385:
 
     # kendra "¡A sus órdenes!"
-    kendra ""
+    kendra "Zu Ihren Diensten!"
 
 # game/hchar.rpy:16824
 translate german PA_HC_EV42_f681cbc2:
 
     # kendra "Tengo vestidos rojos, ajustados en la cintura, para resaltar su figura."
-    kendra ""
+    kendra "Ich habe rote Kleider, die an der Taille eng anliegen, um Ihre Figur zu betonen."
 
 # game/hchar.rpy:16826
 translate german PA_HC_EV42_b515e95c:
 
     # kendra "También algunos con toques metálicos, casi transparentes."
-    kendra ""
+    kendra "Einige davon mit metallischen Akzenten, fast transparent."
 
 # game/hchar.rpy:16827
 translate german PA_HC_EV42_a916ff0c:
 
     # kendra "Con acabados muy sexis."
-    kendra ""
+    kendra "Mit sehr sexy Oberflächen."
 
 # game/hchar.rpy:16829
 translate german PA_HC_EV42_64ccf168:
 
     # kendra "¡También tengo algunos trajes de baño!"
-    kendra ""
+    kendra "Ich habe auch ein paar Badeanzüge!"
 
 # game/hchar.rpy:16830
 translate german PA_HC_EV42_deb1e44c:
 
     # kendra "Son hechos por mí misma, por lo que no encontrará otro igual."
-    kendra ""
+    kendra "Sie sind von mir selbst hergestellt, daher finden Sie keine anderen, die ihnen gleichen."
 
 # game/hchar.rpy:16831
 translate german PA_HC_EV42_1bd79086:
 
     # kendra "¿Qué precios está buscando?"
-    kendra ""
+    kendra "Welche Preise suchen Sie?"
 
 # game/hchar.rpy:16833
 translate german PA_HC_EV42_bbf1c640:
 
     # jul "Tráeme todo lo que tengas."
-    jul ""
+    jul "Bring mir alles, was du hast."
 
 # game/hchar.rpy:16835
 translate german PA_HC_EV42_a0bacc8a:
 
     # kendra "Pero eso sería demasiado caro..."
-    kendra ""
+    kendra "Aber das wäre zu teuer..."
 
 # game/hchar.rpy:16837
 translate german PA_HC_EV42_c321e1bc:
 
     # jul "Una Charpentier jamás se intimida ante los precios."
-    jul ""
+    jul "Eine Charpentier lässt sich niemals von Preisen einschüchtern."
 
 # game/hchar.rpy:16838
 translate german PA_HC_EV42_eb374b8b:
 
     # jul "Si voy a salir en televisión, debo estar perfecta."
-    jul ""
+    jul "Wenn ich im Fernsehen auftrete, muss ich perfekt aussehen."
 
 # game/hchar.rpy:16840
 translate german PA_HC_EV42_30970a4a:
 
     # kendra "¡¿Va a salir televisión usando mi ropa?!"
-    kendra ""
+    kendra "Werden meine Klamotten im Fernsehen zu sehen sein?!"
 
 # game/hchar.rpy:16842
 translate german PA_HC_EV42_9088fc09:
 
     # kendra "¡Qué emoción!"
-    kendra ""
+    kendra "Wie aufregend!"
 
 # game/hchar.rpy:16847
 translate german PA_HC_EV42_71fa1861:
 
     # "<Juliette y Sophia siguen a Kendra hasta los probadores, mientras cargan lo que parece una tonelada de prendas.>"
-    ""
+    "<Juliette und Sophia folgen Kendra zu den Umkleidekabinen, während sie eine scheinbar tonnenweise Kleidung tragen.>"
 
 # game/hchar.rpy:16852
 translate german PA_HC_EV42_949bbbc6:
 
     # mc "(Mierda... Han perdido la cordura...)"
-    mc ""
+    mc "(Scheisse... Die haben den Verstand verloren...)"
 
 # game/hchar.rpy:16853
 translate german PA_HC_EV42_6c750e78:
 
     # mc "(Como no encuentre una alternativa me van a desplumar.)"
-    mc ""
+    mc "(Wenn ich keine Alternative finde, werde ich ausgenommen.)"
 
 # game/hchar.rpy:16855
 translate german PA_HC_EV42_e825b803:
 
     # ca "Espero no haber llegado demasiado tarde."
-    ca ""
+    ca "Ich hoffe, ich bin nicht zu spät gekommen."
 
 # game/hchar.rpy:16857
 translate german PA_HC_EV42_b4524e9c:
 
     # mc "Sophia y Juliette siguen probándose todo lo que encuentran."
-    mc ""
+    mc "Sophia und Juliette probieren weiterhin alles aus, was sie finden."
 
 # game/hchar.rpy:16858
 translate german PA_HC_EV42_2ac18b9d:
 
     # mc "La pobre Kendra no ha hecho más que cargar ropa durante la última hora."
-    mc ""
+    mc "Die arme Kendra hat in der letzten Stunde nichts anderes getan, als Kleidung zu schleppen."
 
 # game/hchar.rpy:16860
 translate german PA_HC_EV42_e6f59f50:
 
     # ca "Estas dos no tienen remedio... Tendré que usar la fuerza bruta."
-    ca ""
+    ca "Die beiden sind hoffnungslos... Ich werde Gewalt anwenden müssen."
 
 # game/hchar.rpy:16862
 translate german PA_HC_EV42_da8be3fb:
 
     # mc "¿En qué estás pensando?"
-    mc ""
+    mc "Was denkst du gerade?"
 
 # game/hchar.rpy:16864
 translate german PA_HC_EV42_b7a91564:
 
     # ca "Cucarachas..."
-    ca ""
+    ca "Kakerlaken..."
 
 # game/hchar.rpy:16866
 translate german PA_HC_EV42_ed511ae4:
 
     # mc "¿Cucarachas?"
-    mc ""
+    mc "Kakerlaken?"
 
 # game/hchar.rpy:16868
 translate german PA_HC_EV42_c7bce115:
 
     # so "¡Charlotte! ¡Por fin has llegado!"
-    so ""
+    so "Charlotte! Endlich bist du da!"
 
 # game/hchar.rpy:16869
 translate german PA_HC_EV42_d6f7b4c2:
 
     # so "¡Ven conmigo! ¡Tienes que probarte esta ropa interior!"
-    so ""
+    so "Komm mit! Du musst diese Unterwäsche anprobieren!"
 
 # game/hchar.rpy:16871
 translate german PA_HC_EV42_2de2972b:
 
     # ca "¡Suéltame, Sophia! ¡No caeré en tu trampa!"
-    ca ""
+    ca "Lass mich los, Sophia! Ich werde nicht in deine Falle tappen!"
 
 # game/hchar.rpy:16873
 translate german PA_HC_EV42_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/hchar.rpy:16875
 translate german PA_HC_EV42_b026f02d:
 
     # mc "(Charlotte ha dejado caer algo.)"
-    mc ""
+    mc "(Charlotte hat etwas fallen lassen.)"
 
 # game/hchar.rpy:16881
 translate german PA_HC_EV42_e167015f:
 
     # ca "¡No me quites la ropa!"
-    ca ""
+    ca "Zieh mir nicht die Kleidung aus!"
 
 # game/hchar.rpy:16882
 translate german PA_HC_EV42_a8d6bc10:
 
     # so "¡Insisto! ¡Debes probarte esta nueva ropa interior!"
-    so ""
+    so "Ich bestehe darauf! Du musst diese neue Unterwäsche anprobieren!"
 
 # game/hchar.rpy:16884
 translate german PA_HC_EV42_c4460ae4:
 
     # ca "¡Ayúdame, [nombre]! ¡Están intentando hacerme caer en la tentación!"
-    ca ""
+    ca "Hilf mir, [nombre]! Sie versuchen, mich in Versuchung zu führen!"
 
 # game/hchar.rpy:16885
 translate german PA_HC_EV42_91039cd5:
 
     # ca "¡Encuéntralo! ¡Debes usarlo antes de que sea tarde!"
-    ca ""
+    ca "Finde es! Du musst es benutzen, bevor es zu spät ist!"
 
 # game/hchar.rpy:16887
 translate german PA_HC_EV42_6d523573:
 
     # mc "(Parece una cucaracha, aunque es una réplica de caucho.)"
-    mc ""
+    mc "(Es sieht aus wie eine Kakerlake, ist aber eine Nachbildung aus Gummi.)"
 
 # game/hchar.rpy:16888
 translate german PA_HC_EV42_5ee0144f:
 
     # mc "(Quizás debería entregárselo a Charlotte...)"
-    mc ""
+    mc "(Vielleicht sollte ich es Charlotte geben...)"
 
 # game/hchar.rpy:16906
 translate german PA_HC_EV42_12d7b5fd:
 
     # so "¡¡¡AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHH!!!"
-    so ""
+    so "AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHH!!!"
 
 # game/hchar.rpy:16907
 translate german PA_HC_EV42_2ca367d5:
 
     # so "¡¡¡UNA CUCARACHAAAAAAAAAAAAAAAAAAAAAA!!!" with vpunch
-    so "" with vpunch
+    so "EIN KÄFERAAAAAAAAAAAAAAAAAAAAAA!!!" with vpunch
 
 # game/hchar.rpy:16909
 translate german PA_HC_EV42_cf20ba98:
 
     # so "¡¡¡MAAAAAAMAAAAAAAAAAAAAAAAAAA!!!"
-    so ""
+    so "MAAAAAAMAAAAAAAAAAAAAAAAAAA!!!"
 
 # game/hchar.rpy:16911
 translate german PA_HC_EV42_6b5c3f35:
 
     # so "¡¡¡VÁMONOS DE AQUÍ!!! ¡¡¡CHARLOTTEEEEEEE!!!"
-    so ""
+    so "WEG VON HIER!!! CHARLOTTEEEEE!!!"
 
 # game/hchar.rpy:16913
 translate german PA_HC_EV42_c455f73d:
 
     # ca "¡No me lleves contigo! ¡Estoy desnuda!"
-    ca ""
+    ca "Nimm mich nicht mit! Ich bin nackt!"
 
 # game/hchar.rpy:16915
 translate german PA_HC_EV42_926d7f31:
 
     # so "¡¡¡AAAAAAAAAAAAHHHHHHHHHH!!!"
-    so ""
+    so "AAAAAAAAAAAAHHHHHHHHHH!!!"
 
 # game/hchar.rpy:16917
 translate german PA_HC_EV42_31a090c9:
 
     # jul "¡¿UNA CUCARACHA?!"
-    jul ""
+    jul "EINE KÄFER?!"
 
 # game/hchar.rpy:16919
 translate german PA_HC_EV42_a4f459ac:
 
     # jul "¡¡¡CORRAN POR SUS VIDAAAAAS!!!"
-    jul ""
+    jul "LAUFT UM EUER LEBEN!!!"
 
 # game/hchar.rpy:16921
 translate german PA_HC_EV42_ea93aee0:
 
     # jul "¡Llamen a un exterminador de plagas!"
-    jul ""
+    jul "Rufen Sie einen Kammerjäger!"
 
 # game/hchar.rpy:16923
 translate german PA_HC_EV42_6d4f998f:
 
     # so "¡Esto es un horror!"
-    so ""
+    so "Das ist schrecklich!"
 
 # game/hchar.rpy:16924
 translate german PA_HC_EV42_6d8c7ce4:
 
     # so "Siento que me voy a desmayar..."
-    so ""
+    so "Ich glaube, ich werde ohnmächtig..."
 
 # game/hchar.rpy:16926
 translate german PA_HC_EV42_9de2a577:
 
     # jul "¡Resiste, Sophia! ¡Debes ser fuerte!"
-    jul ""
+    jul "Halte durch, Sophia! Du musst stark sein!"
 
 # game/hchar.rpy:16928
 translate german PA_HC_EV42_45aab8c9:
 
     # so "¡Esto es el colmo!"
-    so ""
+    so "Das ist echt das Letzte!"
 
 # game/hchar.rpy:16929
 translate german PA_HC_EV42_388f46ca:
 
     # so "¡¿Cómo puede haber cucarachas en una tienda de ropa?!"
-    so ""
+    so "Wie kann es in einem Bekleidungsgeschäft Kakerlaken geben?!"
 
 # game/hchar.rpy:16931
 translate german PA_HC_EV42_31cb31a7:
 
     # jul "¡La gente de este pueblo son unos cerdos!"
-    jul ""
+    jul "Die Leute in diesem Dorf sind Schweine!"
 
 # game/hchar.rpy:16932
 translate german PA_HC_EV42_f6d5d63b:
 
     # jul "¡No conocen de higiene!"
-    jul ""
+    jul "Sie haben keine Ahnung von Hygiene!"
 
 # game/hchar.rpy:16934
 translate german PA_HC_EV42_5dde4ec7:
 
     # kendra "¡Lo siento mucho! ¡Lady Juliette!"
-    kendra ""
+    kendra "Es tut mir so leid! Lady Juliette!"
 
 # game/hchar.rpy:16935
 translate german PA_HC_EV42_d7e8f7ef:
 
     # kendra "¡No sé qué ha pasado! ¡Nunca había visto cucarachas en Argleton!"
-    kendra ""
+    kendra "Ich weiß nicht, was passiert ist! Ich habe noch nie Kakerlaken in Argleton gesehen!"
 
 # game/hchar.rpy:16937
 translate german PA_HC_EV42_e74c2f7b:
 
     # jul "¡¿Acaso insinúa que mi hija está mintiendo?!"
-    jul ""
+    jul "Wollen Sie damit andeuten, dass meine Tochter lügt?!"
 
 # game/hchar.rpy:16939
 translate german PA_HC_EV42_1372bfce:
 
     # kendra "¡Jamás diría eso! ¡Usted siempre tiene la razón!"
-    kendra ""
+    kendra "Das würde ich niemals sagen! Sie haben immer Recht!"
 
 # game/hchar.rpy:16941
 translate german PA_HC_EV42_77fe5958:
 
     # jul "¡Deberían estar avergonzados!"
-    jul ""
+    jul "Sie sollten sich schämen!"
 
 # game/hchar.rpy:16942
 translate german PA_HC_EV42_772c636e:
 
     # jul "¡Quiero una compensación por esta irresponsabilidad!"
-    jul ""
+    jul "Ich möchte eine Entschädigung für diese Verantwortungslosigkeit!"
 
 # game/hchar.rpy:16944
 translate german PA_HC_EV42_13d7f6d5:
 
     # kendra "¡Me quitaré la ropa!"
-    kendra ""
+    kendra "Ich ziehe mich aus!"
 
 # game/hchar.rpy:16945
 translate german PA_HC_EV42_b8f0bc05:
 
     # kendra "Si quiere puedo lamerle los pies..."
-    kendra ""
+    kendra "Wenn Sie möchten, kann ich Ihnen die Füsse lecken..."
 
 # game/hchar.rpy:16946
 translate german PA_HC_EV42_c52fd79c:
 
     # kendra "O hacerle una sesión de masajes premium."
-    kendra ""
+    kendra "Oder ihm eine Premium-Massage geben."
 
 # game/hchar.rpy:16948
 translate german PA_HC_EV42_ee74acc5:
 
     # mc "De pronto este plan ha comenzado a gustarme."
-    mc ""
+    mc "Plötzlich gefällt mir dieser Plan."
 
 # game/hchar.rpy:16949
 translate german PA_HC_EV42_fe0eeb38:
 
     # mc "Y va mejorando."
-    mc ""
+    mc "Und es wird immer besser."
 
 # game/hchar.rpy:16951
 translate german PA_HC_EV42_6b0e2c64:
 
     # alicea "¡La tengo!"
-    alicea ""
+    alicea "Ich habe sie!"
 
 # game/hchar.rpy:16952
 translate german PA_HC_EV42_1f005a1f:
 
     # alicea "¡Aquí tengo la cucaracha! ¡Miren!"
-    alicea ""
+    alicea "Hier habe ich die Kakerlake! Seht mal!"
 
 # game/hchar.rpy:16954
 translate german PA_HC_EV42_b944e9ac:
 
     # so "¡¡¡AAAAAAAHHHHHHHHHHHHHHH!!!"
-    so ""
+    so "AAAAAAAHHHHHHHHHHHHHHH!!!"
 
 # game/hchar.rpy:16956
 translate german PA_HC_EV42_119d536f:
 
     # jul "¡No te atrevas! ¡Quita eso de mi vista!"
-    jul ""
+    jul "Wage es ja nicht! Nimm das aus meinen Augen!"
 
 # game/hchar.rpy:16962
 translate german PA_HC_EV42_2a517040:
 
     # alicea "Es de mentira..."
-    alicea ""
+    alicea "Das ist doch Fake."
 
 # game/hchar.rpy:16964
 translate german PA_HC_EV42_c9435169:
 
     # jul "Quoi?"
-    jul ""
+    jul "Quoi?"
 
 # game/hchar.rpy:16965
 translate german PA_HC_EV42_7bcc4288:
 
     # alicea "De seguro ha sido una broma del jefe Rainor."
-    alicea ""
+    alicea "Das war bestimmt ein Scherz von Chef Rainor."
 
 # game/hchar.rpy:16970
 translate german PA_HC_EV42_36956a0a:
 
     # jul "Es verdad..."
-    jul ""
+    jul "Das stimmt..."
 
 # game/hchar.rpy:16971
 translate german PA_HC_EV42_243c067c:
 
     # jul "Eres una completa exagerada, Sophia."
-    jul ""
+    jul "Du übertreibst total, Sophia."
 
 # game/hchar.rpy:16973
 translate german PA_HC_EV42_1ca1ad7d:
 
     # so "¡Ups!"
-    so ""
+    so "Ups!"
 
 # game/hchar.rpy:16975
 translate german PA_HC_EV42_6308d4c9:
 
     # ca "A veces eres demasiado ingenua..."
-    ca ""
+    ca "Manchmal bist du zu naiv..."
 
 # game/hchar.rpy:16977
 translate german PA_HC_EV42_21071c98:
 
     # so "Cuando la vi, no pude evitar entrar en pánico."
-    so ""
+    so "Als ich sie sah, konnte ich nicht anders, als in Panik zu geraten."
 
 # game/hchar.rpy:16978
 translate german PA_HC_EV42_ccded6eb:
 
     # so "Je suis désolée!"
-    so ""
+    so "Je suis désolée!"
 
 # game/hchar.rpy:16980
 translate german PA_HC_EV42_221a03d8:
 
     # jul "No te enfades tanto con tu hermana menor."
-    jul ""
+    jul "Sei nicht so sauer auf deine kleine Schwester."
 
 # game/hchar.rpy:16981
 translate german PA_HC_EV42_6105d38e:
 
     # jul "Tú habrías hecho lo mismo en su lugar."
-    jul ""
+    jul "Du hättest an Ihrer Stelle dasselbe getan."
 
 # game/hchar.rpy:16983
 translate german PA_HC_EV42_6960e18a:
 
     # ca "¿Qué tal si vamos por un poco de ropa?"
-    ca ""
+    ca "Wie wäre es, wenn wir ein paar Klamotten kaufen gehen?"
 
 # game/hchar.rpy:16984
 translate german PA_HC_EV42_fe30ad26:
 
     # ca "Estar aquí con los pechos al aire es mucho más vergonzoso..."
-    ca ""
+    ca "Hier mit nackten Brüsten zu stehen, ist viel peinlicher..."
 
 # game/hchar.rpy:16986
 translate german PA_HC_EV42_6a121ecd:
 
     # jul "..."
-    jul ""
+    jul "..."
 
 # game/hchar.rpy:16988
 translate german PA_HC_EV42_62ecf5f1:
 
     # so "..."
-    so ""
+    so "..."
 
 # game/hchar.rpy:16999
 translate german PA_HC_EV42_d6d0b326:
 
     # jul "¡Estoy desnuda! ¡Qué horror!"
-    jul ""
+    jul "Ich bin nackt! Wie schrecklich!"
 
 # game/hchar.rpy:17000
 translate german PA_HC_EV42_3a4bfe38:
 
     # so "¡Qué alguien me traiga algo!" with vpunch
-    so "" with vpunch
+    so "Bringt mir doch jemand etwas!" with vpunch
 
 # game/hchar.rpy:17005
 translate german PA_HC_EV42_85772ade:
 
     # "<Sophia y Juliette se visten rápidamente y salen corriendo de la tienda de Kamen Rainor.>"
-    ""
+    "<Sophia und Juliette ziehen sich schnell an und rennen aus Kamen Rainors Laden.>"
 
 # game/hchar.rpy:17010
 translate german PA_HC_EV42_4206b0f4:
 
     # alicea "Has perdido un cliente."
-    alicea ""
+    alicea "Du hast einen Kunden verloren."
 
 # game/hchar.rpy:17012
 translate german PA_HC_EV42_f39737d0:
 
     # kendra "Voy a llorar..."
-    kendra ""
+    kendra "Ich werde weinen..."
 
 # game/hchar.rpy:17013
 translate german PA_HC_EV42_8fe7c2ee:
 
     # kendra "Lady Juliette va a odiarme..."
-    kendra ""
+    kendra "Lady Juliette wird mich hassen..."
 
 # game/hchar.rpy:17015
 translate german PA_HC_EV42_acc46b79:
 
     # kendra "Pudo haber sido la venta de mi vida."
-    kendra ""
+    kendra "Es hätte der Verkauf meines Lebens sein können."
 
 # game/hchar.rpy:17017
 translate german PA_HC_EV42_7133a530:
 
     # alicea "Cosas que pasan, ya vendrán más."
-    alicea ""
+    alicea "So etwas kommt vor, es wird wieder passieren."
 
 # game/hchar.rpy:17019
 translate german PA_HC_EV42_6f2474f2:
 
     # ca "Yo me llevaré algo de ropa."
-    ca ""
+    ca "Ich werde etwas Kleidung mitnehmen."
 
 # game/hchar.rpy:17021
 translate german PA_HC_EV42_c17677df:
 
     # kendra "¿De verdad? ¿Por qué?"
-    kendra ""
+    kendra "Wirklich? Warum?"
 
 # game/hchar.rpy:17023
 translate german PA_HC_EV42_86bd0221:
 
     # ca "Es mi forma de compensar todos los problemas que ocasionaron."
-    ca ""
+    ca "Das ist meine Art, all die Probleme, die sie verursacht haben, wieder gut zu machen."
 
 # game/hchar.rpy:17025
 translate german PA_HC_EV42_6588521d:
 
     # kendra "¡Estoy muy agradecida!"
-    kendra ""
+    kendra "Ich bin sehr dankbar!"
 
 # game/hchar.rpy:17027
 translate german PA_HC_EV42_9ecffb55:
 
     # alicea "Al menos no todo ha sido malo."
-    alicea ""
+    alicea "Zumindest war nicht alles schlecht."
 
 # game/hchar.rpy:17028
 translate german PA_HC_EV42_e395b877:
 
     # alicea "Ahora ve a ponerte algo, antes de que agarres un resfriado..."
-    alicea ""
+    alicea "Jetzt zieh dir etwas an, bevor du dich erkältest..."
 
 # game/hchar.rpy:17030
 translate german PA_HC_EV42_4bde600e:
 
     # mc "¿Estás segura?"
-    mc ""
+    mc "Bist du dir sicher?"
 
 # game/hchar.rpy:17032
 translate german PA_HC_EV42_f4f14dd5:
 
     # ca "La pobre de Kendra ha tenido que soportar los regaños de Juliette por mi culpa."
-    ca ""
+    ca "Die arme Kendra musste wegen mir Juliette's Vorwürfe ertragen."
 
 # game/hchar.rpy:17033
 translate german PA_HC_EV42_94537ddb:
 
     # ca "Es lo mínimo que puedo hacer."
-    ca ""
+    ca "Das ist das Mindeste, was ich tun kann."
 
 # game/hchar.rpy:17035
 translate german PA_HC_EV42_02272f55:
 
     # mc "No esperaba abrir la Caja de Pandora lanzando un simple juguete."
-    mc ""
+    mc "Ich hätte nicht gedacht, dass ich mit einem einfachen Spielzeug die Büchse der Pandora öffnen würde."
 
 # game/hchar.rpy:17037
 translate german PA_HC_EV42_f6b156e7:
 
     # ca "Pude conseguir esa cucaracha de plástico gracias a la señorita Primrose."
-    ca ""
+    ca "Dank Miss Primrose konnte ich diese Plastikschabe bekommen."
 
 # game/hchar.rpy:17039
 translate german PA_HC_EV42_90223b65:
 
     # ca "Me leíste la mente y la lanzaste justo a tiempo."
-    ca ""
+    ca "Du hast meine Gedanken gelesen und es genau zum richtigen Zeitpunkt geworfen."
 
 # game/hchar.rpy:17041
 translate german PA_HC_EV42_f34d79f8:
 
     # mc "Tanto tiempo juntos, tiene sus recompensas."
-    mc ""
+    mc "So viel Zeit zusammen hat seine Vorteile."
 
 # game/hchar.rpy:17059
 translate german PA_HC_EV42_2583c434:
 
     # ca "¡¡¡[nombre]!!!"
-    ca ""
+    ca "[nombre]!!!"
 
 # game/hchar.rpy:17061
 translate german PA_HC_EV42_7be55ad4:
 
     # mc "Me gusta tu trasero."
-    mc ""
+    mc "Ich mag deinen Hintern."
 
 # game/hchar.rpy:17063
 translate german PA_HC_EV42_5a1622ec:
 
     # ca "¡Alguien nos podría ver!"
-    ca ""
+    ca "Jemand könnte uns sehen!"
 
 # game/hchar.rpy:17064
 translate german PA_HC_EV42_868add19:
 
     # ca "Debería volver a mi habitación, tengo mucho por hacer..."
-    ca ""
+    ca "Ich sollte zurück in mein Zimmer gehen, ich habe viel zu tun..."
 
 # game/hchar.rpy:17066
 translate german PA_HC_EV42_f4235e49:
 
     # ca "Depravado..."
-    ca ""
+    ca "Pervers..."
 
 # game/hchar.rpy:17071
 translate german PA_HC_EV42_16389604:
 
     # "<Vuelves en compañía de Charlotte al [restaurant], y decides descansar antes de continuar tus aventuras.>"
-    ""
+    "<Du kehrst in Begleitung von Charlotte zum [restaurant] zurück und beschliesst, dich auszuruhen, bevor du deine Abenteuer fortsetzt.>"
 
 # game/hchar.rpy:17091
 translate german PA_HC_EV43_79057949:
 
     # mc "Buenos días, Juliette."
-    mc ""
+    mc "Guten Morgen, Juliette."
 
 # game/hchar.rpy:17093
 translate german PA_HC_EV43_6a121ecd:
 
     # jul "..."
-    jul ""
+    jul "..."
 
 # game/hchar.rpy:17094
 translate german PA_HC_EV43_ae43145e:
 
     # mc "¿Qué sucede?"
-    mc ""
+    mc "Was ist los?"
 
 # game/hchar.rpy:17096
 translate german PA_HC_EV43_e8e033ed:
 
     # jul "Non..."
-    jul ""
+    jul "Non..."
 
 # game/hchar.rpy:17098
 translate german PA_HC_EV43_ff36dbb5:
 
     # mc "Creo que no te estoy entendiendo."
-    mc ""
+    mc "Ich glaube, ich verstehe dich nicht."
 
 # game/hchar.rpy:17100
 translate german PA_HC_EV43_931b9c59:
 
     # jul "¡He hecho el ridículo!"
-    jul ""
+    jul "Ich habe mich lächerlich gemacht!"
 
 # game/hchar.rpy:17101
 translate german PA_HC_EV43_f1adc64c:
 
     # jul "¡Y no solo yo! ¡Sino que mis hijas también!"
-    jul ""
+    jul "Und nicht nur ich! Auch meine Töchter!"
 
 # game/hchar.rpy:17102
 translate german PA_HC_EV43_ed95d4bc:
 
     # jul "¡He puesto en vergüenza la reputación de la familia Charpentier!"
-    jul ""
+    jul "Ich habe den Ruf der Familie Charpentier in Verruf gebracht!"
 
 # game/hchar.rpy:17104
 translate german PA_HC_EV43_49c75850:
 
     # mc "Bueno, solo fue un malentendido."
-    mc ""
+    mc "Nun, es war nur ein Missverständnis."
 
 # game/hchar.rpy:17106
 translate german PA_HC_EV43_b173231f:
 
     # jul "Tú no lo entiendes, [nombre]."
-    jul ""
+    jul "Du verstehst das nicht, [nombre]."
 
 # game/hchar.rpy:17107
 translate german PA_HC_EV43_4e1a9e18:
 
     # jul "Las mujeres de nuestra categoría no pueden mostrar debilidad."
-    jul ""
+    jul "Frauen in unserer Position dürfen keine Schwäche zeigen."
 
 # game/hchar.rpy:17108
 translate german PA_HC_EV43_55a19690:
 
     # jul "Lo más importante es cuidar tu imagen..."
-    jul ""
+    jul "Das Wichtigste ist, auf dein Image zu achten..."
 
 # game/hchar.rpy:17110
 translate german PA_HC_EV43_0298d7cb:
 
     # jul "Y ahora lo he arruinado todo."
-    jul ""
+    jul "Und jetzt habe ich alles ruiniert."
 
 # game/hchar.rpy:17111
 translate german PA_HC_EV43_d719daf8:
 
     # jul "Quizás todo esto del reality show fue una mala idea."
-    jul ""
+    jul "Vielleicht war diese ganze Reality-Show doch eine schlechte Idee."
 
 # game/hchar.rpy:17112
 translate german PA_HC_EV43_a9379734:
 
     # jul "Lo veía como una forma de volver a conectar con Charlotte y Sophia."
-    jul ""
+    jul "Ich sah es als eine Möglichkeit, wieder eine Verbindung zu Charlotte und Sophia aufzubauen."
 
 # game/hchar.rpy:17114
 translate german PA_HC_EV43_75168b5f:
 
     # mc "Si lo que busca es conectar con ellas..."
-    mc ""
+    mc "Wenn Sie Kontakt zu ihnen aufnehmen möchten..."
 
 # game/hchar.rpy:17115
 translate german PA_HC_EV43_cdb39f29:
 
     # mc "Quizás sería más sencillo escuchar lo que tienen que decir."
-    mc ""
+    mc "Vielleicht wäre es einfacher, sich anzuhören, was sie zu sagen haben."
 
 # game/hchar.rpy:17117
 translate german PA_HC_EV43_4da41211:
 
     # jul "¡Pero si siempre las escucho!"
-    jul ""
+    jul "Aber ich hör doch immer zu!"
 
 # game/hchar.rpy:17118
 translate german PA_HC_EV43_87649456:
 
     # jul "¡Quería conseguir ropa de primer nivel para resaltar su belleza ante la cámara!"
-    jul ""
+    jul "Ich wollte erstklassige Kleidung kaufen, um ihre Schönheit vor der Kamera hervorzuheben!"
 
 # game/hchar.rpy:17119
 translate german PA_HC_EV43_1cda3c62:
 
     # jul "Pero todo se fue a la basura por una tonta cucaracha de juguete..."
-    jul ""
+    jul "Aber alles ging wegen einer dummen Spielzeugkakerlake den Bach runter..."
 
 # game/hchar.rpy:17121
 translate german PA_HC_EV43_8addc1f9:
 
     # mc "(No sé qué es más triste...)"
-    mc ""
+    mc "(Ich weiss nicht, was trauriger ist...)"
 
 # game/hchar.rpy:17122
 translate german PA_HC_EV43_8f8f130f:
 
     # mc "(Juliette intentando conectar con sus hijas mientras se niega a ver la realidad.)"
-    mc ""
+    mc "(Juliette versucht, eine Verbindung zu ihren Töchtern aufzubauen, während sie sich weigert, die Realität zu sehen.)"
 
 # game/hchar.rpy:17123
 translate german PA_HC_EV43_4d801f8c:
 
     # mc "(O Charlotte intentando alejarse de ella por culpa de esa desconexión.)"
-    mc ""
+    mc "(Oder Charlotte, die versucht, sich wegen dieser Entfremdung von ihr zu distanzieren.)"
 
 # game/hchar.rpy:17125
 translate german PA_HC_EV43_b2ee368b:
 
     # jul "Me gustaría mantenerme al margen, pero no puedo dejar solas a mis hijas."
-    jul ""
+    jul "Ich würde mich gerne heraushalten, aber ich kann meine Töchter nicht allein lassen."
 
 # game/hchar.rpy:17127
 translate german PA_HC_EV43_78d1a53c:
 
     # mc "Ellas saben cuidarse, Juliette."
-    mc ""
+    mc "Sie wissen, wie sie auf sich aufpassen müssen, Juliette."
 
 # game/hchar.rpy:17128
 translate german PA_HC_EV43_e9a8d237:
 
     # mc "Pienso que las estás subestimando."
-    mc ""
+    mc "Ich glaube, du unterschätzt sie."
 
 # game/hchar.rpy:17130
 translate german PA_HC_EV43_7922c6d5:
 
     # jul "Yo sé muy bien de lo que son capaces mis hijas."
-    jul ""
+    jul "Ich weiss sehr gut, wozu meine Töchter fähig sind."
 
 # game/hchar.rpy:17131
 translate german PA_HC_EV43_68374085:
 
     # jul "No puedo dejar de sentir un enorme estrés..."
-    jul ""
+    jul "Ich kann mich eines enormen Stresses nicht erwehren..."
 
 # game/hchar.rpy:17133
 translate german PA_HC_EV43_eb8d2780:
 
     # mc "Lo mejor sería tomarse unos días de descanso."
-    mc ""
+    mc "Am besten wäre es, sich ein paar Tage frei zu nehmen."
 
 # game/hchar.rpy:17134
 translate german PA_HC_EV43_51bd0a92:
 
     # mc "Argleton sigue siendo un pueblo maravilloso para los que buscan un poco de paz."
-    mc ""
+    mc "Argleton ist nach wie vor ein wunderbarer Ort für alle, die ein wenig Ruhe suchen."
 
 # game/hchar.rpy:17136
 translate german PA_HC_EV43_20e08323:
 
     # jul "Es difícil relajarse cuando sabes que todos son actores."
-    jul ""
+    jul "Es ist schwer, sich zu entspannen, wenn man weiss, dass alle Schauspieler sind."
 
 # game/hchar.rpy:17138
 translate german PA_HC_EV43_5e6c8f69:
 
     # mc "(Siento un poco de lástima por ella, quizás debería decirle algo para que se sienta mejor.)"
-    mc ""
+    mc "(Ich habe ein bisschen Mitleid mit ihr, vielleicht sollte ich etwas zu ihr sagen, damit sie sich besser fühlt.)"
 
 # game/hchar.rpy:17140
 translate german PA_HC_EV43_ea5faa88:
 
     # mc "Eso no es verdad."
-    mc ""
+    mc "Das stimmt nicht."
 
 # game/hchar.rpy:17141
 translate german PA_HC_EV43_45ec50ff:
 
     # mc "Los actores son unos pocos, el resto de gente son de aquí."
-    mc ""
+    mc "Es gibt nur wenige Schauspieler, der Rest der Leute sind Einheimische."
 
 # game/hchar.rpy:17143
 translate german PA_HC_EV43_6ad376a7:
 
     # jul "¿Qué me dices de la chica de la cafetería?"
-    jul ""
+    jul "Was hältst du von dem Mädchen aus dem Café?"
 
 # game/hchar.rpy:17144
 translate german PA_HC_EV43_5f680855:
 
     # jul "Esa explosión parecía muy real."
-    jul ""
+    jul "Diese Explosion wirkte sehr real."
 
 # game/hchar.rpy:17146
 translate german PA_HC_EV43_3f0af66e:
 
     # mc "Es porque lo fue, ella no era una actriz."
-    mc ""
+    mc "Weil sie es war, sie war keine Schauspielerin."
 
 # game/hchar.rpy:17148
 translate german PA_HC_EV43_f08d4a8b:
 
     # jul "¿De verdad existe alguien tan torpe?"
-    jul ""
+    jul "Gibt es wirklich jemanden, der so ungeschickt ist?"
 
 # game/hchar.rpy:17149
 translate german PA_HC_EV43_5b50f441:
 
     # jul "¿Y qué hay de las chicas de la tienda?"
-    jul ""
+    jul "Und was ist mit den Mädchen im Laden?"
 
 # game/hchar.rpy:17150
 translate german PA_HC_EV43_2475a58b:
 
     # jul "Pero la pelirroja parecía conocerme."
-    jul ""
+    jul "Aber die Rothaarige schien mich zu kennen."
 
 # game/hchar.rpy:17152
 translate german PA_HC_EV43_8b227626:
 
     # mc "Ellas tampoco."
-    mc ""
+    mc "Sie auch nicht."
 
 # game/hchar.rpy:17154
 translate german PA_HC_EV43_b1942710:
 
     # jul "¡Entonces me vieron desnuda unas desconocidas!"
-    jul ""
+    jul "Dann haben mich fremde Frauen nackt gesehen!"
 
 # game/hchar.rpy:17155
 translate german PA_HC_EV43_8e4d9cf8:
 
     # jul "¡Y no solo a mí! ¡A mis hijas también!"
-    jul ""
+    jul "Und nicht nur mir! Auch meinen Töchtern!"
 
 # game/hchar.rpy:17157
 translate german PA_HC_EV43_f709b24e:
 
     # mc "Ha sido una coincidencia desagradable, sí, pero..."
-    mc ""
+    mc "Es war zwar ein unangenehmer Zufall, aber..."
 
 # game/hchar.rpy:17159
 translate german PA_HC_EV43_85db45ee:
 
     # jul "¡¿Quién es real y quién no?! ¡Siento que me voy a volver loca!"
-    jul ""
+    jul "Wer ist echt und wer nicht?! Ich glaube, ich werde noch verrückt!"
 
 # game/hchar.rpy:17161
 translate german PA_HC_EV43_da654797:
 
     # mc "No puedo decirlo con exactitud, ya que necesito que las reacciones sean genuinas."
-    mc ""
+    mc "Ich kann das nicht genau sagen, da ich authentische Reaktionen brauche."
 
 # game/hchar.rpy:17162
 translate german PA_HC_EV43_d79742f7:
 
     # mc "Pero digamos que solo el cinco por ciento de ellos, son actores."
-    mc ""
+    mc "Aber nehmen wir einmal an, dass nur fünf Prozent von ihnen Schauspieler sind."
 
 # game/hchar.rpy:17164
 translate german PA_HC_EV43_cdbe1993:
 
     # jul "¡Siento que me va a dar algo!"
-    jul ""
+    jul "Ich glaube, ich bekomme gleich einen Anfall!"
 
 # game/hchar.rpy:17165
 translate german PA_HC_EV43_37fe5793:
 
     # jul "Esto es terrible... Qué dolor de cabeza..."
-    jul ""
+    jul "Das ist schrecklich... Was für Kopfschmerzen..."
 
 # game/hchar.rpy:17167
 translate german PA_HC_EV43_9718fb7f:
 
     # mc "¿Por qué no disfrutar de la playa?"
-    mc ""
+    mc "Warum nicht den Strand geniessen?"
 
 # game/hchar.rpy:17169
 translate german PA_HC_EV43_18e9dfed:
 
     # mc "Quizás eso le ayude a sentirse mejor."
-    mc ""
+    mc "Vielleicht hilft Ihnen das, sich besser zu fühlen."
 
 # game/hchar.rpy:17170
 translate german PA_HC_EV43_a30f0418:
 
     # mc "Al menos sabe que yo no soy un actor."
-    mc ""
+    mc "Zumindest weisst du, dass ich kein Schauspieler bin."
 
 # game/hchar.rpy:17172
 translate german PA_HC_EV43_efa36591:
 
     # jul "Oui... Tienes razón..."
-    jul ""
+    jul "Oui... Du hast Recht..."
 
 # game/hchar.rpy:17174
 translate german PA_HC_EV43_d690c5b2:
 
     # mc "Iré por mi traje de baño y nos vemos aquí."
-    mc ""
+    mc "Ich hole meine Badehose und wir sehen uns hier."
 
 # game/hchar.rpy:17180
 translate german PA_HC_EV43_aaf67846:
 
     # "<Corres hasta el [restaurant] y te cambias rápidamente para sentirte más cómodo.>"
-    ""
+    "<Du rennst zum [restaurant] und ziehst dich schnell um, um dich wohler zu fühlen.>"
 
 # game/hchar.rpy:17185
 translate german PA_HC_EV43_6a121ecd_1:
 
     # jul "..."
-    jul ""
+    jul "..."
 
 # game/hchar.rpy:17187
 translate german PA_HC_EV43_82c379ed:
 
     # mc "He vuelto, Juliette."
-    mc ""
+    mc "Ich bin zurück, Juliette."
 
 # game/hchar.rpy:17189
 translate german PA_HC_EV43_241ec5e6:
 
     # jul "La cabeza aún me da vueltas..."
-    jul ""
+    jul "Mir schwirrt noch immer der Kopf..."
 
 # game/hchar.rpy:17191
 translate german PA_HC_EV43_ae691505:
 
     # mc "Podríamos sentarnos."
-    mc ""
+    mc "Wir könnten uns hinsetzen."
 
 # game/hchar.rpy:17193
 translate german PA_HC_EV43_10946ff7:
 
     # jul "Está bien, [nombre]..."
-    jul ""
+    jul "Okay, [nombre]..."
 
 # game/hchar.rpy:17195
 translate german PA_HC_EV43_bcc3b735:
 
     # jul "Desde que llegué aquí, mi vida se ha vuelto extraña."
-    jul ""
+    jul "Seit ich hier angekommen bin, ist mein Leben seltsam geworden."
 
 # game/hchar.rpy:17196
 translate german PA_HC_EV43_86732da3:
 
     # jul "Primero mi hija Charlotte se ha vuelto rebelde..."
-    jul ""
+    jul "Zuerst ist meine Tochter Charlotte rebellisch geworden..."
 
 # game/hchar.rpy:17197
 translate german PA_HC_EV43_2b87173c:
 
     # jul "Luego todo esto del reality show..."
-    jul ""
+    jul "Dann diese ganze Reality-Show..."
 
 # game/hchar.rpy:17199
 translate german PA_HC_EV43_3f7eb155:
 
     # jul "Y ahora estoy con un chico mucho más joven que yo, en lo que parece una cita."
-    jul ""
+    jul "Und jetzt bin ich mit einem viel jüngeren Mann zusammen, in einer Art Verabredung."
 
 # game/hchar.rpy:17201
 translate german PA_HC_EV43_329ce023:
 
     # mc "¿No le gusta esa idea?"
-    mc ""
+    mc "Gefällt Ihnen diese Idee nicht?"
 
 # game/hchar.rpy:17203
 translate german PA_HC_EV43_15cb8f69:
 
     # jul "Non, pero se siente extraño..."
-    jul ""
+    jul "Nein, aber es fühlt sich seltsam an..."
 
 # game/hchar.rpy:17204
 translate german PA_HC_EV43_173457e8:
 
     # jul "Qué estoy diciendo... Se me pasan ideas extrañas por la mente."
-    jul ""
+    jul "Was sage ich da... Mir kommen seltsame Gedanken in den Sinn."
 
 # game/hchar.rpy:17206
 translate german PA_HC_EV43_4f7b74bd:
 
     # jul "Por alguna razón me siento más joven."
-    jul ""
+    jul "Aus irgendeinem Grund fühle ich mich jünger."
 
 # game/hchar.rpy:17207
 translate german PA_HC_EV43_cdd81e10:
 
     # jul "Olvídalo, [nombre]... Estaba pensando en voz alta..."
-    jul ""
+    jul "Vergiss es, [nombre]... Ich habe nur laut gedacht..."
 
 # game/hchar.rpy:17208
 translate german PA_HC_EV43_ebada82f:
 
     # jul "No quiero causar incomodidad."
-    jul ""
+    jul "Ich möchte niemanden in Verlegenheit bringen."
 
 # game/hchar.rpy:17210
 translate german PA_HC_EV43_a32b8d4e:
 
     # mc "Por mí está bien, me gusta escuchar."
-    mc ""
+    mc "Das ist okay für mich, ich höre gerne zu."
 
 # game/hchar.rpy:17211
 translate german PA_HC_EV43_de18dedb:
 
     # mc "Incluso tengo una mejor idea."
-    mc ""
+    mc "Ich habe sogar eine noch bessere Idee."
 
 # game/hchar.rpy:17212
 translate german PA_HC_EV43_74f51234:
 
     # mc "Podría recostarse mientras le hago unos masajes."
-    mc ""
+    mc "Sie könnten sich zurücklehnen, während ich Sie massiere."
 
 # game/hchar.rpy:17213
 translate german PA_HC_EV43_4418a432:
 
     # mc "Eso le ayudará a liberar la tensión acumulada."
-    mc ""
+    mc "Das wird Ihnen helfen, angesammelte Spannungen abzubauen."
 
 # game/hchar.rpy:17215
 translate german PA_HC_EV43_23d27b3a:
 
     # jul "Me harías un gran favor, [nombre]."
-    jul ""
+    jul "Du würdest mir einen grossen Gefallen tun, [nombre]."
 
 # game/hchar.rpy:17217
 translate german PA_HC_EV43_a5edb3e4:
 
     # mc "Soy un profesional."
-    mc ""
+    mc "Ich bin ein Profi."
 
 # game/hchar.rpy:17228
 translate german PA_HC_EV43_cf19fd1b:
 
     # jul "Se siente muy bien..."
-    jul ""
+    jul "Es fühlt sich sehr gut an..."
 
 # game/hchar.rpy:17229
 translate german PA_HC_EV43_9020ebb0:
 
     # jul "No sabía que necesitaba tanto esto."
-    jul ""
+    jul "Ich wusste nicht, dass ich das so sehr brauchte."
 
 # game/hchar.rpy:17231
 translate german PA_HC_EV43_5fc3e054:
 
     # jul "Merci, [nombre]."
-    jul ""
+    jul "Merci, [nombre]."
 
 # game/hchar.rpy:17233
 translate german PA_HC_EV43_2ba3fdc3:
 
     # mc "Puedo hacerlo cuando quiera, Juliette."
-    mc ""
+    mc "Ich kann das tun, wann immer sie wollen, Juliette."
 
 # game/hchar.rpy:17234
 translate german PA_HC_EV43_7536b284:
 
     # mc "Solo tiene que pedírmelo."
-    mc ""
+    mc "Sie müssen mich nur darum bitten."
 
 # game/hchar.rpy:17236
 translate german PA_HC_EV43_4d7b6316:
 
     # jul "No quiero abusar de tu amabilidad."
-    jul ""
+    jul "Ich möchte deine Freundlichkeit nicht ausnutzen."
 
 # game/hchar.rpy:17237
 translate german PA_HC_EV43_f33515ba:
 
     # jul "Han sido unas semanas difíciles..."
-    jul ""
+    jul "Es waren schwierige Wochen..."
 
 # game/hchar.rpy:17239
 translate german PA_HC_EV43_6a5f505b:
 
     # mc "Es comprensible."
-    mc ""
+    mc "Das ist verständlich."
 
 # game/hchar.rpy:17241
 translate german PA_HC_EV43_d4160488:
 
     # jul "Vine a Argleton con una intención completamente diferente."
-    jul ""
+    jul "Ich kam mit einer ganz anderen Absicht nach Argleton."
 
 # game/hchar.rpy:17242
 translate german PA_HC_EV43_93ab788a:
 
     # jul "Y ahora me doy cuenta de que mis hijas han crecido demasiado."
-    jul ""
+    jul "Und jetzt merke ich, dass meine Töchter viel zu schnell gross geworden sind."
 
 # game/hchar.rpy:17243
 translate german PA_HC_EV43_87d2fde3:
 
     # jul "Sobre todo Charlotte..."
-    jul ""
+    jul "Vor allem Charlotte..."
 
 # game/hchar.rpy:17245
 translate german PA_HC_EV43_4bc1410f:
 
     # mc "¿Ella era distinta en casa?"
-    mc ""
+    mc "War sie zu Hause anders?"
 
 # game/hchar.rpy:17247
 translate german PA_HC_EV43_9088c078:
 
     # jul "Siempre obedecía mis órdenes."
-    jul ""
+    jul "Sie hat immer meine Anweisungen befolgt."
 
 # game/hchar.rpy:17249
 translate german PA_HC_EV43_de01ea65:
 
     # jul "Poniendo de su parte para cumplir sus deberes con la familia."
-    jul ""
+    jul "Sich bemühen, ihren Pflichten gegenüber der Familie nachzukommen."
 
 # game/hchar.rpy:17250
 translate german PA_HC_EV43_ca6e94c7:
 
     # jul "Fue culpa de Lissette y su forma tan libre de ver la vida."
-    jul ""
+    jul "Es war Lissettes Schuld und ihre so freie Art, das Leben zu sehen."
 
 # game/hchar.rpy:17252
 translate german PA_HC_EV43_18e99291:
 
     # jul "¡UHh!"
-    jul ""
+    jul "UHh!"
 
 # game/hchar.rpy:17263
 translate german PA_HC_EV43_b885e696:
 
     # jul "¿Qué haces?"
-    jul ""
+    jul "Was machst du?"
 
 # game/hchar.rpy:17264
 translate german PA_HC_EV43_37e92e81:
 
     # jul "¡Ese es mi trasero!"
-    jul ""
+    jul "Das ist mein Hintern!"
 
 # game/hchar.rpy:17266
 translate german PA_HC_EV43_97a26896:
 
     # mc "Este punto también es importante para un buen masaje."
-    mc ""
+    mc "Dieser Punkt ist auch für eine gute Massage wichtig."
 
 # game/hchar.rpy:17267
 translate german PA_HC_EV43_491c0d32:
 
     # mc "Es dónde se ubica el chakra de la relajación."
-    mc ""
+    mc "Hier befindet sich das Chakra der Entspannung."
 
 # game/hchar.rpy:17269
 translate german PA_HC_EV43_2dbbc451:
 
     # jul "Nunca había escuchado sobre eso."
-    jul ""
+    jul "Davon habe ich noch nie gehört."
 
 # game/hchar.rpy:17271
 translate german PA_HC_EV43_3138b928:
 
     # mc "Como le dije, soy todo un profesional."
-    mc ""
+    mc "Wie ich Ihnen bereits gesagt habe, bin ich ein absoluter Profi."
 
 # game/hchar.rpy:17273
 translate german PA_HC_EV43_f0bd6c59:
 
     # mc "Y poseo muchos trucos secretos."
-    mc ""
+    mc "Und ich kenne viele Geheimtipps."
 
 # game/hchar.rpy:17275
 translate german PA_HC_EV43_f3721605:
 
     # jul "Está bien..."
-    jul ""
+    jul "Okay..."
 
 # game/hchar.rpy:17277
 translate german PA_HC_EV43_a0429795:
 
     # mc "(A pesar de su edad tiene un trasero muy firme.)"
-    mc ""
+    mc "(Trotz Ihres Alters hat sie einen echt knackigen Arsch.)"
 
 # game/hchar.rpy:17279
 translate german PA_HC_EV43_dc26ddd2:
 
     # jul "Olvide lo que estaba diciendo."
-    jul ""
+    jul "Vergessen Sie, was ich gerade gesagt habe."
 
 # game/hchar.rpy:17281
 translate german PA_HC_EV43_79d2901d:
 
     # mc "Sobre Lissette, Charlotte y la vida en casa."
-    mc ""
+    mc "Über Lissette, Charlotte und das Leben zu Hause."
 
 # game/hchar.rpy:17283
 translate german PA_HC_EV43_424ef283:
 
     # jul "¡Oui! ¡Todo fue culpa de mi madre!"
-    jul ""
+    jul "Oui! Das war alles die Schuld meiner Mutter!"
 
 # game/hchar.rpy:17285
 translate german PA_HC_EV43_7e24cd4f:
 
     # jul "¡Ella envenenó la cabeza de Charlotte con sus ideas!"
-    jul ""
+    jul "Sie hat Charlotte mit ihren Ideen vergiftet!"
 
 # game/hchar.rpy:17287
 translate german PA_HC_EV43_9c621cfe:
 
     # mc "Intente relajarse, Juliette."
-    mc ""
+    mc "Versuchen Sie sich zu entspannen, Juliette."
 
 # game/hchar.rpy:17288
 translate german PA_HC_EV43_84cc6ac9:
 
     # mc "Siento los músculos de su trasero demasiado tensos."
-    mc ""
+    mc "Ich spüre, wie die Muskeln Ihres Gesässes zu angespannt sind."
 
 # game/hchar.rpy:17290
 translate german PA_HC_EV43_4c24ec60:
 
     # mc "(Es hora de subir la apuesta...)"
-    mc ""
+    mc "(Es ist Zeit, den Einsatz zu erhöhen...)"
 
 # game/hchar.rpy:17292
 translate german PA_HC_EV43_416cbc0e:
 
     # jul "No puedo evitarlo."
-    jul ""
+    jul "Ich kann nichts dagegen tun."
 
 # game/hchar.rpy:17305
 translate german PA_HC_EV43_ca7da906:
 
     # mc "El traje de baño está demasiado apretado."
-    mc ""
+    mc "Der Badeanzug ist zu eng."
 
 # game/hchar.rpy:17307
 translate german PA_HC_EV43_a0845b5a:
 
     # mc "Si lo quitamos, su cuerpo se sentirá más libre."
-    mc ""
+    mc "Wenn wir es entfernen, wird sich Ihr Körper freier fühlen."
 
 # game/hchar.rpy:17310
 translate german PA_HC_EV43_7ac0c3d1:
 
     # jul "Pero podría verme alguien."
-    jul ""
+    jul "Aber jemand könnte mich sehen."
 
 # game/hchar.rpy:17312
 translate german PA_HC_EV43_d399157f:
 
     # mc "No se preocupe, Juliette."
-    mc ""
+    mc "Keine Sorge, Juliette."
 
 # game/hchar.rpy:17313
 translate german PA_HC_EV43_e0630537:
 
     # mc "Aunque no lo crea, esta es una playa muy solitaria."
-    mc ""
+    mc "Obwohl Sie es nicht glauben mögen, ist dies ein sehr einsamer Strand."
 
 # game/hchar.rpy:17314
 translate german PA_HC_EV43_2ff55f27:
 
     # mc "Además, no se le verá nada mientras esté en esta posición."
-    mc ""
+    mc "Ausserdem wird man nichts sehen, solange Sie sich in dieser Position befinden."
 
 # game/hchar.rpy:17316
 translate german PA_HC_EV43_569adec2:
 
     # jul "Oui..."
-    jul ""
+    jul "Oui..."
 
 # game/hchar.rpy:17318
 translate german PA_HC_EV43_ccc233b2:
 
     # mc "¿Qué me decía sobre Charlotte?"
-    mc ""
+    mc "Was haben Sie mir über Charlotte gesagt?"
 
 # game/hchar.rpy:17319
 translate german PA_HC_EV43_873d58a2:
 
     # jul "¡Oui! ¡Mi madre ha puesto a mi hija en mi contra!"
-    jul ""
+    jul "Oui! Meine Mutter hat meine Tochter gegen mich aufgehetzt!"
 
 # game/hchar.rpy:17321
 translate german PA_HC_EV43_0175a2e1:
 
     # jul "Siempre divaga sobre sus memorias en este pueblo..."
-    jul ""
+    jul "Sie erzählt immer wieder von ihren Erinnerungen an dieses Dorf..."
 
 # game/hchar.rpy:17323
 translate german PA_HC_EV43_fb2ada27:
 
     # jul "Y opino que son puras patrañas."
-    jul ""
+    jul "Und ich bin der Meinung, dass das alles Unsinn ist."
 
 # game/hchar.rpy:17325
 translate german PA_HC_EV43_9a5c763f:
 
     # jul "Si tanto le gustara este pueblo, habría vuelto hace años."
-    jul ""
+    jul "Wenn Ihr dieses Dorf so gut gefallen hätte, wäre sie schon vor Jahren zurückgekommen."
 
 # game/hchar.rpy:17327
 translate german PA_HC_EV43_939e3546:
 
     # jul "¡Pero nunca lo hizo!"
-    jul ""
+    jul "Aber das hat sie nie getan!"
 
 # game/hchar.rpy:17329
 translate german PA_HC_EV43_d3260c24:
 
     # mc "Intente relajarse, se está exaltando demasiado."
-    mc ""
+    mc "Versuchen Sie sich zu entspannen, Sie regen sich zu sehr auf."
 
 # game/hchar.rpy:17331
 translate german PA_HC_EV43_00ae0a83:
 
     # jul "Es que no puedo evitarlo..."
-    jul ""
+    jul "Ich kann einfach nicht anders..."
 
 # game/hchar.rpy:17345
 translate german PA_HC_EV43_c23b7f70:
 
     # mc "Liberarla de esta presión le ayudará a enfocarse."
-    mc ""
+    mc "Wenn Sie sich von diesem Druck befreien, können Sie sich besser konzentrieren."
 
 # game/hchar.rpy:17347
 translate german PA_HC_EV43_569adec2_1:
 
     # jul "Oui..."
-    jul ""
+    jul "Oui..."
 
 # game/hchar.rpy:17349
 translate german PA_HC_EV43_ee8d3ce3:
 
     # mc "Respire profundo y cuente hasta diez."
-    mc ""
+    mc "Atmen Sie tief durch und zählen Sie bis zehn."
 
 # game/hchar.rpy:17352
 translate german PA_HC_EV43_45f0232f:
 
     # jul "Eso voy a hacer."
-    jul ""
+    jul "Das werde ich tun."
 
 # game/hchar.rpy:17354
 translate german PA_HC_EV43_6a121ecd_2:
 
     # jul "..."
-    jul ""
+    jul "..."
 
 # game/hchar.rpy:17356
 translate german PA_HC_EV43_919ad5c3:
 
     # jul "Diez."
-    jul ""
+    jul "Zehn."
 
 # game/hchar.rpy:17358
 translate german PA_HC_EV43_72a559c9:
 
     # mc "Así que su madre Lissette fue la culpable del cambio de Charlotte."
-    mc ""
+    mc "Also war ihre Mutter Lissette für Charlottes Veränderung verantwortlich."
 
 # game/hchar.rpy:17360
 translate german PA_HC_EV43_e0c235a4:
 
     # jul "Al principio tenía mis sospechas, pero hace días no hago más que confirmarlo."
-    jul ""
+    jul "Anfangs hatte ich meine Zweifel, aber seit einigen Tagen bestätigt sich mein Verdacht nur noch mehr."
 
 # game/hchar.rpy:17362
 translate german PA_HC_EV43_217cf373:
 
     # mc "No entiendo como su madre logró crear un imperio tan grande."
-    mc ""
+    mc "Ich verstehe nicht, wie Ihre Mutter es geschafft hat, ein so grosses Imperium aufzubauen."
 
 # game/hchar.rpy:17363
 translate german PA_HC_EV43_a1fe0b3d:
 
     # mc "Ustedes dos parecen totalmente opuestas."
-    mc ""
+    mc "Ihr zwei seht total unterschiedlich aus."
 
 # game/hchar.rpy:17365
 translate german PA_HC_EV43_c29c4ae4:
 
     # jul "Mi madre nació con un don especial."
-    jul ""
+    jul "Meine Mutter wurde mit einer besonderen Gabe geboren."
 
 # game/hchar.rpy:17367
 translate german PA_HC_EV43_ad7bab44:
 
     # mc "¿Qué clase de don?"
-    mc ""
+    mc "Was für eine Gabe?"
 
 # game/hchar.rpy:17369
 translate german PA_HC_EV43_0c973c5f:
 
     # jul "Con una simple mirada, sabe lo que los demás están sintiendo."
-    jul ""
+    jul "Mit einem Blick weiss sie, was die anderen fühlen."
 
 # game/hchar.rpy:17371
 translate german PA_HC_EV43_394ab709:
 
     # jul "Es como si tuviese el poder de leer la mente."
-    jul ""
+    jul "Es ist, als hätte er die Fähigkeit, Gedanken zu lesen."
 
 # game/hchar.rpy:17373
 translate german PA_HC_EV43_3f5f71c7:
 
     # jul "Siempre sabe qué responder en el momento correcto."
-    jul ""
+    jul "Sie weiss immer, was er im richtigen Moment antworten muss."
 
 # game/hchar.rpy:17375
 translate german PA_HC_EV43_bf28d55a:
 
     # mc "(Debo admitir que manosear el trasero de Juliette resulta adictivo.)"
-    mc ""
+    mc "(Ich muss zugeben, dass es süchtig macht, Juliette den Hintern zu begrabschen.)"
 
 # game/hchar.rpy:17376
 translate german PA_HC_EV43_071c40a2:
 
     # mc "(Mierda... Siento que me va a explotar el pene.)"
-    mc ""
+    mc "(Verdammt... Ich hab das Gefühl, mein Penis platzt gleich.)"
 
 # game/hchar.rpy:17377
 translate german PA_HC_EV43_a9524dd5:
 
     # mc "(Quizás debería subir la apuesta...)"
-    mc ""
+    mc "(Vielleicht sollte ich den Einsatz erhöhen...)"
 
 # game/hchar.rpy:17386
 translate german PA_HC_EV43_5c255fad:
 
     # jul "Según ella, consiguió una pequeña fortuna y comenzó desde allí."
-    jul ""
+    jul "Ihrer Aussage nach gelang es ihr, ein kleines Vermögen zu verdienen, und damit begann sie dann."
 
 # game/hchar.rpy:17387
 translate german PA_HC_EV43_313efdde:
 
     # jul "¿[nombre]? ¿Me estás escuchando?"
-    jul ""
+    jul "[nombre]? Hörst du mich?
 
 # game/hchar.rpy:17389
 translate german PA_HC_EV43_2a9d085c:
 
     # mc "Escucho cada palabra, Juliette."
-    mc ""
+    mc "Ich höre jedes Wort, Juliette."
 
 # game/hchar.rpy:17391
 translate german PA_HC_EV43_2dc72aba:
 
     # jul "Pensaba que me estabas ignorando."
-    jul ""
+    jul "Ich dachte, du würdest mich ignorieren."
 
 # game/hchar.rpy:17393
 translate german PA_HC_EV43_369bcf62:
 
     # mc "(¡Aquí voy!)"
-    mc ""
+    mc "(Los geht's!)"
 
 # game/hchar.rpy:17394
 translate german PA_HC_EV43_a2d5193d:
 
     # mc "(No tengo remedio...)"
-    mc ""
+    mc "(Ich kann nichts dafür...)"
 
 # game/hchar.rpy:17396
 translate german PA_HC_EV43_f17d407c:
 
     # mc "Ahora es momento de usar mi segunda técnica."
-    mc ""
+    mc "Jetzt ist es Zeit, meine zweite Technik anzuwenden."
 
 # game/hchar.rpy:17398
 translate german PA_HC_EV43_f60ef37f:
 
     # jul "¿Con qué me vas a sorprender?"
-    jul ""
+    jul "Womit willst du mich überraschen?"
 
 # game/hchar.rpy:17399
 translate german PA_HC_EV43_a503be67:
 
     # mc "Es importante que cierre los ojos y se concentre."
-    mc ""
+    mc "Es ist wichtig, dass Sie die Augen schliessen und sich konzentrieren."
 
 # game/hchar.rpy:17401
 translate german PA_HC_EV43_24d7556c:
 
     # mc "Desde ahora usaré mi antebrazo en su trasero para..."
-    mc ""
+    mc "Von nun an werde ich meinen Unterarm an Ihrem Hintern benutzen..."
 
 # game/hchar.rpy:17402
 translate german PA_HC_EV43_206203e7:
 
     # mc "Acumular energía en su chakra de relajación."
-    mc ""
+    mc "Sammeln Sie Energie in Ihrem Entspannungs-Chakra."
 
 # game/hchar.rpy:17413
 translate german PA_HC_EV43_569adec2_2:
 
     # jul "Oui..."
-    jul ""
+    jul "Oui..."
 
 # game/hchar.rpy:17419
 translate german PA_HC_EV43_f2e25079:
 
     # mc "(¡Qué bien se siente!)"
-    mc ""
+    mc "(Das fühlt sich gut an!)"
 
 # game/hchar.rpy:17422
 translate german PA_HC_EV43_5efd545f:
 
     # mc "Así que su madre podía leer la mente."
-    mc ""
+    mc "Also konnte Ihre Mutter Gedanken lesen."
 
 # game/hchar.rpy:17424
 translate german PA_HC_EV43_ea014c8b:
 
     # jul "Esas eran mis sospechas."
-    jul ""
+    jul "Das war auch mein Verdacht."
 
 # game/hchar.rpy:17425
 translate german PA_HC_EV43_969827ce:
 
     # jul "Según ella era gracias a su instinto."
-    jul ""
+    jul "Ihrer Meinung nach war das ihrem Instinkt zu verdanken."
 
 # game/hchar.rpy:17427
 translate german PA_HC_EV43_1e9ea3e0:
 
     # jul "Siempre parecía saber lo que yo estaba pensando."
-    jul ""
+    jul "Sie schien immer zu wissen, was ich dachte."
 
 # game/hchar.rpy:17428
 translate german PA_HC_EV43_f91a1c7d:
 
     # jul "Comenzó el negocio familiar en su juventud después de ganar una pequeña fortuna."
-    jul ""
+    jul "Sie hat das Familienunternehmen in Ihrer Jugend gestartet, nachdem sie ein kleines Vermögen gemacht hatte."
 
 # game/hchar.rpy:17430
 translate german PA_HC_EV43_2d41301e:
 
     # mc "¿Dónde consiguió una fortuna?"
-    mc ""
+    mc "Woher hat sie Ihr Vermögen?"
 
 # game/hchar.rpy:17435
 translate german PA_HC_EV43_e60feef4:
 
     # jul "Según ella, tuvo suerte en la lotería."
-    jul ""
+    jul "Ihrer Meinung nach hatte sie Glück im Lotto."
 
 # game/hchar.rpy:17436
 translate german PA_HC_EV43_8914e186:
 
     # jul "Pero después de mucho buscar, nunca vi su nombre entre los ganadores."
-    jul ""
+    jul "Aber nach langem Suchen habe ich Ihren Namen nie unter den Gewinnern gesehen."
 
 # game/hchar.rpy:17437
 translate german PA_HC_EV43_ac4f39bd:
 
     # jul "Luego todo fue como una bola de nieve."
-    jul ""
+    jul "Dann ging alles wie ein Schneeball."
 
 # game/hchar.rpy:17438
 translate german PA_HC_EV43_642d4a83:
 
     # jul "Lissette siempre sabía que hacer en el momento correcto, gracias a ese don."
-    jul ""
+    jul "Dank dieser Gabe wusste Lissette immer, was im richtigen Moment zu tun war."
 
 # game/hchar.rpy:17439
 translate german PA_HC_EV43_0d4aa297:
 
     # jul "Y el negocio fue creciendo y creciendo..."
-    jul ""
+    jul "Und das Geschäft wuchs und wuchs..."
 
 # game/hchar.rpy:17440
 translate german PA_HC_EV43_852d2f1f:
 
     # jul "Oye [nombre]."
-    jul ""
+    jul "Hey [nombre]."
 
 # game/hchar.rpy:17445
 translate german PA_HC_EV43_f51283f6:
 
     # jul "Tu antebrazo se siente raro."
-    jul ""
+    jul "Dein Unterarm fühlt sich komisch an."
 
 # game/hchar.rpy:17447
 translate german PA_HC_EV43_abe2af93:
 
     # mc "Es parte de la técnica."
-    mc ""
+    mc "Das gehört zur Technik dazu."
 
 # game/hchar.rpy:17449
 translate german PA_HC_EV43_1d6c0899:
 
-    # jul "¿Estás seguro?"
-    jul ""
+    # jul "c"
+    jul "Bist du sicher?"
 
 # game/hchar.rpy:17450
 translate german PA_HC_EV43_201c1ab0:
 
     # jul "Se siente demasiado caliente."
-    jul ""
+    jul "Es fühlt sich zu heiss an."
 
 # game/hchar.rpy:17452
 translate german PA_HC_EV43_5b45ab71:
 
     # mc "Es debido a la fricción constante."
-    mc ""
+    mc "Das liegt an der ständigen Reibung."
 
 # game/hchar.rpy:17454
 translate german PA_HC_EV43_949b7b8d:
 
     # jul "Te noto agitado."
-    jul ""
+    jul "Du wirkst aufgeregt."
 
 # game/hchar.rpy:17456
 translate german PA_HC_EV43_92170b95:
 
     # mc "Hacer masajes es agotador, no es tan fácil como parece."
-    mc ""
+    mc "Massagen sind anstrengend, es ist nicht so einfach, wie es aussieht."
 
 # game/hchar.rpy:17458
 translate german PA_HC_EV43_315fc043:
 
     # jul "Es muy extraño..."
-    jul ""
+    jul "Das ist sehr seltsam..."
 
 # game/hchar.rpy:17459
 translate german PA_HC_EV43_944c319b:
 
     # jul "Se siente bastante más flexible que un antebrazo."
-    jul ""
+    jul "Es fühlt sich deutlich flexibler an als ein Unterarm."
 
 # game/hchar.rpy:17464
 translate german PA_HC_EV43_52c5c3ae:
 
     # mc "Ya casi..."
-    mc ""
+    mc "Fast fertig..."
 
 # game/hchar.rpy:17465
 translate german PA_HC_EV43_22241e9c:
 
     # jul "Sonará gracioso pero..."
-    jul ""
+    jul "Es klingt vielleicht komisch, aber..."
 
 # game/hchar.rpy:17466
 translate german PA_HC_EV43_55cdbd86:
 
     # jul "Es como si no tuviese hueso."
-    jul ""
+    jul "Es ist, als hätte es keine Knochen."
 
 # game/hchar.rpy:17467
 translate german PA_HC_EV43_5da92807:
 
     # mc "Elasticidad desarrollada durante años de entrenamiento."
-    mc ""
+    mc "Durch jahrelanges Training entwickelte Elastizität."
 
 # game/hchar.rpy:17468
 translate german PA_HC_EV43_a1430be5:
 
     # jul "Me gusta este tipo de masajes."
-    jul ""
+    jul "Ich mag diese Art von Massagen."
 
 # game/hchar.rpy:17469
 translate german PA_HC_EV43_dd4a1819:
 
     # jul "Nunca había sentido algo igual."
-    jul ""
+    jul "Ich hatte noch nie zuvor so etwas empfunden."
 
 # game/hchar.rpy:17470
 translate german PA_HC_EV43_defa2f70:
 
     # mc "(¡Mierda! ¡Aquí viene!)"
-    mc ""
+    mc "(Scheisse! Jetzt kommt's!)"
 
 # game/hchar.rpy:17489
 translate german PA_HC_EV43_326c8a37:
 
     # mc "(Uh... Eso se ha sentido bien.)"
-    mc ""
+    mc "(Äh... Das hat sich gut angefühlt.)"
 
 # game/hchar.rpy:17490
 translate german PA_HC_EV43_f79f7920:
 
     # mc "(Mierda... Me dejé llevar y deje a Juliette cubierta.)"
-    mc ""
+    mc "(Scheisse... Ich habe mich nicht kontrollieren können und habe Juliette bedeckt.)"
 
 # game/hchar.rpy:17491
 translate german PA_HC_EV43_bf16c9fc:
 
     # mc "(Parece que no se ha dado cuenta, así que debo ser rápido.)"
-    mc ""
+    mc "(Sie scheint es nicht bemerkt zu haben, also muss ich schnell sein.)"
 
 # game/hchar.rpy:17493
 translate german PA_HC_EV43_a3a40e7a:
 
     # jul "Siento algo húmedo en la espalda."
-    jul ""
+    jul "Ich spüre etwas Feuchtes auf meinem Rücken."
 
 # game/hchar.rpy:17495
 translate german PA_HC_EV43_3ae3c00c:
 
     # mc "Eso es..."
-    mc ""
+    mc "Das ist..."
 
 # game/hchar.rpy:17496
 translate german PA_HC_EV43_27b57f99:
 
     # mc "¡Una crema mágica!"
-    mc ""
+    mc "Eine magische Creme!"
 
 # game/hchar.rpy:17497
 translate german PA_HC_EV43_5c00f42b:
 
     # mc "Es el último paso antes de dar por finalizado el masaje."
-    mc ""
+    mc "Dies ist der letzte Schritt, bevor die Massage beendet wird."
 
 # game/hchar.rpy:17499
 translate german PA_HC_EV43_90f6e59e:
 
     # jul "¿Una crema?"
-    jul ""
+    jul "Eine Creme?"
 
 # game/hchar.rpy:17500
 translate german PA_HC_EV43_fadf3497:
 
     # jul "No recuerdo haberte visto nada por el estilo."
-    jul ""
+    jul "Ich kann mich nicht erinnern, jemals so etwas gesehen zu haben."
 
 # game/hchar.rpy:17502
 translate german PA_HC_EV43_40c77193:
 
     # mc "Era un envase pequeño."
-    mc ""
+    mc "Es war eine kleine Verpackung."
 
 # game/hchar.rpy:17504
 translate german PA_HC_EV43_47cde086:
 
     # jul "Veo que siempre estás preparado."
-    jul ""
+    jul "Ich sehe, dass du immer vorbereitet bist."
 
 # game/hchar.rpy:17506
 translate german PA_HC_EV43_8eb5383f:
 
     # mc "(Debería desparramarlo hasta hacerlo desaparecer.)"
-    mc ""
+    mc "(Ich sollte es verteilen, bis es verschwunden ist.)"
 
 # game/hchar.rpy:17508
 translate german PA_HC_EV43_84e1c3e2:
 
     # mc "Ya casi hemos terminado, Juliette."
-    mc ""
+    mc "Wir sind fast fertig, Juliette."
 
 # game/hchar.rpy:17510
 translate german PA_HC_EV43_da8cd59f:
 
     # mc "Espero que mi masaje le haya servido de ayuda."
-    mc ""
+    mc "Ich hoffe, meine Massage hat Ihnen geholfen."
 
 # game/hchar.rpy:17512
 translate german PA_HC_EV43_39c39882:
 
     # jul "Admito que mis expectativas eran bajas."
-    jul ""
+    jul "Ich gebe zu, dass meine Erwartungen gering waren."
 
 # game/hchar.rpy:17513
 translate german PA_HC_EV43_ff9da44d:
 
     # jul "Pero me ha sentado de maravilla."
-    jul ""
+    jul "Aber es hat mir sehr gut getan."
 
 # game/hchar.rpy:17515
 translate german PA_HC_EV43_26146022:
 
     # jul "Tienes unas manos mágicas, [nombre]."
-    jul ""
+    jul "Du hast magische Hände, [nombre]."
 
 # game/hchar.rpy:17517
 translate german PA_HC_EV43_8cdac7b8:
 
     # mc "Ahora por aquí..."
-    mc ""
+    mc "Jetzt hier..."
 
 # game/hchar.rpy:17519
 translate german PA_HC_EV43_454f4520:
 
     # mc "Es una de mis tantas habilidades."
-    mc ""
+    mc "Das ist eine meiner vielen Fähigkeiten."
 
 # game/hchar.rpy:17521
 translate german PA_HC_EV43_7de38405:
 
     # mc "Nunca se sabe cuándo podría resultar útil."
-    mc ""
+    mc "Man weiss nie, wann es nützlich sein könnte."
 
 # game/hchar.rpy:17532
 translate german PA_HC_EV43_64a952bf:
 
     # jul "Eres como una caja llena de sorpresas, [nombre]."
-    jul ""
+    jul "Du bist wie eine Schachtel voller Überraschungen, [nombre]."
 
 # game/hchar.rpy:17534
 translate german PA_HC_EV43_baae2b3f:
 
     # mc "Ahora el toque final."
-    mc ""
+    mc "Jetzt der letzte Schliff."
 
 # game/hchar.rpy:17554
 translate german PA_HC_EV43_6986fe74:
 
     # jul "¡¿Uh?!"
-    jul ""
+    jul "Äh?"
 
 # game/hchar.rpy:17555
 translate german PA_HC_EV43_fb5bd403:
 
     # jul "¿Acabas de darme una cachetada?"
-    jul ""
+    jul "Hast du mich gerade geohrfeigt?"
 
 # game/hchar.rpy:17557
 translate german PA_HC_EV43_842804dd:
 
     # mc "Para la buena suerte."
-    mc ""
+    mc "Für viel Glück."
 
 # game/hchar.rpy:17558
 translate german PA_HC_EV43_1ae75208:
 
     # mc "Desde ahora debe intentar mantenerse relajada."
-    mc ""
+    mc "Von nun an sollten Sie versuchen, entspannt zu bleiben."
 
 # game/hchar.rpy:17560
 translate german PA_HC_EV43_35aaf4d2:
 
     # jul "Uh... {w}Supongo que sí..."
-    jul ""
+    jul "Äh... {w}Ich denke schon..."
 
 # game/hchar.rpy:17561
 translate german PA_HC_EV43_5fc3e054_1:
 
     # jul "Merci, [nombre]."
-    jul ""
+    jul "Merci, [nombre]."
 
 # game/hchar.rpy:17563
 translate german PA_HC_EV43_24391e65:
 
     # jul "Ha sido un día reparador."
-    jul ""
+    jul "Es war ein erholsamer Tag."
 
 # game/hchar.rpy:17564
 translate german PA_HC_EV43_02a641ac:
 
     # jul "Todo gracias a ti, [nombre]."
-    jul ""
+    jul "Alles dank dir, [nombre]."
 
 # game/hchar.rpy:17565
 translate german PA_HC_EV43_44fd2ce2:
 
     # jul "Has hecho un excelente trabajo."
-    jul ""
+    jul "Du hast hervorragende Arbeit geleistet."
 
 # game/hchar.rpy:17567
 translate german PA_HC_EV43_05a16116:
 
     # mc "Estoy a sus servicios, Juliette."
-    mc ""
+    mc "Ich stehe zu Ihren Diensten, Juliette."
 
 # game/hchar.rpy:17569
 translate german PA_HC_EV43_fa4127cb:
 
     # jul "Ahora que estoy mejor, me gustaría retomar las grabaciones cuánto antes."
-    jul ""
+    jul "Jetzt, wo es mir besser geht, möchte ich so schnell wie möglich wieder mit den Aufnahmen beginnen."
 
 # game/hchar.rpy:17571
 translate german PA_HC_EV43_4d3af55e:
 
     # mc "Usted podría escoger el siguiente lugar."
-    mc ""
+    mc "Sie könnten den nächsten Ort auswählen."
 
 # game/hchar.rpy:17573
 translate german PA_HC_EV43_534a73c8:
 
     # jul "No parece una mala idea."
-    jul ""
+    jul "Das scheint keine schlechte Idee zu sein."
 
 # game/hchar.rpy:17574
 translate german PA_HC_EV43_1ac55427:
 
     # jul "Aunque necesitaré un poco de tiempo para pensar."
-    jul ""
+    jul "Ich brauche allerdings etwas Zeit zum Nachdenken."
 
 # game/hchar.rpy:17576
 translate german PA_HC_EV43_f7a42e72:
 
     # mc "Esperaré por su respuesta."
-    mc ""
+    mc "Ich werde auf Ihre Antwort warten."
 
 # game/hchar.rpy:17578
 translate german PA_HC_EV43_3feaf281:
 
     # jul "Tiene que ser algo que traiga visitas..."
-    jul ""
+    jul "Es muss etwas sein, das Besucher anzieht..."
 
 # game/hchar.rpy:17579
 translate german PA_HC_EV43_32f99684:
 
     # jul "Volveré a casa para barajar ideas."
-    jul ""
+    jul "Ich werde nach Hause gehen, um Ideen zu sammeln."
 
 # game/hchar.rpy:17581
 translate german PA_HC_EV43_1eb17f11:
 
     # mc "Ya sabe dónde encontrarme."
-    mc ""
+    mc "Sie wissen, wo Sie mich finden können."
 
 # game/hchar.rpy:17583
 translate german PA_HC_EV43_9e748993:
 
     # jul "Merci, [nombre]!"
-    jul ""
+    jul "Merci, [nombre]!"
 
 # game/hchar.rpy:17592
 translate german PA_HC_EV43_6ca95b8a:
 
     # "<Después de despedirte de Juliette, vuelves a tu habitación en el [restaurant] para descansar.>"
-    ""
+    "<Nachdem du dich von Juliette verabschiedet hast, kehrst du in dein Zimmer im [restaurant] zurück, um dich auszuruhen.>"
 
 # game/hchar.rpy:17593
 translate german PA_HC_EV43_b4570e39:
 
     # mc "(Creo que comienzo a apreciar mi tiempo con Juliette cada vez más.)"
-    mc ""
+    mc "(Ich glaube, ich beginne meine Zeit mit Juliette immer mehr zu schätzen.)"
 
 # game/hchar.rpy:17594
 translate german PA_HC_EV43_1fe80257:
 
     # mc "(Quizás podría darle un masaje de esos a Charlotte un día de estos.)"
-    mc ""
+    mc "(Vielleicht könnte ich Charlotte eines Tages eine solche Massage geben.)"
 
 # game/hchar.rpy:17624
 translate german PA_HC_EV44_1ff7e188:
 
     # ca "¡¿Qué hiciste qué?!"
-    ca ""
+    ca "Was hast du getan?!"
 
 # game/hchar.rpy:17626
 translate german PA_HC_EV44_4aef02dd:
 
     # mc "Tu madre estaba estresada y lo necesitaba."
-    mc ""
+    mc "Deine Mutter war gestresst und brauchte das."
 
 # game/hchar.rpy:17627
 translate german PA_HC_EV44_88ab9946:
 
     # mc "¿Qué querías que hiciera?"
-    mc ""
+    mc "Was wolltest du, dass ich mache?"
 
 # game/hchar.rpy:17629
 translate german PA_HC_EV44_32f15bcc:
 
     # ca "No es nuestro problema, [nombre]."
-    ca ""
+    ca "Das ist nicht unser Problem, [nombre]."
 
 # game/hchar.rpy:17630
 translate german PA_HC_EV44_e2152667:
 
     # ca "Juliette puede estar todo lo estresada que quiera, mientras no se entrometa."
-    ca ""
+    ca "Juliette kann so gestresst sein, wie sie will, solange sie sich nicht einmischt."
 
 # game/hchar.rpy:17632
 translate german PA_HC_EV44_8e3b627b:
 
     # mc "Solo fue un masaje, Charlotte..."
-    mc ""
+    mc "Es war nur eine Massage, Charlotte..."
 
 # game/hchar.rpy:17633
 translate german PA_HC_EV44_a41c6b4d:
 
     # mc "Tampoco es para que te pongas celosa."
-    mc ""
+    mc "Du musst auch nicht eifersüchtig werden."
 
 # game/hchar.rpy:17635
 translate german PA_HC_EV44_062baa51:
 
     # ca "¡¡¡NO ESTOY CELOSA!!!"
-    ca ""
+    ca "Ich bin nicht eifersüchtig!!!"
 
 # game/hchar.rpy:17637
 translate german PA_HC_EV44_0cae3417:
 
     # so "Y dime, [nombre]..."
-    so ""
+    so "Und sag mir, [nombre]..."
 
 # game/hchar.rpy:17638
 translate german PA_HC_EV44_4be9c98f:
 
     # so "¿Fue con final feliz?"
-    so ""
+    so "Gab es ein Happy End?"
 
 # game/hchar.rpy:17640
 translate german PA_HC_EV44_be4ea039:
 
     # ca "¡¡¡SOPHIA!!! ¡¿Y TÚ DE DÓNDE SALISTE?!"
-    ca ""
+    ca "SOPHIA!!! WOHER KOMMT DAS JETZT?!"
 
 # game/hchar.rpy:17642
 translate german PA_HC_EV44_32d3e198:
 
     # so "Solo quería saber si hubo final feliz o no..."
-    so ""
+    so "Ich wollte nur wissen, ob es ein Happy End gab oder nicht..."
 
 # game/hchar.rpy:17644
 translate german PA_HC_EV44_7b66fc42:
 
     # ca "¡¿NO TE CANSAS DE SER UNA DEPRAVADA?!"
-    ca ""
+    ca "HAST DU ES NICHT SATT, SO VERSAUT ZU SEIN?"
 
 # game/hchar.rpy:17646
 translate german PA_HC_EV44_b45b7a8d:
 
     # so "Ay, o sea... Madre también es una mujer y tiene necesidades."
-    so ""
+    so "Ach, also... Mutter ist auch eine Frau und hat Bedürfnisse."
 
 # game/hchar.rpy:17648
 translate german PA_HC_EV44_e4367b3f:
 
     # ca "¡Pero [nombre] tiene casi nuestra edad!"
-    ca ""
+    ca "Aber [nombre] ist fast so alt wie wir!"
 
 # game/hchar.rpy:17649
 translate german PA_HC_EV44_1747d10d:
 
     # ca "¡¿Qué rayos te pasa por la cabeza?!" with vpunch
-    ca "" with vpunch
+    ca "Was zum Teufel geht dir durch den Kopf?!" with vpunch
 
 # game/hchar.rpy:17651
 translate german PA_HC_EV44_6d64ded2:
 
     # so "Qué falta de imaginación con las posibilidades..."
-    so ""
+    so "Was für ein Mangel an Vorstellungskraft hinsichtlich der Möglichkeiten..."
 
 # game/hchar.rpy:17653
 translate german PA_HC_EV44_cc3f2674:
 
     # ca "¡¡¿POSIBILIDADES?!!"
-    ca ""
+    ca "MÖGLICHKEITEN?!!"
 
 # game/hchar.rpy:17658
 translate german PA_HC_EV44_4cc979d2:
 
     # mc "No llegaremos a nada con esta discusión."
-    mc ""
+    mc "Mit dieser Diskussion kommen wir nicht weiter."
 
 # game/hchar.rpy:17659
 translate german PA_HC_EV44_886663cc:
 
     # mc "¿Ha habido avances sobre el pasado de Lissette?"
-    mc ""
+    mc "Gab es Fortschritte in Bezug auf Lissettes Vergangenheit?"
 
 # game/hchar.rpy:17664
 translate german PA_HC_EV44_b2ccd7c9:
 
     # ca "Aún no he logrado encontrar a Mr. Nam, pero hay algunas pistas en su diario."
-    ca ""
+    ca "Ich habe Herrn Nam noch nicht gefunden, aber es gibt einige Hinweise in seinem Tagebuch."
 
 # game/hchar.rpy:17666
 translate german PA_HC_EV44_b457873d:
 
     # mc "¿Qué me dices de ti, Sophia?"
-    mc ""
+    mc "Was ist mit dir, Sophia?"
 
 # game/hchar.rpy:17668
 translate german PA_HC_EV44_58417b65:
 
     # so "Yo he estado preguntando... Pero no hay nadie lo suficientemente viejo que recuerde a Lissette."
-    so ""
+    so "Ich habe mich umgehört... Aber niemand ist alt genug, um sich an Lissette zu erinnern."
 
 # game/hchar.rpy:17670
 translate german PA_HC_EV44_e84bdcf1:
 
     # mc "Genial, eso significa que estamos dónde comenzamos."
-    mc ""
+    mc "Grossartig, das bedeutet, dass wir wieder da sind, wo wir angefangen haben."
 
 # game/hchar.rpy:17671
 translate german PA_HC_EV44_4ba3260d:
 
     # mc "No sé cuánto tiempo más pueda mantener ocupada a Juliette."
-    mc ""
+    mc "Ich weiss nicht, wie lange ich Juliette noch beschäftigen kann."
 
 # game/hchar.rpy:17673
 translate german PA_HC_EV44_af1d95ec:
 
     # ca "Lamento causarte tantos problemas, [nombre]."
-    ca ""
+    ca "Es tut mir leid, dass ich dir so viele Probleme bereite, [nombre]."
 
 # game/hchar.rpy:17675
 translate german PA_HC_EV44_4aad7666:
 
     # mc "No me causas ningún problema, Charlotte."
-    mc ""
+    mc "Du machst mir keine Probleme, Charlotte."
 
 # game/hchar.rpy:17676
 translate german PA_HC_EV44_417a6446:
 
     # mc "Puedo seguir mintiendo, pero un pequeño desliz y tu madre se enterará de todo."
-    mc ""
+    mc "Ich kann weiter lügen, aber ein kleiner Ausrutscher und deine Mutter wird alles erfahren."
 
 # game/hchar.rpy:17678
 translate german PA_HC_EV44_dd62f403:
 
     # so "Ojalá no ocurra..."
-    so ""
+    so "Hoffentlich passiert das nicht..."
 
 # game/hchar.rpy:17680
 translate german PA_HC_EV44_a9056313:
 
     # jul "Buenos días, hijas."
-    jul ""
+    jul "Guten Morgen, meine Töchter."
 
 # game/hchar.rpy:17682
 translate german PA_HC_EV44_fcd4b656:
 
     # ca "¡¿Madre?! ¡¿Qué haces aquí?!"
-    ca ""
+    ca "Mutter?! Was machst du denn hier?!"
 
 # game/hchar.rpy:17684
 translate german PA_HC_EV44_ba206762:
 
     # jul "¿Acaso no puedo hacerte una visita?"
-    jul ""
+    jul "Darf ich dich nicht besuchen kommen?"
 
 # game/hchar.rpy:17686
 translate german PA_HC_EV44_1f058f92:
 
     # ca "No es eso, pero yo..."
-    ca ""
+    ca "Das ist es nicht, aber ich..."
 
 # game/hchar.rpy:17688
 translate german PA_HC_EV44_297205ac:
 
     # jul "He encontrado el lugar para el siguiente episodio."
-    jul ""
+    jul "Ich habe den Drehort für die nächste Folge gefunden."
 
 # game/hchar.rpy:17690
 translate german PA_HC_EV44_c63ae272:
 
     # ca "¿De qué estás hablando?"
-    ca ""
+    ca "Wovon redest du?"
 
 # game/hchar.rpy:17692
 translate german PA_HC_EV44_3befb53e:
 
     # jul "Del reality, cariño."
-    jul ""
+    jul "Für die Reality-Show, Schatz."
 
 # game/hchar.rpy:17693
 translate german PA_HC_EV44_8a728219:
 
     # jul "¿De qué más podría ser?"
-    jul ""
+    jul "Was könnte es sonst noch sein?"
 
 # game/hchar.rpy:17695
 translate german PA_HC_EV44_1129921b:
 
     # so "¿Y en qué has pensado, Madre?"
-    so ""
+    so "Und woran hast du gedacht, Mutter?"
 
 # game/hchar.rpy:17697
 translate german PA_HC_EV44_e60d2861:
 
     # jul "Hay unas termas en Argleton."
-    jul ""
+    jul "In Argleton gibt es Thermalbäder."
 
 # game/hchar.rpy:17707
 translate german PA_HC_EV44_64ef314f:
 
     # so "¿Oui?"
-    so ""
+    so "Oui?"
 
 # game/hchar.rpy:17709
 translate german PA_HC_EV44_fe76cd04:
 
     # ca "¿Acaso te has vuelto loca?"
-    ca ""
+    ca "Bist du verrückt geworden?"
 
 # game/hchar.rpy:17711
 translate german PA_HC_EV44_44837f41:
 
     # jul "Pienso que debemos relajarnos."
-    jul ""
+    jul "Ich denke, wir sollten uns entspannen."
 
 # game/hchar.rpy:17712
 translate german PA_HC_EV44_d07a747b:
 
     # jul "No ha habido más que fricción entre nosotras desde mi llegada."
-    jul ""
+    jul "Seit meiner Ankunft gab es zwischen uns nichts als Reibereien."
 
 # game/hchar.rpy:17713
 translate german PA_HC_EV44_80f21f12:
 
     # jul "Un día en las termas resultará terapéutico."
-    jul ""
+    jul "Ein Tag in den Thermen wird therapeutisch wirken."
 
 # game/hchar.rpy:17715
 translate german PA_HC_EV44_88c057db:
 
     # so "¿Relajarnos? ¿Fricción? ¿Quién eres tú y dónde dejaste a mamá?"
-    so ""
+    so "Entspannen? Massage? Wer bist du und wo hast du Mama gelassen?"
 
 # game/hchar.rpy:17717
 translate german PA_HC_EV44_e507de8d:
 
     # jul "¿A qué viene el sarcasmo?"
-    jul ""
+    jul "Wozu der Sarkasmus?"
 
 # game/hchar.rpy:17719
 translate german PA_HC_EV44_93a8f965:
 
     # ca "Estás actuando extraño..."
-    ca ""
+    ca "Du benimmst dich seltsam..."
 
 # game/hchar.rpy:17721
 translate german PA_HC_EV44_66b14590:
 
     # so "Quizás tiene fiebre."
-    so ""
+    so "Vielleicht hat sie Fieber."
 
 # game/hchar.rpy:17723
 translate german PA_HC_EV44_af768db9:
 
     # jul "¡Es suficiente! ¡Vamos a ir a las termas y les va a gustar!"
-    jul ""
+    jul "Das reicht! Wir gehen in die Therme, und es wird Ihnen gefallen!"
 
 # game/hchar.rpy:17724
 translate german PA_HC_EV44_423b2e07:
 
     # jul "Y no aceptaré un no como respuesta."
-    jul ""
+    jul "Und ich werde ein Nein als Antwort nicht akzeptieren."
 
 # game/hchar.rpy:17726
 translate german PA_HC_EV44_51799420:
 
     # so "Bien, me parece una buena idea."
-    so ""
+    so "Gut, das finde ich eine gute Idee."
 
 # game/hchar.rpy:17727
 translate german PA_HC_EV44_8a390427:
 
     # so "¿Qué dices, Charlotte?"
-    so ""
+    so "Was sagst du, Charlotte?"
 
 # game/hchar.rpy:17729
 translate german PA_HC_EV44_1888be11:
 
     # ca "No puedo creer que diga esto, pero acepto ir con ustedes."
-    ca ""
+    ca "Ich kann nicht glauben, dass ich das sage, aber ich bin bereit, mit euch zu gehen."
 
 # game/hchar.rpy:17731
 translate german PA_HC_EV44_61d52e7f:
 
     # so "¡Espléndido! ¡Viaje a las termas en familia!"
-    so ""
+    so "Grossartig! Ein Ausflug mit der ganzen Familie zu den Thermalbädern!"
 
 # game/hchar.rpy:17733
 translate german PA_HC_EV44_d1074142:
 
     # mc "Espero que se diviertan."
-    mc ""
+    mc "Ich hoffe, ihr habt Spass."
 
 # game/hchar.rpy:17735
 translate german PA_HC_EV44_aa96d116:
 
     # jul "¿No vas a venir?"
-    jul ""
+    jul "Kommst du nicht mit?"
 
 # game/hchar.rpy:17737
 translate german PA_HC_EV44_f84ec2fa:
 
     # ca "Son termas mixtas..."
-    ca ""
+    ca "Es sind gemeinsame Thermalbäder..."
 
 # game/hchar.rpy:17739
 translate german PA_HC_EV44_8fba63dd:
 
     # jul "¿Qué significa eso?"
-    jul ""
+    jul "Was bedeutet das?"
 
 # game/hchar.rpy:17741
 translate german PA_HC_EV44_fc6da94c:
 
     # ca "¡Qué nos bañaríamos junto a [nombre]!"
-    ca ""
+    ca "Dass wir zusammen mit [nombre] baden würden!"
 
 # game/hchar.rpy:17743
 translate german PA_HC_EV44_60cc26cd:
 
     # jul "¿Cómo grabaremos el capítulo sin su ayuda?"
-    jul ""
+    jul "Wie sollen wir die Folge ohne Ihre Hilfe aufnehmen?"
 
 # game/hchar.rpy:17744
 translate german PA_HC_EV44_66be876a:
 
     # jul "Lo necesitamos."
-    jul ""
+    jul "Wir brauchen Ihn."
 
 # game/hchar.rpy:17746
 translate german PA_HC_EV44_fe76cd04_1:
 
     # ca "¿Acaso te has vuelto loca?"
-    ca ""
+    ca "Bist du verrückt geworden?"
 
 # game/hchar.rpy:17747
 translate german PA_HC_EV44_5e6bbe50:
 
     # ca "¡Si entra [nombre] te va a ver desnuda!"
-    ca ""
+    ca "Wenn [nombre] hereinkommt, wird er dich nackt sehen!"
 
 # game/hchar.rpy:17749
 translate german PA_HC_EV44_e4549872:
 
     # jul "Tienes razón... Entonces tendrá que esperar fuera."
-    jul ""
+    jul "Du hast Recht... Dann muss er draussen warten."
 
 # game/hchar.rpy:17750
 translate german PA_HC_EV44_0cb7937e:
 
     # jul "En cuanto a la grabación, tendremos que usar censura."
-    jul ""
+    jul "Was die Aufzeichnung angeht, müssen wir Zensur anwenden."
 
 # game/hchar.rpy:17752
 translate german PA_HC_EV44_fa1f40cc:
 
     # so "¿No te avergüenza mostrar los pechos en televisión?"
-    so ""
+    so "Ist es dir nicht peinlich, deine Brüste im Fernsehen zu zeigen?"
 
 # game/hchar.rpy:17754
 translate german PA_HC_EV44_079ff0d9:
 
     # jul "Es el precio de la fama, Sophia."
-    jul ""
+    jul "Das ist der Preis des Ruhmes, Sophia."
 
 # game/hchar.rpy:17755
 translate german PA_HC_EV44_f1ed74cf:
 
     # jul "Además, con suficiente difuminación, no se verá nada."
-    jul ""
+    jul "Ausserdem wird bei ausreichender Zensur nichts zu sehen sein."
 
 # game/hchar.rpy:17757
 translate german PA_HC_EV44_2673656f:
 
     # so "Ya veo a quién salió tan depravada Charlotte."
-    so ""
+    so "Jetzt verstehe ich, von wem Charlotte ihre dreckigen Gedanken geerbt hat."
 
 # game/hchar.rpy:17759
 translate german PA_HC_EV44_a7c781de:
 
     # ca "¡¿Qué estás insinuando?!"
-    ca ""
+    ca "Was willst du damit andeuten?!"
 
 # game/hchar.rpy:17761
 translate german PA_HC_EV44_e0882a43:
 
     # jul "¿Charlotte una depravada?"
-    jul ""
+    jul "Charlotte, eine Perverse?"
 
 # game/hchar.rpy:17763
 translate german PA_HC_EV44_17fecaa4:
 
     # ca "¡¡¡VÁMONOS A LAS TERMAS ANTES DE QUE CAMBIE DE IDEA!!!"
-    ca ""
+    ca "Lasst uns zu den Thermen gehen, bevor ich es mir anders überlege!!!"
 
 # game/hchar.rpy:17777
 translate german PA_HC_EV44_1ca96b24:
 
     # jul "¡Buenos días a todos! ¡Con ustedes Juliette!"
-    jul ""
+    jul "Guten Morgen allerseits! Hier ist Juliette!"
 
 # game/hchar.rpy:17779
 translate german PA_HC_EV44_e1d3984c:
 
     # jul "¡Hoy he venido con mis hijas a las relajantes termas de Argleton!"
-    jul ""
+    jul "Heute bin ich mit meinen Töchtern in die entspannenden Thermalbäder von Argleton gekommen!"
 
 # game/hchar.rpy:17780
 translate german PA_HC_EV44_a66e5251:
 
     # jul "Esta de aquí es mi hija menor, Sophia."
-    jul ""
+    jul "Das hier ist meine jüngste Tochter, Sophia."
 
 # game/hchar.rpy:17782
 translate german PA_HC_EV44_5a7a6d3b:
 
     # so "¡Madre! ¡Estoy desnuda!"
-    so ""
+    so "Mutter! Ich bin nackt!"
 
 # game/hchar.rpy:17784
 translate german PA_HC_EV44_35295427:
 
     # jul "Ya lo sé, cariño."
-    jul ""
+    jul "Ich weiss, Schatz."
 
 # game/hchar.rpy:17785
 translate german PA_HC_EV44_b1721965:
 
     # jul "Ya pondremos censura en post producción."
-    jul ""
+    jul "Wir werden die Zensur in der Postproduktion vornehmen."
 
 # game/hchar.rpy:17787
 translate german PA_HC_EV44_9b016e98:
 
     # so "¡¿Acaso no hay un poco de privacidad?!"
-    so ""
+    so "Gibt es denn keine Privatsphäre mehr?!"
 
 # game/hchar.rpy:17789
 translate german PA_HC_EV44_92246e2c:
 
     # jul "Y aquí al lado está Charlotte."
-    jul ""
+    jul "Und hier nebenan ist Charlotte."
 
 # game/hchar.rpy:17791
 translate german PA_HC_EV44_00fb4568:
 
     # ca "..."
-    ca ""
+    ca "..."
 
 # game/hchar.rpy:17792
 translate german PA_HC_EV44_09b08178:
