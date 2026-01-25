@@ -6784,19 +6784,19 @@ translate german PA_HM_EV7_ad150041:
 translate german PA_HM_EV7_7e36e111:
 
     # mc "Pero yo solo quería aprender un poco de guitarra..."
-    mc ""
+    mc "Aber ich wollte nur ein bisschen Gitarre lernen..."
 
 # game/hmaxy.rpy:3316
 translate german PA_HM_EV7_a5c82ea6:
 
     # mx "Deja ya de ser tan frío... {w}Y besame como si fuese el último beso de tu vida."
-    mx ""
+    mx "Hör auf, so kalt zu sein... {w}Und küss mich, als wäre es der letzte Kuss deines Lebens."
 
 # game/hmaxy.rpy:3317
 translate german PA_HM_EV7_0d9c3746:
 
     # mx "Confía en mí y obedece a tu maestra."
-    mx ""
+    mx "Vertraue mir und gehorche deiner Lehrerin."
 
 # game/hmaxy.rpy:3327
 translate german PA_HM_EV7_8e55917f:
