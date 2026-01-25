@@ -11026,1771 +11026,1771 @@ translate german PA_HM_EV15_413b543c:
 translate german PA_HM_EV16_ae43145e:
 
     # mc "¿Qué sucede?"
-    mc ""
+    mc "Was ist los?"
 
 # game/hmaxy.rpy:4803
 translate german PA_HM_EV16_89ba4bc2:
 
     # mx "Recordaba a mi madre..."
-    mx ""
+    mx "Ich erinnerte mich an meine Mutter..."
 
 # game/hmaxy.rpy:4804
 translate german PA_HM_EV16_a792e8f6:
 
     # mx "A veces pienso que deberíamos arreglar nuestras diferencias."
-    mx ""
+    mx "Manchmal denke ich, wir könnten unsere Differenzen begraben."
 
 # game/hmaxy.rpy:4806
 translate german PA_HM_EV16_fbd0e1ca:
 
     # mx "Pero no me va a escuchar... {w}Y yo tampoco a ella."
-    mx ""
+    mx "Aber sie wird mir nicht zuhören... {w}Und ich ihr auch nicht."
 
 # game/hmaxy.rpy:4808
 translate german PA_HM_EV16_b13bcd16:
 
     # mc "¿No han intentado hablar?"
-    mc ""
+    mc "Hast du mal versucht, mit ihr zu reden?"
 
 # game/hmaxy.rpy:4810
 translate german PA_HM_EV16_90fb3645:
 
     # mx "No hay nada de que hablar..."
-    mx ""
+    mx "Da gibt es nichts zu reden..."
 
 # game/hmaxy.rpy:4811
 translate german PA_HM_EV16_d4b17d7a:
 
     # mx "Ella quiere que haga las cosas a su manera."
-    mx ""
+    mx "Sie will, dass ich die Dinge auf ihre Art mache."
 
 # game/hmaxy.rpy:4813
 translate german PA_HM_EV16_b7e5b645:
 
     # mx "Pero a mi me gusta hacerlas de otra forma más creativa."
-    mx ""
+    mx "Aber ich mach das lieber auf einen anderen Weg."
 
 # game/hmaxy.rpy:4814
 translate german PA_HM_EV16_b126e6e3:
 
     # mx "No me importa si algo es correcto."
-    mx ""
+    mx "Es ist mir egal, ob etwas richtig ist."
 
 # game/hmaxy.rpy:4815
 translate german PA_HM_EV16_88e7b975:
 
     # mx "Mientras sea divertido."
-    mx ""
+    mx "Solange es Spass macht."
 
 # game/hmaxy.rpy:4817
 translate german PA_HM_EV16_09a412b1:
 
     # mc "¿Qué fue lo que sucedió?"
-    mc ""
+    mc "Was ist passiert?"
 
 # game/hmaxy.rpy:4819
 translate german PA_HM_EV16_b2787478:
 
     # mx "Muchas cosas..."
-    mx ""
+    mx "Viele Dinge..."
 
 # game/hmaxy.rpy:4820
 translate german PA_HM_EV16_c881c7de:
 
     # mx "Mi expulsión de la universidad creo que fue la gota que rebalsó el vaso."
-    mx ""
+    mx "Ich denke, dass mein Rauswurf aus der Uni der letzte Tropfen war, der das Fass zum Überlaufen gebracht hat."
 
 # game/hmaxy.rpy:4821
 translate german PA_HM_EV16_2fdde247:
 
     # mx "Pero no me arrepiento de nada."
-    mx ""
+    mx "Aber ich bereue nichts."
 
 # game/hmaxy.rpy:4823
 translate german PA_HM_EV16_9157256e:
 
     # mc "¿Qué hiciste?"
-    mc ""
+    mc "Was hast du gemacht?"
 
 # game/hmaxy.rpy:4825
 translate german PA_HM_EV16_1c0b2e86:
 
     # mx "Habían unos animales que estaban allí para ser estudiados."
-    mx ""
+    mx "Es gab einige Tiere, die dort waren, um untersucht zu werden."
 
 # game/hmaxy.rpy:4826
 translate german PA_HM_EV16_35b3ccc5:
 
     # mx "Y los liberé."
-    mx ""
+    mx "Und ich habe sie befreit."
 
 # game/hmaxy.rpy:4827
 translate german PA_HM_EV16_09d42269:
 
     # mx "Tampoco perdía nada en intentarlo."
-    mx ""
+    mx "Ich hatte nichts zu verlieren, wenn ich es versuchte."
 
 # game/hmaxy.rpy:4829
 translate german PA_HM_EV16_18c9974f:
 
     # mx "Llevaba dos años allí y ya había reprobado algunas cosas..."
-    mx ""
+    mx "Ich war seit zwei Jahren dort und hatte bereits einige Dinge nicht bestanden..."
 
 # game/hmaxy.rpy:4830
 translate german PA_HM_EV16_a201db1c:
 
     # mx "Quizás me hubiesen expulsado de todas maneras por mis calificaciones."
-    mx ""
+    mx "Vielleicht hätte man mich wegen meiner Noten sowieso von der Schule geschmissen."
 
 # game/hmaxy.rpy:4831
 translate german PA_HM_EV16_ae7c4985:
 
     # mx "Además, no me gustaba tener que salir de Argleton largas temporadas."
-    mx ""
+    mx "Ausserdem gefiel es mir nicht, Argleton für längere Zeit verlassen zu müssen."
 
 # game/hmaxy.rpy:4832
 translate german PA_HM_EV16_b2ce0126:
 
     # mx "No me gusta ir a la iglesia los domingos."
-    mx ""
+    mx "Ich gehe sonntags nicht gerne in die Kirche."
 
 # game/hmaxy.rpy:4833
 translate german PA_HM_EV16_34132f39:
 
     # mx "No me gusta comer huevos..."
-    mx ""
+    mx "Ich mag keine Eier essen..."
 
 # game/hmaxy.rpy:4835
 translate german PA_HM_EV16_c56d9e92:
 
     # mx "Al menos que sean los tuyos, Lucky boy."
-    mx ""
+    mx "Es sei denn, es sind deine, Lucky boy."
 
 # game/hmaxy.rpy:4837
 translate german PA_HM_EV16_347bf112:
 
     # mc "Eso estuvo gracioso."
-    mc ""
+    mc "Der war gut."
 
 # game/hmaxy.rpy:4839
 translate german PA_HM_EV16_469a896e:
 
     # mx "Tampoco te reíste demasiado."
-    mx ""
+    mx "Du hast auch nicht viel gelacht."
 
 # game/hmaxy.rpy:4840
 translate german PA_HM_EV16_3d5cae7b:
 
     # mx "Pero en resumen..."
-    mx ""
+    mx "Aber kurz gesagt..."
 
 # game/hmaxy.rpy:4841
 translate german PA_HM_EV16_87d3c3bc:
 
     # mx "Esa es mi trágica historia, no tan trágica y no tan historia."
-    mx ""
+    mx "Das ist meine tragische Geschichte, die gar nicht so tragisch und auch keine richtige Geschichte ist."
 
 # game/hmaxy.rpy:4843
 translate german PA_HM_EV16_d2966eab:
 
     # mc "¿Y el dinero que gastó tu madre en la universidad?"
-    mc ""
+    mc "Und das Geld, das deine Mutter für die Universität ausgegeben hat?"
 
 # game/hmaxy.rpy:4845
 translate german PA_HM_EV16_64ff3621:
 
     # mx "¿Qué dinero?"
-    mx ""
+    mx "Welches Geld?"
 
 # game/hmaxy.rpy:4847
 translate german PA_HM_EV16_25631ad6:
 
     # mc "¿Estudiabas gratis?"
-    mc ""
+    mc "Hast du kostenlos studiert?"
 
 # game/hmaxy.rpy:4849
 translate german PA_HM_EV16_cd384db7:
 
     # mx "Uhmmmm..."
-    mx ""
+    mx "Ähm..."
 
 # game/hmaxy.rpy:4851
 translate german PA_HM_EV16_3e8b7ae7:
 
     # mx "Es una de las ventajas de ser hija del alcalde de Argleton."
-    mx ""
+    mx "Das ist einer der Vorteile, wenn man die Tochter des Bürgermeisters von Argleton ist."
 
 # game/hmaxy.rpy:4852
 translate german PA_HM_EV16_b0e77e40:
 
     # mx "Aunque no lo conozco..."
-    mx ""
+    mx "Obwohl ich ihn nicht kenne..."
 
 # game/hmaxy.rpy:4853
 translate german PA_HM_EV16_6dbcbfbf:
 
     # mx "Si algún día hablas con mi madre, preguntale sobre el alcalde."
-    mx ""
+    mx "Wenn du eines Tages mit meiner Mutter sprichst, frag sie nach dem Bürgermeister."
 
 # game/hmaxy.rpy:4855
 translate german PA_HM_EV16_b3961c59:
 
     # mc "¿Por qué?"
-    mc ""
+    mc "Warum?"
 
 # game/hmaxy.rpy:4857
 translate german PA_HM_EV16_25b3796c:
 
     # mx "Porque responderá algo gracioso."
-    mx ""
+    mx "Weil sie deswegen etwas Lustiges sagen wird."
 
 # game/hmaxy.rpy:4858
 translate german PA_HM_EV16_d41a2ed6:
 
     # mx "Pero no quiero arruinarte la sorpresa."
-    mx ""
+    mx "Aber ich möchte dir nicht die Überraschung verderben."
 
 # game/hmaxy.rpy:4860
 translate german PA_HM_EV16_8b3c9ab1:
 
     # mc "No entiendo la relación que tiene tu familia."
-    mc ""
+    mc "Ich verstehe die Beziehung deiner Familie nicht."
 
 # game/hmaxy.rpy:4861
 translate german PA_HM_EV16_4847134c:
 
     # mc "Es el maldito alcalde de este pueblo, todos deberían conocerlo."
-    mc ""
+    mc "Er ist der verdammte Bürgermeister dieses Dorfes, jeder sollte ihn kennen."
 
 # game/hmaxy.rpy:4862
 translate german PA_HM_EV16_2b35c2e2:
 
     # mc "No creo que sea una buena persona."
-    mc ""
+    mc "Ich glaube nicht, dass er ein guter Mensch ist."
 
 # game/hmaxy.rpy:4864
 translate german PA_HM_EV16_163f59ef:
 
     # mx "¿Mi padre?"
-    mx ""
+    mx "Mein Vater?"
 
 # game/hmaxy.rpy:4866
 translate german PA_HM_EV16_4d7d47c8:
 
     # mx "EHMmmm..."
-    mx ""
+    mx "Ähm..."
 
 # game/hmaxy.rpy:4868
 translate german PA_HM_EV16_38ac24a7:
 
     # mx "Debe ser una buena persona, yo soy su hija y me considero buena persona."
-    mx ""
+    mx "Er muss ein guter Mensch sein, ich bin seine Tochter und du haltest mich doch für einen guten Menschen."
 
 # game/hmaxy.rpy:4869
 translate german PA_HM_EV16_742c593e:
 
     # mx "Aunque quizás deberías preguntarme que es lo que yo considero una buena persona."
-    mx ""
+    mx "Aber vielleicht solltest du mich fragen, was ich unter einem guten Menschen verstehe."
 
 # game/hmaxy.rpy:4870
 translate german PA_HM_EV16_ae11fac3:
 
     # mx "Pero no lo se, cambio de opinión casi siempre..."
-    mx ""
+    mx "Aber ich weiss es nicht, ich ändere fast immer meine Meinung..."
 
 # game/hmaxy.rpy:4871
 translate german PA_HM_EV16_cfc3ee51:
 
     # mx "Es difícil responder con coherencia a ciertas preguntas, Lucky boy."
-    mx ""
+    mx "Es ist echt schwierig, auf manche Fragen richtig zu antworten, Lucky Boy."
 
 # game/hmaxy.rpy:4873
 translate german PA_HM_EV16_b77dcd98:
 
     # mc "¿Nunca dejaras de llamarme así?"
-    mc ""
+    mc "Wirst du jemals aufhören, mich so zu nennen?"
 
 # game/hmaxy.rpy:4875
 translate german PA_HM_EV16_a2d58543:
 
     # mx "Por supuesto... {w}Que no."
-    mx ""
+    mx "Natürlich... {w}Nein."
 
 # game/hmaxy.rpy:4877
 translate german PA_HM_EV16_810e9850:
 
     # mx "..."
-    mx ""
+    mx "..."
 
 # game/hmaxy.rpy:4879
 translate german PA_HM_EV16_db9cd926:
 
     # mx "¿Qué estábamos hablando?"
-    mx ""
+    mx "Worüber haben wir gesprochen?"
 
 # game/hmaxy.rpy:4880
 translate german PA_HM_EV16_29017092:
 
     # mx "Estoy casi segura que era algo sobre gatos."
-    mx ""
+    mx "Ich bin mir ziemlich sicher, dass es irgendwas mit Katzen zu tun hatte."
 
 # game/hmaxy.rpy:4882
 translate german PA_HM_EV16_ee0d6a7d:
 
     # mx "¿Te dije alguna vez que tenia un gatito negro?"
-    mx ""
+    mx "Habe ich dir jemals erzählt, dass ich ein schwarzes Kätzchen hatte?"
 
 # game/hmaxy.rpy:4883
 translate german PA_HM_EV16_5452bc4a:
 
     # mx "Me encantan los gatitos, sus patitas me relajan, me alegran el día."
-    mx ""
+    mx "Ich liebe Kätzchen, ihre Pfötchen beruhigen mich und machen mich glücklich."
 
 # game/hmaxy.rpy:4885
 translate german PA_HM_EV16_766db47d:
 
     # mc "Me dijiste que tenía problemas de equilibrio y se llamaba... {w}Lucky."
-    mc ""
+    mc "Du hast mir gesagt, dass ich Gleichgewichtsprobleme habe und dass es ... {w}Lucky hiess."
 
 # game/hmaxy.rpy:4887
 translate german PA_HM_EV16_b10acb9b:
 
     # mx "¡Aún lo recuerdas!"
-    mx ""
+    mx "Du erinnerst dich noch daran!"
 
 # game/hmaxy.rpy:4888
 translate german PA_HM_EV16_53b36d39:
 
     # mx "Había sufrido un accidente cuando pequeño y yo lo ayude a recuperarse."
-    mx ""
+    mx "Er hatte als Kind einen Unfall gehabt, und ich half ihm bei seiner Genesung."
 
 # game/hmaxy.rpy:4890
 translate german PA_HM_EV16_f0d74744:
 
     # mx "Murió cuando dejé Argleton para ir a estudiar..."
-    mx ""
+    mx "Er starb, als ich Argleton verliess, um zu studieren..."
 
 # game/hmaxy.rpy:4891
 translate german PA_HM_EV16_ab6e40ce:
 
     # mx "Siempre que recuerdo que no estuve con el en sus últimos momentos..."
-    mx ""
+    mx "Immer wenn ich daran denke, dass ich in seinen letzten Momenten nicht bei ihm war..."
 
 # game/hmaxy.rpy:4892
 translate german PA_HM_EV16_41b65d52:
 
     # mx "Me rompe el corazón."
-    mx ""
+    mx "Bricht mir das Herz."
 
 # game/hmaxy.rpy:4893
 translate german PA_HM_EV16_7607b399:
 
     # mx "Espero que en el otro mundo ya pueda caminar bien."
-    mx ""
+    mx "Ich hoffe, dass er in der anderen Welt gut laufen kann."
 
 # game/hmaxy.rpy:4894
 translate german PA_HM_EV16_144b6c52:
 
     # mx "Las cosas siempre avanzan de manera incorrecta."
-    mx ""
+    mx "Die Sachen laufen immer irgendwie schief."
 
 # game/hmaxy.rpy:4895
 translate german PA_HM_EV16_a9c34edf:
 
     # mx "Nunca resultan como a uno le gustaría."
-    mx ""
+    mx "Sie werden nie so, wie man es gerne hätte."
 
 # game/hmaxy.rpy:4896
 translate german PA_HM_EV16_b0838c9d:
 
     # mx "No por lo menos a gente como yo."
-    mx ""
+    mx "Zumindest nicht Menschen wie mich."
 
 # game/hmaxy.rpy:4898
 translate german PA_HM_EV16_dc875551:
 
     # mx "O quizás si..."
-    mx ""
+    mx "Oder vielleicht doch..."
 
 # game/hmaxy.rpy:4899
 translate german PA_HM_EV16_db28b189:
 
     # mx "Porque ahora estás aquí conmigo."
-    mx ""
+    mx "Weil du jetzt hier bei mir bist."
 
 # game/hmaxy.rpy:4903
 translate german PA_HM_EV16_9d363b15:
 
     # mc "Siempre que me necesites, estaré aquí."
-    mc ""
+    mc "Wann immer du mich brauchst, bin ich für dich da."
 
 # game/hmaxy.rpy:4912
 translate german PA_HM_EV16_15c90ed1:
 
     # mx "Que lindo eres."
-    mx ""
+    mx "Wie süss du bist."
 
 # game/hmaxy.rpy:4913
 translate german PA_HM_EV16_67ddc5ad:
 
     # mx "Siento que cada vez te quiero más."
-    mx ""
+    mx "Ich spüre, dass ich dich immer mehr liebe."
 
 # game/hmaxy.rpy:4914
 translate german PA_HM_EV16_6dae4599:
 
     # mx "Quizás si hay algo especial entre nosotros."
-    mx ""
+    mx "Vielleicht gibt es doch etwas Besonderes zwischen uns."
 
 # game/hmaxy.rpy:4915
 translate german PA_HM_EV16_83ef0e6d:
 
     # mx "No todo es sexo, a veces."
-    mx ""
+    mx "Es geht nicht immer nur um Sex."
 
 # game/hmaxy.rpy:4917
 translate german PA_HM_EV16_564b5091:
 
     # mc "Es raro escuchar eso viniendo de ti."
-    mc ""
+    mc "Es ist seltsam, das von dir zu hören."
 
 # game/hmaxy.rpy:4919
 translate german PA_HM_EV16_d6c43bd8:
 
     # mx "Que sea traviesa de vez en cuando, no quiere decir que no tenga sentimientos."
-    mx ""
+    mx "Nur weil ich manchmal frech bin, heisst das nicht, dass ich keine Gefühle habe."
 
 # game/hmaxy.rpy:4920
 translate german PA_HM_EV16_8e4f2f95:
 
     # mx "Soy una chica sensible..."
-    mx ""
+    mx "Ich bin ein sensibles Mädchen..."
 
 # game/hmaxy.rpy:4923
 translate german PA_HM_EV16_8de62b93:
 
     # mc "Tampoco hay que ilusionarse demasiado."
-    mc ""
+    mc "Man sollte sich auch keine allzu grossen Hoffnungen machen."
 
 # game/hmaxy.rpy:4925
 translate german PA_HM_EV16_810e9850_1:
 
     # mx "..."
-    mx ""
+    mx "..."
 
 # game/hmaxy.rpy:4927
 translate german PA_HM_EV16_3643bac6:
 
     # mx "Lo voy a tener en cuenta."
-    mx ""
+    mx "Ich werd's mir merken."
 
 # game/hmaxy.rpy:4930
 translate german PA_HM_EV16_3b94eeea:
 
     # mx "Por cierto..."
-    mx ""
+    mx "Übrigens..."
 
 # game/hmaxy.rpy:4931
 translate german PA_HM_EV16_e0c43692:
 
     # mx "Ahora voy a cambiar las cuerdas de mi guitarra."
-    mx ""
+    mx "Werde ich jetzt die Saiten meiner Gitarre wechseln."
 
 # game/hmaxy.rpy:4932
 translate german PA_HM_EV16_d75d6cc6:
 
     # mx "Hablamos en otro momento, Lucky boy."
-    mx ""
+    mx "Wir sprechen uns später, Lucky boy."
 
 # game/hmaxy.rpy:4948
 translate german PA_HM_EV17_0b798dae:
 
     # mx "Lucky boy, debes venir conmigo en este momento."
-    mx ""
+    mx "Lucky Boy, du musst jetzt mit mir kommen."
 
 # game/hmaxy.rpy:4949
 translate german PA_HM_EV17_761b1d8b:
 
     # mx "Hay una emergencia en la playa..."
-    mx ""
+    mx "Es gibt einen Notfall am Strand..."
 
 # game/hmaxy.rpy:4950
 translate german PA_HM_EV17_07f75d4e:
 
     # mx "Si no somos rápidos, habrá problemas."
-    mx ""
+    mx "Wenn wir nicht schnell sind, wird es Probleme geben."
 
 # game/hmaxy.rpy:4951
 translate german PA_HM_EV17_ba3f5d63:
 
     # mx "Cosas graves podrían pasar."
-    mx ""
+    mx "Es könnten schlimme Dinge passieren."
 
 # game/hmaxy.rpy:4953
 translate german PA_HM_EV17_a3db9a7f:
 
     # mc "¿Qué?"
-    mc ""
+    mc "Was?"
 
 # game/hmaxy.rpy:4954
 translate german PA_HM_EV17_d5d8acdc:
 
     # mc "Maxy..."
-    mc ""
+    mc "Maxy..."
 
 # game/hmaxy.rpy:4955
 translate german PA_HM_EV17_82e4bdbc:
 
     # mc "¿Eres tu?"
-    mc ""
+    mc "Bist du das?"
 
 # game/hmaxy.rpy:4956
 translate german PA_HM_EV17_98e8a90b:
 
     # mc "Estoy durmiendo..."
-    mc ""
+    mc "Ich schlafe..."
 
 # game/hmaxy.rpy:4958
 translate german PA_HM_EV17_b7610101:
 
     # mx "¡No es momento de dormir, Lucky boy!"
-    mx ""
+    mx "Jetzt ist nicht die Zeit zum Schlafen, Lucky boy!"
 
 # game/hmaxy.rpy:4959
 translate german PA_HM_EV17_33d19b54:
 
     # mx "¡Levanta esos brazos y piernas!"
-    mx ""
+    mx "Heb die Arme und Beine hoch!"
 
 # game/hmaxy.rpy:4960
 translate german PA_HM_EV17_886d37f9:
 
     # mx "¡Y sígueme sin rechistar!"
-    mx ""
+    mx "Und komm einfach mit, ohne zu jammern!"
 
 # game/hmaxy.rpy:4962
 translate german PA_HM_EV17_1d2d770d:
 
     # mc "Ya voy..."
-    mc ""
+    mc "Weisst du..."
 
 # game/hmaxy.rpy:4964
 translate german PA_HM_EV17_6611ac37:
 
     # mx "¡Vamos!¡Vamos!¡Vamos!"
-    mx ""
+    mx "DAI! DAI! DAI!"
 
 # game/hmaxy.rpy:4965
 translate german PA_HM_EV17_58827785:
 
     # mx "Hay que correr y ser rápidos."
-    mx ""
+    mx "Wir müssen uns beeilen und schnell sein."
 
 # game/hmaxy.rpy:4967
 translate german PA_HM_EV17_421ea422:
 
     # "<Maxy te jala de la mano y te lleva a empujones a la playa."
-    ""
+    "Maxy zieht dich an der Hand und schubst dich zum Strand."
 
 # game/hmaxy.rpy:4970
 translate german PA_HM_EV17_629467b2:
 
     # mx "¿Ya estás más despierto?"
-    mx ""
+    mx "Bist du schon wacher?"
 
 # game/hmaxy.rpy:4971
 translate german PA_HM_EV17_86d51229:
 
     # mx "Aun te veo con cara de somnoliento."
-    mx ""
+    mx "Du siehst immer noch müde aus."
 
 # game/hmaxy.rpy:4973
 translate german PA_HM_EV17_5e0cddf5:
 
     # mc "Creo que si..."
-    mc ""
+    mc "Ich glaube schon..."
 
 # game/hmaxy.rpy:4974
 translate german PA_HM_EV17_19f6834f:
 
     # mc "¿Por qué me trajiste en pijama a la playa?"
-    mc ""
+    mc "Warum hast du mich im Pyjama zum Strand mitgenommen?"
 
 # game/hmaxy.rpy:4975
 translate german PA_HM_EV17_336102f0:
 
     # mc "¡Es medianoche!"
-    mc ""
+    mc "Es ist Mitternacht!"
 
 # game/hmaxy.rpy:4977
 translate german PA_HM_EV17_3654fda5:
 
     # mx "Tranquilo..."
-    mx ""
+    mx "Ganz ruhig..."
 
 # game/hmaxy.rpy:4978
 translate german PA_HM_EV17_b1018a15:
 
     # mx "Yo también estoy en pijama."
-    mx ""
+    mx "Ich bin auch im Pyjama."
 
 # game/hmaxy.rpy:4980
 translate german PA_HM_EV17_322462ec:
 
     # mc "Estás en ropa interior..."
-    mc ""
+    mc "Du bist in Unterwäsche..."
 
 # game/hmaxy.rpy:4982
 translate german PA_HM_EV17_c1c78045:
 
     # mx "¡No seas aguafiestas!"
-    mx ""
+    mx "Sei kein Spielverderber!"
 
 # game/hmaxy.rpy:4984
 translate german PA_HM_EV17_deb1748a:
 
     # mc "¿No te quitas el maquillaje para ir a dormir?"
-    mc ""
+    mc "Entfernst du dein Make-up nicht, bevor du schlafen gehst?"
 
 # game/hmaxy.rpy:4985
 translate german PA_HM_EV17_94a54342:
 
     # mx "Por supuesto que no."
-    mx ""
+    mx "Natürlich nicht."
 
 # game/hmaxy.rpy:4986
 translate german PA_HM_EV17_0e450273:
 
     # mx "Una chica como yo no puede ir sin maquillaje."
-    mx ""
+    mx "Ein Mädchen wie ich kann nicht ohne Make-up ausgehen."
 
 # game/hmaxy.rpy:4987
 translate german PA_HM_EV17_e1949ac6:
 
     # mx "Ahora ven y corre junto a mi."
-    mx ""
+    mx "Komm jetzt und lauf mit mir."
 
 # game/hmaxy.rpy:4988
 translate german PA_HM_EV17_3eab9977:
 
     # mx "¡Sígueme!"
-    mx ""
+    mx "Folge mir!"
 
 # game/hmaxy.rpy:4992
 translate german PA_HM_EV17_2b2823ac:
 
     # mx "¡Ven!"
-    mx ""
+    mx "Komm!"
 
 # game/hmaxy.rpy:4994
 translate german PA_HM_EV17_810e9850:
 
     # mx "..."
-    mx ""
+    mx "..."
 
 # game/hmaxy.rpy:4996
 translate german PA_HM_EV17_e69dbf11:
 
     # mx "¿Lucky boy?"
-    mx ""
+    mx "Lucky boy?"
 
 # game/hmaxy.rpy:4997
 translate german PA_HM_EV17_034191a2:
 
     # mx "¿No quieres venir?"
-    mx ""
+    mx "Willst du nicht mitkommen?"
 
 # game/hmaxy.rpy:4999
 translate german PA_HM_EV17_bb59b676:
 
     # mc "Quiero seguir durmiendo..."
-    mc ""
+    mc "Ich möchte weiter schlafen..."
 
 # game/hmaxy.rpy:5001
 translate german PA_HM_EV17_62ef807d:
 
     # mx "Que aburrido eres."
-    mx ""
+    mx "Wie langweilig du bist."
 
 # game/hmaxy.rpy:5003
 translate german PA_HM_EV17_09b647ad:
 
     # mx "¡Tengo una idea!"
-    mx ""
+    mx "Ich habe eine Idee!"
 
 # game/hmaxy.rpy:5005
 translate german PA_HM_EV17_e77698c3:
 
     # mx "Quitémonos la ropa..."
-    mx ""
+    mx "Ziehen wir uns aus..."
 
 # game/hmaxy.rpy:5007
 translate german PA_HM_EV17_8453c6ac:
 
     # mx "¡Listo!"
-    mx ""
+    mx "Fertig!"
 
 # game/hmaxy.rpy:5009
 translate german PA_HM_EV17_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/hmaxy.rpy:5011
 translate german PA_HM_EV17_fee86f20:
 
     # mx "¡No te quedes con esa cara y desnudate de una vez!"
-    mx ""
+    mx "Mach nicht so ein Gesicht und zieh dich endlich aus!"
 
 # game/hmaxy.rpy:5012
 translate german PA_HM_EV17_a8a2b465:
 
     # mx "No me obligues a desnudarte..."
-    mx ""
+    mx "Zwing mich nicht, dich auszuziehen..."
 
 # game/hmaxy.rpy:5014
 translate german PA_HM_EV17_a1c033ca:
 
     # mc "¿Qué sentido tiene esto?"
-    mc ""
+    mc "Wie macht das Sinn?"
 
 # game/hmaxy.rpy:5016
 translate german PA_HM_EV17_2a6c44c2:
 
     # mx "¿Tiene que tener algún sentido?"
-    mx ""
+    mx "Muss es einen Sinn ergeben?"
 
 # game/hmaxy.rpy:5017
 translate german PA_HM_EV17_de951b40:
 
     # mx "Desnudate y disfrutemos de la brisa nocturna."
-    mx ""
+    mx "Zieh dich aus und lass uns die Nachtbrise zusammen geniessen."
 
 # game/hmaxy.rpy:5019
 translate german PA_HM_EV17_e7483f0d:
 
     # mc "No puedo creer que vaya a hacer algo como esto."
-    mc ""
+    mc "Ich kann nicht glauben, dass du so was machst."
 
 # game/hmaxy.rpy:5021
 translate german PA_HM_EV17_1568874c:
 
     # mx "¿Y bien?"
-    mx ""
+    mx "Und?"
 
 # game/hmaxy.rpy:5022
 translate german PA_HM_EV17_6ae04450:
 
     # mx "Apuesto que no hace tanto frio como pensabas."
-    mx ""
+    mx "Ich wette, es ist nicht so kalt, wie du gedacht hast."
 
 # game/hmaxy.rpy:5023
 translate german PA_HM_EV17_f5c7e545:
 
     # mc "Se me están congelando las pelotas."
-    mc ""
+    mc "Meine Eier frieren ein."
 
 # game/hmaxy.rpy:5025
 translate german PA_HM_EV17_e3c350a6:
 
     # mx "¿No quieres correr por la playa?"
-    mx ""
+    mx "Willst du nicht am Strand joggen gehen?"
 
 # game/hmaxy.rpy:5027
 translate german PA_HM_EV17_3e716558:
 
     # mc "Prefiero acostarme sobre la arena..."
-    mc ""
+    mc "Ich liege lieber auf dem Sand..."
 
 # game/hmaxy.rpy:5029
 translate german PA_HM_EV17_a92894c9:
 
     # mx "¿Mejor así?"
-    mx ""
+    mx "Besser so?"
 
 # game/hmaxy.rpy:5031
 translate german PA_HM_EV17_8c0659e3:
 
     # mx "No puedo creer que me acompañases a venir aquí."
-    mx ""
+    mx "Ich kann nicht glauben, dass du mich hierher begleitet hast."
 
 # game/hmaxy.rpy:5033
 translate german PA_HM_EV17_4ba527d2:
 
     # mc "Me trajiste a los tirones..."
-    mc ""
+    mc "Du hast mich mit Gewalt hergebracht..."
 
 # game/hmaxy.rpy:5034
 translate german PA_HM_EV17_b2266480:
 
     # mc "Aunque ahora estoy disfrutando de la vista."
-    mc ""
+    mc "Obwohl ich jetzt die Aussicht geniesse."
 
 # game/hmaxy.rpy:5036
 translate german PA_HM_EV17_be2f374c:
 
     # mx "Yo también..."
-    mx ""
+    mx "Ich auch..."
 
 # game/hmaxy.rpy:5037
 translate german PA_HM_EV17_fd2a6266:
 
     # mx "Aunque hay algo en lo que no estoy de acuerdo."
-    mx ""
+    mx "Allerdings gibt es einen Punkt, in dem ich nicht zustimme."
 
 # game/hmaxy.rpy:5039
 translate german PA_HM_EV17_2a571d2b:
 
     # mx "Deberíamos hablar menos y besarnos más..."
-    mx ""
+    mx "Wir sollten weniger reden und uns mehr küssen..."
 
 # game/hmaxy.rpy:5040
 translate german PA_HM_EV17_c2611854:
 
     # mx "La pasión es más comunicativa."
-    mx ""
+    mx "Das Herz ist viel besser darin, Gefühle zu zeigen."
 
 # game/hmaxy.rpy:5042
 translate german PA_HM_EV17_c0cd1d65:
 
     # mc "¿Comunicativa?"
-    mc ""
+    mc "Gefühle zu zeigen?"
 
 # game/hmaxy.rpy:5044
 translate german PA_HM_EV17_34ac5081:
 
     # mx "Quizás la palabra era sincera..."
-    mx ""
+    mx "Vielleicht war das Wort echt..."
 
 # game/hmaxy.rpy:5045
 translate german PA_HM_EV17_83eaab38:
 
     # mx "Pero no tiene importancia."
-    mx ""
+    mx "Aber das ist nicht wichtig."
 
 # game/hmaxy.rpy:5046
 translate german PA_HM_EV17_2e26a074:
 
     # mx "Me gusta seguir mis impulsos... {w}Me hacen sentir viva."
-    mx ""
+    mx "Ich folge gerne meinen Impulsen... {w}Sie geben mir das Gefühl, lebendig zu sein."
 
 # game/hmaxy.rpy:5047
 translate german PA_HM_EV17_66acfef8:
 
     # mx "El problema es el resto..."
-    mx ""
+    mx "Das Problem ist der Rest..."
 
 # game/hmaxy.rpy:5048
 translate german PA_HM_EV17_5769f87b:
 
     # mx "Que insisten en poner sus ideas en tu cabeza y se supone que debes seguir las reglas."
-    mx ""
+    mx "Dass sie dir ihre Ideen aufzwingen wollen und du dich an die Regeln halten sollst."
 
 # game/hmaxy.rpy:5049
 translate german PA_HM_EV17_1cceaa72:
 
     # mx "Estudia, {w}Se responsable, {w}No toques la guitarra a todo volumen..."
-    mx ""
+    mx "Lerne, {w}sei verantwortungsbewusst, {w}spiele nicht laut Gitarre..."
 
 # game/hmaxy.rpy:5050
 translate german PA_HM_EV17_57cb5366:
 
     # mx "No andes desnuda por la playa a medianoche."
-    mx ""
+    mx "Lauf nicht um Mitternacht nackt am Strand entlang."
 
 # game/hmaxy.rpy:5051
 translate german PA_HM_EV17_d55566fe:
 
     # mx "Y si no haces caso, te llaman loca."
-    mx ""
+    mx "Und wenn du nicht darauf hörst, nennen sie dich verrückt."
 
 # game/hmaxy.rpy:5053
 translate german PA_HM_EV17_c7bde909:
 
     # mx "Pero aquí estamos ahora, juntos y desnudos bajo el cielo oscuro."
-    mx ""
+    mx "Aber hier sind wir nun, zusammen und nackt unter dem dunklen Himmel."
 
 # game/hmaxy.rpy:5054
 translate german PA_HM_EV17_3e6acb5c:
 
     # mx "Con las constelaciones como testigos."
-    mx ""
+    mx "Mit den Sternbildern als Zeugen."
 
 # game/hmaxy.rpy:5056
 translate german PA_HM_EV17_b6f49e9d:
 
     # mc "Al menos que venga un pueblerino y nos vea con el culo al aire."
-    mc ""
+    mc "Es sei denn, ein Dorfbewohner kommt vorbei und sieht uns mit nacktem Hintern."
 
 # game/hmaxy.rpy:5058
 translate german PA_HM_EV17_134963e2:
 
     # mx "No importa."
-    mx ""
+    mx "Das macht nichts."
 
 # game/hmaxy.rpy:5060
 translate german PA_HM_EV17_fd2f8590:
 
     # mc "¿No te avergüenza estar desnuda?"
-    mc ""
+    mc "Ist es dir nicht peinlich, nackt zu sein?"
 
 # game/hmaxy.rpy:5062
 translate german PA_HM_EV17_594bccf9:
 
     # mx "¿Vergüenza?"
-    mx ""
+    mx "Peinlich?"
 
 # game/hmaxy.rpy:5063
 translate german PA_HM_EV17_e93bc9be:
 
     # mx "No te entiendo..."
-    mx ""
+    mx "Kenn ich nicht..."
 
 # game/hmaxy.rpy:5064
 translate german PA_HM_EV17_bfbdff91:
 
     # mx "Creo que la gente me ve más desnuda al escuchar mi música."
-    mx ""
+    mx "Ich glaube, dass die Leute mich nackter sehen, wenn sie meine Musik hören."
 
 # game/hmaxy.rpy:5065
 translate german PA_HM_EV17_c3eaa6d7:
 
     # mx "Al fin y al cabo están viendo mi interior, mis emociones y mi pasión."
-    mx ""
+    mx "Schliesslich sehen sie mein Innerstes, meine Gefühle und meine Leidenschaft."
 
 # game/hmaxy.rpy:5067
 translate german PA_HM_EV17_4d481aff:
 
     # mx "¿Por qué simplemente no dejas la lógica de lado?"
-    mx ""
+    mx "Warum lässt du die Logik nicht einfach beiseite?"
 
 # game/hmaxy.rpy:5068
 translate german PA_HM_EV17_914acd59:
 
     # mx "Deja de pensar tanto y entregate..."
-    mx ""
+    mx "Hör auf, so viel nachzudenken, und gib dich einfach hin..."
 
 # game/hmaxy.rpy:5070
 translate german PA_HM_EV17_ebc0a02e:
 
     # mx "Sé mío solo un momento..."
-    mx ""
+    mx "Sei nur einen Moment lang mein..."
 
 # game/hmaxy.rpy:5071
 translate german PA_HM_EV17_4e5d239e:
 
     # mx "Conviérteme en tu Maxy girl..."
-    mx ""
+    mx "Mach mich zu deinem Maxy-Girl..."
 
 # game/hmaxy.rpy:5072
 translate german PA_HM_EV17_497e98bc:
 
     # mx "Convirtamos este instante..."
-    mx ""
+    mx "Nutzen wir diesen Moment..."
 
 # game/hmaxy.rpy:5073
 translate german PA_HM_EV17_06aa4eb5:
 
     # mx "En un sueño donde seamos libres."
-    mx ""
+    mx "Ein Traum, in dem wir frei sind."
 
 # game/hmaxy.rpy:5074
 translate german PA_HM_EV17_ffbaeb0e:
 
     # mx "Juntemos nuestros labios..."
-    mx ""
+    mx "Lass uns unsere Lippen vereinen..."
 
 # game/hmaxy.rpy:5108
 translate german PA_HM_EV17_6307a9db:
 
     # "<Sientes la lengua de Maxy presionando fuertemente cobra la tuya.>"
-    ""
+    "<Du spürst, wie Maxys Zunge fest auf deine drückt.>"
 
 # game/hmaxy.rpy:5110
 translate german PA_HM_EV17_82dd999e:
 
     # mx "No te detengas..."
-    mx ""
+    mx "Mach weiter..."
 
 # game/hmaxy.rpy:5111
 translate german PA_HM_EV17_9616bc76:
 
     # mx "Sigue así..."
-    mx ""
+    mx "Weiter so..."
 
 # game/hmaxy.rpy:5113
 translate german PA_HM_EV17_04e585f2:
 
     # mx "¡Ah!"
-    mx ""
+    mx "Ah!"
 
 # game/hmaxy.rpy:5115
 translate german PA_HM_EV17_25ed98d1:
 
     # mx "UHMmmm..."
-    mx ""
+    mx "UHMmmm..."
 
 # game/hmaxy.rpy:5117
 translate german PA_HM_EV17_bbb7e03e:
 
     # mx "Estoy muy mojada..."
-    mx ""
+    mx "Ich bin ganz feucht..."
 
 # game/hmaxy.rpy:5118
 translate german PA_HM_EV17_e12807b4:
 
     # mx "Sígueme tocando..."
-    mx ""
+    mx "Wie aufregend..."
 
 # game/hmaxy.rpy:5119
 translate german PA_HM_EV17_2b56c375:
 
     # mx "Podríamos hacer el amor aquí..."
-    mx ""
+    mx "Wir könnten hier rummachen..."
 
 # game/hmaxy.rpy:5121
 translate german PA_HM_EV17_55387f96:
 
     # mc "No me voy a negar."
-    mc ""
+    mc "Hab nichts dagegen."
 
 # game/hmaxy.rpy:5123
 translate german PA_HM_EV17_51752332:
 
     # mx "Siento palpitar tu pene en mi trasero."
-    mx ""
+    mx "Ich spüre, wie dein Pimmel an meinem Arsch pulsiert."
 
 # game/hmaxy.rpy:5124
 translate german PA_HM_EV17_f274ed55:
 
     # mx "Quiere entrar en mí..."
-    mx ""
+    mx "Er will in mich eindringen..."
 
 # game/hmaxy.rpy:5125
 translate german PA_HM_EV17_12551ac8:
 
     # mc "¿Quieres que entre?"
-    mc ""
+    mc "Soll ich ihn dir reinschieben?"
 
 # game/hmaxy.rpy:5127
 translate german PA_HM_EV17_79ca47f7:
 
     # mx "Si..."
-    mx ""
+    mx "Ja..."
 
 # game/hmaxy.rpy:5128
 translate german PA_HM_EV17_e172bce7:
 
     # mx "Hazlo fuerte..."
-    mx ""
+    mx "Mach es kräftig..."
 
 # game/hmaxy.rpy:5129
 translate german PA_HM_EV17_b3df5efd:
 
     # mc "Ven aquí."
-    mc ""
+    mc "Komm her."
 
 # game/hmaxy.rpy:5136
 translate german PA_HM_EV17_49f3b25f:
 
     # mc "No me siento cómodo aquí."
-    mc ""
+    mc "Ich fühle mich hier nicht wohl."
 
 # game/hmaxy.rpy:5138
 translate german PA_HM_EV17_6a75087b:
 
     # mx "Pero..."
-    mx ""
+    mx "Aber..."
 
 # game/hmaxy.rpy:5140
 translate german PA_HM_EV17_c91fa58f:
 
     # mc "No es el momento."
-    mc ""
+    mc "Jetzt ist nicht der richtige Zeitpunkt."
 
 # game/hmaxy.rpy:5143
 translate german PA_HM_EV17_6f9f0f3d:
 
     # unknown "¡Quien está allí!"
-    unknown ""
+    unknown "Wer ist da?"
 
 # game/hmaxy.rpy:5145
 translate german PA_HM_EV17_95e55f68:
 
     # unknown "¡No está permitido nadar a éstas horas en la playa!"
-    unknown ""
+    unknown "Zu dieser Uhrzeit ist das Schwimmen am Strand nicht erlaubt!"
 
 # game/hmaxy.rpy:5147
 translate german PA_HM_EV17_42fdbda6:
 
     # mx "Hora de escapar."
-    mx ""
+    mx "Zeit zu fliehen."
 
 # game/hmaxy.rpy:5149
 translate german PA_HM_EV17_f687b6e9:
 
     # mc "Recojamos todo y vamonos."
-    mc ""
+    mc "Packen wir alles zusammen und hauen wir ab."
 
 # game/hmaxy.rpy:5151
 translate german PA_HM_EV17_bce59505:
 
     # mx "En silencio para que no nos vean..."
-    mx ""
+    mx "Still sein, damit die uns nicht sehen..."
 
 # game/hmaxy.rpy:5153
 translate german PA_HM_EV17_7f36e1a2:
 
     # mc "Estoy de acuerdo."
-    mc ""
+    mc "Da stimme ich zu."
 
 # game/hmaxy.rpy:5157
 translate german PA_HM_EV17_48cac473:
 
     # "<Tu y Maxy escapan corriendo del lugar... {w}Al llegar a tu habitación te duermes de inmediato.>"
-    ""
+    "<Du und Maxy rennt von dort weg... {w}Als du in deinem Zimmer ankommst, schläfst du sofort ein.>"
 
 # game/hmaxy.rpy:5178
 translate german PA_HM_EV18_8264a687:
 
     # mx "Que mala suerte lo de la playa."
-    mx ""
+    mx "Was für ein Pech mit dem Strand."
 
 # game/hmaxy.rpy:5179
 translate german PA_HM_EV18_c1bb39f5:
 
     # mx "Siempre tiene que haber alguien arruinando la diversión."
-    mx ""
+    mx "Es muss immer jemand da sein, der den Spass verdirbt."
 
 # game/hmaxy.rpy:5180
 translate german PA_HM_EV18_b1f266d1:
 
     # mx "No me dejan expresarme con libertad."
-    mx ""
+    mx "Ich kann mich nicht frei äussern."
 
 # game/hmaxy.rpy:5182
 translate german PA_HM_EV18_0230caac:
 
     # mc "Quizás eres muy ruidosa para expresarte."
-    mc ""
+    mc "Vielleicht bist du zu laut, wenn du dich ausdrückst."
 
 # game/hmaxy.rpy:5184
 translate german PA_HM_EV18_7f709dc2:
 
     # mx "Tu también estabas allí conmigo."
-    mx ""
+    mx "Du warst auch dort bei mir."
 
 # game/hmaxy.rpy:5185
 translate german PA_HM_EV18_e9c62a9b:
 
     # mx "Fue muy romántico..."
-    mx ""
+    mx "Es war sehr romantisch..."
 
 # game/hmaxy.rpy:5187
 translate german PA_HM_EV18_5b567652:
 
     # mx "Podríamos repetirlo uno de estos días."
-    mx ""
+    mx "Wir könnten das eines Tages wiederholen."
 
 # game/hmaxy.rpy:5188
 translate german PA_HM_EV18_67acc19d:
 
     # mx "Aunque ya no sería lo mismo."
-    mx ""
+    mx "Auch wenn es nicht mehr dasselbe wäre."
 
 # game/hmaxy.rpy:5189
 translate german PA_HM_EV18_9b4edf68:
 
     # mx "Tiene que ser algo impredecible para que tenga más significado..."
-    mx ""
+    mx "Es muss etwas Unvorhersehbares sein, damit es mehr Bedeutung hat..."
 
 # game/hmaxy.rpy:5190
 translate german PA_HM_EV18_f82208fc:
 
     # mx "Para que tenga más sentimiento."
-    mx ""
+    mx "Damit es mehr Gefühl hat."
 
 # game/hmaxy.rpy:5191
 translate german PA_HM_EV18_9338ff98:
 
     # mx "Y amor."
-    mx ""
+    mx "Und Liebe."
 
 # game/hmaxy.rpy:5192
 translate german PA_HM_EV18_e0c84a33:
 
     # mx "Nunca hay que olvidar el amor."
-    mx ""
+    mx "Man darf niemals die Liebe vergessen."
 
 # game/hmaxy.rpy:5194
 translate german PA_HM_EV18_bac7a6ff:
 
     # mx "Esto me da una idea para el titulo de una nueva canción."
-    mx ""
+    mx "Das gibt mir eine Idee für den Titel eines neuen Songs."
 
 # game/hmaxy.rpy:5195
 translate german PA_HM_EV18_15b5a54c:
 
     # mx "Desnudos bajo las estrellas..."
-    mx ""
+    mx "Nackt unter den Sternen..."
 
 # game/hmaxy.rpy:5196
 translate german PA_HM_EV18_0fddb932:
 
     # mx "O quizás... {w}Amor, pasión y sentimiento bajo la noche estrellada y la luz de la luna."
-    mx ""
+    mx "Oder vielleicht... {w}Liebe, Leidenschaft und Gefühle unter dem Sternenhimmel und im Mondlicht."
 
 # game/hmaxy.rpy:5198
 translate german PA_HM_EV18_65bc6214:
 
     # mc "Demasiado largo..."
-    mc ""
+    mc "Zu lang..."
 
 # game/hmaxy.rpy:5200
 translate german PA_HM_EV18_f40a67af:
 
     # mx "Y grande... {w}Como a mi me gusta..."
-    mx ""
+    mx "Und gross... {w}So wie ich es mag..."
 
 # game/hmaxy.rpy:5202
 translate german PA_HM_EV18_3b4fe0fe:
 
     # mc "Me refería al titulo de la canción."
-    mc ""
+    mc "Ich bezog mich auf den Titel des Liedes."
 
 # game/hmaxy.rpy:5204
 translate german PA_HM_EV18_d2ba82bc:
 
     # mx "¿Qué canción?"
-    mx ""
+    mx "Welcher Song?"
 
 # game/hmaxy.rpy:5206
 translate german PA_HM_EV18_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/hmaxy.rpy:5208
 translate german PA_HM_EV18_135e7302:
 
     # mx "No pongas esa cara de bebé enojado..."
-    mx ""
+    mx "Mach nicht so ein wütendes Babygesicht..."
 
 # game/hmaxy.rpy:5209
 translate german PA_HM_EV18_49b2ce3e:
 
     # mx "O te amarrare y te besaré hasta arreglarte el animo."
-    mx ""
+    mx "Oder ich fessele dich und küsse dich, bis du wieder gute Laune hast."
 
 # game/hmaxy.rpy:5210
 translate german PA_HM_EV18_0d41396a:
 
     # mx "Y no te pienso soltar..."
-    mx ""
+    mx "Und ich werde dich nicht loslassen..."
 
 # game/hmaxy.rpy:5212
 translate german PA_HM_EV18_627f4f3e:
 
     # mx "Quizás me deje llevar y te haga alguna que otra cosita."
-    mx ""
+    mx "Vielleicht lasse ich mich hinreissen und mache das eine oder andere für dich."
 
 # game/hmaxy.rpy:5214
 translate german PA_HM_EV18_e2f8ff3e:
 
     # mx "Uhmmm..."
-    mx ""
+    mx "Uuuuhh..."
 
 # game/hmaxy.rpy:5216
 translate german PA_HM_EV18_4809092f:
 
     # mx "Mejor dejo de imaginar cosas o me empezaré a entusiasmar."
-    mx ""
+    mx "Ich höre besser auf, mir Dinge vorzustellen, sonst fange ich noch an, die Kontrolle zu verlieren."
 
 # game/hmaxy.rpy:5218
 translate german PA_HM_EV18_1e34dbe1:
 
     # mx "Aunque la idea de amarrarte y dejarte indefenso me provoca un poco de excitación."
-    mx ""
+    mx "Obwohl mich der Gedanke, dich festzubinden und wehrlos zu machen, ein wenig scharf macht."
 
 # game/hmaxy.rpy:5219
 translate german PA_HM_EV18_ce312462:
 
     # mx "La gatita Maxy girl torturando sensualmente a su gatito Lucky boy."
-    mx ""
+    mx "Die Katze Maxy Girl quält ihren Kater Lucky Boy auf sexy Art und Weise."
 
 # game/hmaxy.rpy:5221
 translate german PA_HM_EV18_37d9ef23:
 
     # mc "Eso no suena tanto como una tortura."
-    mc ""
+    mc "Das klingt nicht so sehr nach Folter."
 
 # game/hmaxy.rpy:5223
 translate german PA_HM_EV18_f12c6cf5:
 
     # mx "¿De verdad?"
-    mx ""
+    mx "Wirklich?"
 
 # game/hmaxy.rpy:5224
 translate german PA_HM_EV18_5bb70937:
 
     # mx "¿Significa que podrías llegar a disfrutarlo?"
-    mx ""
+    mx "Heisst das, dass es dir gefallen könnte?"
 
 # game/hmaxy.rpy:5225
 translate german PA_HM_EV18_93a12530:
 
     # mx "Me estás dando ideas un poco... {w}Escandalosas..."
-    mx ""
+    mx "Du bringst mich auf Ideen, die ein bisschen... {w}Verrückt sind..."
 
 # game/hmaxy.rpy:5226
 translate german PA_HM_EV18_b7a8ff55:
 
     # mx "Y las ideas escandalosas me ponen traviesa."
-    mx ""
+    mx "Und verrückte Ideen machen mich frech"
 
 # game/hmaxy.rpy:5227
 translate german PA_HM_EV18_5efffda8:
 
     # mx "Pero si empezamos a hacer ruido a esta hora nos podrían encontrar en una situación poco afortunada."
-    mx ""
+    mx "Aber wenn wir jetzt Lärm machen, könnten wir in eine unangenehme Situation geraten."
 
 # game/hmaxy.rpy:5229
 translate german PA_HM_EV18_99325b4d:
 
     # mc "Podemos hacerlo en silencio..."
-    mc ""
+    mc "Wir können es still tun..."
 
 # game/hmaxy.rpy:5231
 translate german PA_HM_EV18_9ec0a808:
 
     # mx "Eso es difícil..."
-    mx ""
+    mx "Das ist schwierig..."
 
 # game/hmaxy.rpy:5232
 translate german PA_HM_EV18_c7bfb3d2:
 
     # mx "Si me dejo llevar me pondré a gritar a todo volumen..."
-    mx ""
+    mx "Wenn ich mich gehen lasse, werde ich laut stöhnen..."
 
 # game/hmaxy.rpy:5233
 translate german PA_HM_EV18_42a568df:
 
     # mx "Sobre todo porque tu amiguito tiene un tamaño considerable."
-    mx ""
+    mx "Vor allem, weil dein Kumpel ziemlich gross ist."
 
 # game/hmaxy.rpy:5234
 translate german PA_HM_EV18_3290e993:
 
     # mx "¿Cuántos decibeles podría alcanzar?"
-    mx ""
+    mx "Wie viel Dezibel könnte ich schaffen?"
 
 # game/hmaxy.rpy:5235
 translate german PA_HM_EV18_11a6f22e:
 
     # mx "Considerando la intensidad de nuestro amor, podríamos romper algún record."
-    mx ""
+    mx "Angesichts der Intensität unserer Liebe könnten wir einen Rekord brechen."
 
 # game/hmaxy.rpy:5237
 translate german PA_HM_EV18_34dfb7a6:
 
     # mc "Y quizás quede sordo de paso."
-    mc ""
+    mc "Und vielleicht werde ich dabei taub."
 
 # game/hmaxy.rpy:5239
 translate german PA_HM_EV18_30f5f0ee:
 
     # mx "Lo último que escucharías serían mis orgasmos..."
-    mx ""
+    mx "Das Letzte, was du hören würdest, wären meine Orgasmen und laute stöhner..."
 
 # game/hmaxy.rpy:5240
 translate german PA_HM_EV18_1c339155:
 
     # mx "Que romántico, Lucky boy."
-    mx ""
+    mx "Wie romantisch, Lucky Boy."
 
 # game/hmaxy.rpy:5241
 translate german PA_HM_EV18_c0751d71:
 
     # mx "La próxima vez que te tenga a mi merced..."
-    mx ""
+    mx "Das nächste Mal, wenn ich dich in meiner Gewalt habe..."
 
 # game/hmaxy.rpy:5242
 translate german PA_HM_EV18_29844ff3:
 
     # mx "No importa que suceda..."
-    mx ""
+    mx "Egal, was passiert..."
 
 # game/hmaxy.rpy:5243
 translate german PA_HM_EV18_5a7d8536:
 
     # mx "No te voy a dejar ir por nada del mundo."
-    mx ""
+    mx "Lass ich dich auf keinen Fall gehen."
 
 # game/hmaxy.rpy:5244
 translate german PA_HM_EV18_b8e5f077:
 
     # mx "Te haré mío..."
-    mx ""
+    mx "Ich mach dich zu meinem..."
 
 # game/hmaxy.rpy:5246
 translate german PA_HM_EV18_aa1f57fb:
 
     # mc "Creo que esta conversación está escalando de manera peligrosa."
-    mc ""
+    mc "Ich finde, dieses Gespräch wird langsam gefährlich."
 
 # game/hmaxy.rpy:5248
 translate german PA_HM_EV18_b3ca9010:
 
     # mx "¿Y qué tiene de malo?"
-    mx ""
+    mx "Und was ist daran schlimm?"
 
 # game/hmaxy.rpy:5249
 translate german PA_HM_EV18_d1de6b84:
 
     # mx "Podríamos hacer cosas pecaminosas..."
-    mx ""
+    mx "Wir könnten was Verbotenes machen..."
 
 # game/hmaxy.rpy:5250
 translate german PA_HM_EV18_708533d6:
 
     # mx "Entre tu y yo..."
-    mx ""
+    mx "Zwischen dir und mir..."
 
 # game/hmaxy.rpy:5252
 translate german PA_HM_EV18_25ed98d1:
 
     # mx "UHMmmm..."
-    mx ""
+    mx "Uuuuhh..."
 
 # game/hmaxy.rpy:5254
 translate german PA_HM_EV18_6c7a5ddf:
 
     # mx "Ahora me siento emocionada."
-    mx ""
+    mx "Jetzt bin ich aufgeregt."
 
 # game/hmaxy.rpy:5255
 translate german PA_HM_EV18_207d2a6d:
 
     # mx "Tengo un plan macabro preparado..."
-    mx ""
+    mx "Ich hab einen fiesen Plan im Kopf..."
 
 # game/hmaxy.rpy:5257
 translate german PA_HM_EV18_eb84eb11:
 
     # mc "¿Plan macabro?"
-    mc ""
+    mc "Ein fieser Plan?"
 
 # game/hmaxy.rpy:5259
 translate german PA_HM_EV18_da434292:
 
     # mx "Te daré una sorpresa."
-    mx ""
+    mx "Ich werde dich überraschen."
 
 # game/hmaxy.rpy:5261
 translate german PA_HM_EV18_c682e999:
 
     # mc "¿No me vas a decir cual?"
-    mc ""
+    mc "Willst du mir nicht sagen, welchen?"
 
 # game/hmaxy.rpy:5263
 translate german PA_HM_EV18_2be58349:
 
     # mx "Entonces no sería una sorpresa..."
-    mx ""
+    mx "Dann wäre es keine Überraschung..."
 
 # game/hmaxy.rpy:5264
 translate german PA_HM_EV18_56c44bca:
 
     # mx "Te prometo que te va a gustar."
-    mx ""
+    mx "Ich verspreche dir, dass es dir gefallen wird."
 
 # game/hmaxy.rpy:5265
 translate german PA_HM_EV18_f74f9e5f:
 
     # mx "Y si no te gusta..."
-    mx ""
+    mx "Und wenn es dir nicht gefällt..."
 
 # game/hmaxy.rpy:5266
 translate german PA_HM_EV18_9c58566f:
 
     # mx "Yo por lo menos, lo voy a disfrutar."
-    mx ""
+    mx "Dann geniesse ich es einfach."
 
 # game/hmaxy.rpy:5268
 translate german PA_HM_EV18_79606958:
 
     # mc "No me gustan las sorpresas."
-    mc ""
+    mc "Ich mag keine Überraschungen."
 
 # game/hmaxy.rpy:5270
 translate german PA_HM_EV18_9f68852c:
 
     # mx "Pasará cuando menos te lo esperes."
-    mx ""
+    mx "Es wird passieren, wenn du es am wenigsten erwartest."
 
 # game/hmaxy.rpy:5271
 translate german PA_HM_EV18_3bfb1b5b:
 
     # mx "Ahora ve a descansar... Te va ha hacer falta..."
-    mx ""
+    mx "Jetzt ruh dich aus... Du wirst es brauchen..."
 
 # game/hmaxy.rpy:5290
 translate german PA_HM_EV19_149e2f0a:
 
     # mx "Me encanta ver tu carita mientras duermes, Lucky boy."
-    mx ""
+    mx "Ich liebe es, dein Gesicht zu sehen, während du schläfst, Lucky Boy."
 
 # game/hmaxy.rpy:5291
 translate german PA_HM_EV19_a424e69a:
 
     # mx "Estabas cansado..."
-    mx ""
+    mx "Du warst müde..."
 
 # game/hmaxy.rpy:5293
 translate german PA_HM_EV19_cb703d5f:
 
     # mx "Aunque tu amiguito está bastante despierto."
-    mx ""
+    mx "Obwohl dein kleiner Freund ziemlich wach ist."
 
 # game/hmaxy.rpy:5294
 translate german PA_HM_EV19_3109b409:
 
     # mx "Y duro..."
-    mx ""
+    mx "Und hart..."
 
 # game/hmaxy.rpy:5296
 translate german PA_HM_EV19_a9ec8b36:
 
     # mc "¿Maxy?"
-    mc ""
+    mc "Maxy?"
 
 # game/hmaxy.rpy:5298
 translate german PA_HM_EV19_1d77fd28:
 
     # mx "Buenos días cariño."
-    mx ""
+    mx "Guten Morgen, Liebling."
 
 # game/hmaxy.rpy:5299
 translate german PA_HM_EV19_3e4e3f8b:
 
     # mx "Vengo a darte un poco de amor rockero."
-    mx ""
+    mx "Ich bin hier, um dir ein bisschen Rocker-Liebe zu geben."
 
 # game/hmaxy.rpy:5300
 translate german PA_HM_EV19_85e9c926:
 
     # mx "No olvides la pasión..."
-    mx ""
+    mx "Vergiss die Leidenschaft nicht..."
 
 # game/hmaxy.rpy:5302
 translate german PA_HM_EV19_46976ced:
 
     # mx "Y lo mejor de todo esto es que te tengo a mi merced."
-    mx ""
+    mx "Und das Beste daran ist, dass ich dich in meiner Gewalt habe."
 
 # game/hmaxy.rpy:5304
 translate german PA_HM_EV19_2571bc65:
 
     # mc "No puedo mover los brazos."
-    mc ""
+    mc "Ich kann meine Arme nicht bewegen."
 
 # game/hmaxy.rpy:5306
 translate german PA_HM_EV19_cabadcd1:
 
     # mx "Te los amarré..."
-    mx ""
+    mx "Ich hab sie dir festgebunden..."
 
 # game/hmaxy.rpy:5307
 translate german PA_HM_EV19_dca31c8b:
 
     # mx "Lo único que podrías hacer en esta situación es gritar."
-    mx ""
+    mx "Das Einzige, was du in dieser Situation tun kannst, ist schreien."
 
 # game/hmaxy.rpy:5308
 translate german PA_HM_EV19_0b2ca0d3:
 
     # mx "Pero no creo que quieras que la ternurita nos vea haciendo maldades."
-    mx ""
+    mx "Aber ich glaube nicht, dass du willst, dass die Kleine uns dabei zusieht, wie wir vögeln."
 
 # game/hmaxy.rpy:5309
 translate german PA_HM_EV19_d45f35a8:
 
     # mx "O quizás si, Lucky boy..."
-    mx ""
+    mx "Oder vielleicht doch, Lucky boy..."
 
 # game/hmaxy.rpy:5311
 translate german PA_HM_EV19_9fdd393d:
 
     # mc "¿Este era tu plan macabro?"
-    mc ""
+    mc "War das dein fieser Plan?"
 
 # game/hmaxy.rpy:5312
 translate german PA_HM_EV19_e482b5b4:
 
     # mx "UHMmmmm..."
-    mx ""
+    mx "Hmmmm..."
 
 # game/hmaxy.rpy:5314
 translate german PA_HM_EV19_3f3caa9c:
 
     # mx "Puede ser...{w}O puede que no..."
-    mx ""
+    mx "Vielleicht...{w}Oder vielleicht auch nicht..."
 
 # game/hmaxy.rpy:5315
 translate german PA_HM_EV19_b4d406d6:
 
     # mx "Lo importante en este momento es que no puedes hacer nada."
-    mx ""
+    mx "Das Wichtigste im Moment ist, dass du nichts tun kannst."
 
 # game/hmaxy.rpy:5316
 translate german PA_HM_EV19_e72e8dfe:
 
     # mx "Y estamos desnudos..."
-    mx ""
+    mx "Und wir sind nackt..."
 
 # game/hmaxy.rpy:5318
 translate german PA_HM_EV19_2a08d42e:
 
     # mx "Podríamos hacer cosas sucias..."
-    mx ""
+    mx "Wir könnten schmutzige Dinge tun..."
 
 # game/hmaxy.rpy:5319
 translate german PA_HM_EV19_dd3bf450:
 
     # mx "¿Qué dices?"
-    mx ""
+    mx "Was meinst du?"
 
 # game/hmaxy.rpy:5321
 translate german PA_HM_EV19_a74d7514:
 
     # mx "¡No respondas!"
-    mx ""
+    mx "Antworte nicht!"
 
 # game/hmaxy.rpy:5322
 translate german PA_HM_EV19_31769753:
 
     # mx "Lo voy a hacer de todas maneras."
-    mx ""
+    mx "Ich werde es auf jeden Fall tun."
 
 # game/hmaxy.rpy:5323
 translate german PA_HM_EV19_cebaba17:
 
     # mx "Estoy muy excitada..."
-    mx ""
+    mx "Ich bin total aufgeregt..."
 
 # game/hmaxy.rpy:5324
 translate german PA_HM_EV19_0660c352:
 
     # mx "Y tu también..."
-    mx ""
+    mx "Und du auch..."
 
 # game/hmaxy.rpy:5326
 translate german PA_HM_EV19_fc039515:
 
     # mx "Tu amiguito está muy duro..."
-    mx ""
+    mx "Dein kleiner Freund ist sehr hart..."
 
 # game/hmaxy.rpy:5327
 translate german PA_HM_EV19_d8cf902f:
 
     # mx "Podríamos hacer un bebé."
-    mx ""
+    mx "Wir könnten ein Baby bekommen."
 
 # game/hmaxy.rpy:5329
 translate german PA_HM_EV19_328cc834:
 
     # mx "Que romántico sería..."
-    mx ""
+    mx "Wie romantisch wäre das denn..."
 
 # game/hmaxy.rpy:5330
 translate german PA_HM_EV19_0102d19c:
 
     # mx "¿Qué opinas, Lucky boy?"
-    mx ""
+    mx "Was meinst du, Lucky Boy?"
 
 # game/hmaxy.rpy:5334
 translate german PA_HM_EV19_ce4bd440:
 
     # mc "Podría tener tus ojos."
-    mc ""
+    mc "Er könnte deine Augen haben."
 
 # game/hmaxy.rpy:5346
 translate german PA_HM_EV19_65d815e0:
 
     # mx "¡Que lindo eres!"
-    mx ""
+    mx "Du bist so süss!"
 
 # game/hmaxy.rpy:5347
 translate german PA_HM_EV19_2eb73677:
 
     # mx "Cuando dices ese tipo de cosas..."
-    mx ""
+    mx "Wenn du solche Dinge sagst..."
 
 # game/hmaxy.rpy:5348
 translate german PA_HM_EV19_5644a0cc:
 
     # mx "Haces que me enamoré más de ti."
-    mx ""
+    mx "Hast du mich dazu gebracht, mich nurnoch mehr in dich zu verlieben."
 
 # game/hmaxy.rpy:5351
 translate german PA_HM_EV19_42768c45:
 
     # mc "¡No quiero tener un hijo!"
-    mc ""
+    mc "Ich will kein Kind haben!"
 
 # game/hmaxy.rpy:5353
 translate german PA_HM_EV19_b7dc96aa:
 
     # mx "¡Qué malo eres!"
-    mx ""
+    mx "Wie gemein du bist!"
 
 # game/hmaxy.rpy:5355
 translate german PA_HM_EV19_84be29ca:
 
     # mx "Pero no importa."
-    mx ""
+    mx "Aber das macht nichts."
 
 # game/hmaxy.rpy:5356
 translate german PA_HM_EV19_cdefc382:
 
     # mx "Tu eres el que está indefenso y amarrado."
-    mx ""
+    mx "Du bist derjenige, der hilflos und gefesselt ist."
 
 # game/hmaxy.rpy:5359
 translate german PA_HM_EV19_ce8a42e2:
 
     # mx "Ahora voy a..."
-    mx ""
+    mx "Jetzt werde ich..."
 
 # game/hmaxy.rpy:5360
 translate german PA_HM_EV19_ba922f75:
 
     # mx "Ven aquí mi semental."
-    mx ""
+    mx "Komm her, mein Hengst."
 
 # game/hmaxy.rpy:5362
 translate german PA_HM_EV19_3b26daa0:
 
     # mx "¡Ahh!"
-    mx ""
+    mx "Ahh!"
 
 # game/hmaxy.rpy:5368
 translate german PA_HM_EV19_cc9b8507:
 
     # mx "Que rico se siente."
-    mx ""
+    mx "Das fühlt sich echt geil an."
 
 # game/hmaxy.rpy:5370
 translate german PA_HM_EV19_88abf4b8:
 
     # mx "Me llenas por completo..."
-    mx ""
+    mx "Du füllst mich total aus..."
 
 # game/hmaxy.rpy:5371
 translate german PA_HM_EV19_dfb0baf5:
 
     # mx "Estoy tan mojada que entró sin problemas."
-    mx ""
+    mx "Ich bin so feucht, dass er problemlos hineinglitt."
 
 # game/hmaxy.rpy:5372
 translate german PA_HM_EV19_b9ee4828:
