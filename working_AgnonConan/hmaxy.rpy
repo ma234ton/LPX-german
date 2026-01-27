@@ -28,7 +28,7 @@ translate german crea3_boobjobmaxy3_a64a0039:
 translate german crea3_boobjobmaxy3_28729b2c:
 
     # mx "Tengo a mis pequeñas cubiertas de ti."
-    mx "Ich hab meine Kleinen vor dir beschützt."
+    mx "Deine kleinen sind in guten Händen."
 
 # game/hmaxy.rpy:249
 translate german crea3_boobjobmaxy3_faf80e53:
